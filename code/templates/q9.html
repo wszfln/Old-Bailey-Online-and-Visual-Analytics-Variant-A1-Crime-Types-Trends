@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 9: How did technology (e.g., the advent of railways) influence crime patterns?</h2>
+
+<label for="q9_selector">Select Technology:</label>
+<select id="q9_selector"></select>
+
+<br>
+
+<label for="q9_mode_selector">Display Mode:</label>
+<select id="q9_mode_selector">
+  <option value="count">Count</option>
+  <option value="proportion">Proportion</option>
+</select>
+
+<div id="q9_info" style="margin: 10px 0; font-weight: bold;"></div>
+
+<div id="q9_chart"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q9.js') }}"></script>
+{% endblock %}

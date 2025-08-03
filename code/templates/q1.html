@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 1: How did the frequency of different crime types (theft, murder, fraud, etc.) change from 1674 to 1913?</h2>
+<p>Please select the category you want to view:</p>
+<label>Category:</label>
+<select id="categorySelector">
+  <option value="category">Offence Category</option>
+  <option value="subcategory">Offence Subcategory</option>
+</select>
+
+<div id="filterCheckboxes"></div>
+<div id="subcategoryCheckboxes"></div>
+
+<div id="chart"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q1.js') }}"></script>
+{% endblock %}

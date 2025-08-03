@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 6: What were the most frequent crimes committed by individuals under 18?</h2>
+<p>The defendants age has a missing rate of 40.21%. Users can check 'Predicted Data' to view the predicted data.</p>
+
+<label><input type="checkbox" id="originalCheckbox" checked> Original Data</label>
+<label><input type="checkbox" id="predictedCheckbox"> Predicted Data</label>
+
+<p>Please select the category type you want to view:</p>
+<label>Category:</label>
+<select id="q6CategorySelector">
+  <option value="category">Offence Category</option>
+  <option value="subcategory">Offence Subcategory</option>
+</select>
+
+
+<div id="q6_chart"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q6.js') }}"></script>
+{% endblock %}

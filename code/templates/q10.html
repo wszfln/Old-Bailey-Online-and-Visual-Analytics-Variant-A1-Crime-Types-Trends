@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 10: What was the relationship between alcohol-related crimes (e.g., public drunkenness, assault) and public policies like the Gin Act?</h2>
+
+<p>The shaded areas indicate periods of alcohol policy. Select a category below to explore trends and proportions.</p>
+
+<div>
+  <label for="q10Selector">Select Category:</label>
+  <select id="q10Selector">
+    <option value="all" selected>All (Total Alcohol Crimes)</option>
+    <option value="breakingPeace">Breaking Peace</option>
+    <option value="sexual">Sexual</option>
+    <option value="miscellaneous">Miscellaneous</option>
+    <option value="theft">Theft</option>
+    <option value="violentTheft">Violent Theft</option>
+    <option value="royalOffences">Royal Of Fences</option>
+    <option value="kill">Kill</option>
+    <option value="deception">Deception</option>
+  </select>
+</div>
+
+<label style="margin-left: 20px;">
+    <input type="checkbox" id="subcategoryToggle"> Show Subcategories
+  </label>
+</div>
+
+<div id="q10_chart"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q10.js') }}"></script>
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 5: How did the rate of property crimes (e.g., theft, burglary) vary during periods of economic hardship?</h2>
+<p>The economic hardship periods are highlighted in the chart. Click on a shaded region to view the property crime composition.</p>
+
+<div>
+  <p>Please select the category you want to view:</p>
+  <label><input type="checkbox" class="crime-toggle" value="all" checked> All Property Crimes</label>
+  <label><input type="checkbox" class="crime-toggle" value="theft"> Theft</label>
+  <label><input type="checkbox" class="crime-toggle" value="deception"> Deception</label>
+  <label><input type="checkbox" class="crime-toggle" value="damage"> Damage</label>
+  <label><input type="checkbox" class="crime-toggle" value="violentTheft"> Violent Theft</label>
+</div>
+
+<div id="q5_chart"></div>
+
+<div id="q5_pie_container">
+  <div id="non_crisis_pie"></div>
+  <div id="crisis_pie"></div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q5.js') }}"></script>
+{% endblock %}

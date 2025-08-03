@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 2: What was the trend in the proportion of violent crimes (e.g., assault, murder) vs. non-violent crimes (e.g., theft, fraud)?</h2>
+<div id="q2_category_info" style="margin-bottom: 20px; font-size: 14px; line-height: 1.6;"></div>
+<div id="q2_chart" ></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q2.js') }}"></script>
+{% endblock %}

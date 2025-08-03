@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 3: How did the occurrence of capital crimes change across the centuries?</h2>
+<p>The sentences result has a missing rate of 26.10%. Users can check 'Predicted Data' to view the predicted data.</p>
+<p>The following figure shows the missing values of age in the year.</p>
+<div id="missingRates"></div>
+<div>
+  <label><input type="checkbox" id="originalCheckbox" checked> Original Data</label>
+  <label><input type="checkbox" id="predictedCheckbox"> Predicted Data</label>
+</div>
+<p>Please select the category you want to view:</p>
+<div id="categoryDropdown"></div>
+<div id="q3_chart"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q3.js') }}"></script>
+{% endblock %}

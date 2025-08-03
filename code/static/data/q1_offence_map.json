@@ -1,0 +1,87 @@
+{
+  "Unknown": [
+    "Unknown"
+  ],
+  "breakingPeace": [
+    "wounding",
+    "riot",
+    "assault",
+    "vagabond",
+    "other",
+    "libel",
+    "threateningBehaviour",
+    "barratry"
+  ],
+  "damage": [
+    "arson",
+    "other"
+  ],
+  "deception": [
+    "forgery",
+    "fraud",
+    "perjury",
+    "other",
+    "bankrupcy"
+  ],
+  "kill": [
+    "infanticide",
+    "murder",
+    "other",
+    "pettyTreason",
+    "manslaughter"
+  ],
+  "miscellaneous": [
+    "pervertingJustice",
+    "other",
+    "kidnapping",
+    "conspiracy",
+    "returnFromTransportation",
+    "piracy",
+    "illegalAbortion",
+    "concealingABirth",
+    "habitualCriminal"
+  ],
+  "royalOffences": [
+    "religiousOffences",
+    "coiningOffences",
+    "seditiousWords",
+    "other",
+    "treason",
+    "seditiousLibel",
+    "taxOffences",
+    "seducingAllegiance"
+  ],
+  "sexual": [
+    "rape",
+    "bigamy",
+    "sodomy",
+    "keepingABrothel",
+    "other",
+    "assaultWithIntent",
+    "assaultWithSodomiticalIntent",
+    "indecentAssault"
+  ],
+  "theft": [
+    "grandLarceny",
+    "burglary",
+    "other",
+    "housebreaking",
+    "animalTheft",
+    "theftFromPlace",
+    "pocketpicking",
+    "pettyLarceny",
+    "receiving",
+    "shoplifting",
+    "embezzlement",
+    "extortion",
+    "gameLawOffence",
+    "mail",
+    "stealingFromMaster",
+    "simpleLarceny"
+  ],
+  "violentTheft": [
+    "highwayRobbery",
+    "robbery",
+    "other"
+  ]
+}

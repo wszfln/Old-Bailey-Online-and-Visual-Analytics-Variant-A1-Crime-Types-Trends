@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 8: How did the ratio of "crimes of necessity" (e.g., theft, food stealing) change during times of famine or high unemployment?</h2>
+
+<p>The shaded areas indicate periods of famine or high unemployment. Select a category below to explore trends and proportions.</p>
+
+<div>
+  <label for="q8Selector">Select Category:</label>
+  <select id="q8Selector">
+    <option value="all" selected>All (Total Necessity Crimes)</option>
+    <option value="theft">Theft</option>
+    <option value="violentTheft">Violent Theft</option>
+    <option value="sexual">Sexual</option>
+    <option value="royalOffences">Royal Of Fences</option>
+    <option value="miscellaneous">Miscellaneous</option>
+    <option value="kill">Kill</option>
+    <option value="deception">Deception</option>
+    <option value="breakingPeace">Breaking Peace</option>
+  </select>
+</div>
+
+<label style="margin-left: 20px;">
+    <input type="checkbox" id="subcategoryToggle"> Show Subcategories
+  </label>
+</div>
+
+<div id="q8_chart"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q8.js') }}"></script>
+{% endblock %}

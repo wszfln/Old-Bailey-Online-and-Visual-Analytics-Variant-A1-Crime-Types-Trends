@@ -1,0 +1,33 @@
+{
+  "violent": {
+    "categories": [
+      "breakingPeace",
+      "kill",
+      "sexual",
+      "violentTheft",
+      "miscellaneous"
+    ],
+    "subcategories_miscellaneous": [
+      "kidnapping",
+      "illegalAbortion"
+    ]
+  },
+  "nonViolent": {
+    "categories": [
+      "theft",
+      "deception",
+      "damage",
+      "royalOffences",
+      "miscellaneous"
+    ],
+    "subcategories_miscellaneous": [
+      "concealingABirth",
+      "conspiracy",
+      "habitualCriminal",
+      "pervertingJustice",
+      "piracy",
+      "returnFromTransportation",
+      "other"
+    ]
+  }
+}

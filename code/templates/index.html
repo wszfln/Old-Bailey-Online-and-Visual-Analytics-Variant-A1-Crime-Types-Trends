@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+  <section class="hero">
+    <img src="{{ url_for('static', filename='images/oldBailey.jpg') }}" alt="Old Bailey" class="hero-img">
+    <div class="hero-text">
+      <h2>Old Bailey Online Profile</h2>
+      <p>
+        OThis is a comprehensive digital archive of over 197,752 criminal trial records held at London's Central 
+        Criminal Court between 1674 and 1913, providing insights into crime, justice and society. This site provides 
+        a rich resource for searching for patterns in crime types, demographics, legal outcomes, and more.
+      </p>
+      <a href="https://www.oldbaileyonline.org/" target="_blank">Visit official website: Old Bailey Online</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Project Introduction</h2>
+    <p>
+      This project, "Old Bailey Online and Visual Analytics - Variant A1: Exploring Crime Types & Trends (1674-1913)", 
+      aims to systematically study the criminal trial records on the website of the Central Criminal Court in London 
+      (Old Bailey) from 1674 to 1913 by using data science and visual analysis techniques. Through the analysis and 
+      visualization of historical crime data, the project not only hopes to reveal the evolution trend of different 
+      types of crimes in the past 240 years, but also attempts to explore the social, legal, economic and technological 
+      changes reflected behind them, and finally build an interactive web visual analysis platform to provide new historical 
+      data to the public, researchers and policy makers.
+    </p>
+  </section>
+
+  <section>
+    <h2>Research Questions</h2>
+    <div class="grid">
+      <div class="card"><a href="/q1">1. How did the frequency of different crime types (theft, murder, fraud, etc.) change from 1674 to 1913?</a></div>
+      <div class="card"><a href="/q2">2. What was the trend in the proportion of violent crimes (e.g., assault, murder) vs. non-violent crimes (e.g., theft, fraud)?</a></div>
+      <div class="card"><a href="/q3">3. How did the occurrence of capital crimes change across the centuries?</a></div>
+      <div class="card"><a href="/q4">4. Which crime categories had the highest conviction rates?</a></div>
+      <div class="card"><a href="/q5">5. How did the rate of property crimes (e.g., theft, burglary) vary during periods of economic hardship?</a></div>
+      <div class="card"><a href="/q6">6. What were the most frequent crimes committed by individuals under 18?</a></div>
+      <div class="card"><a href="/q7">7. What was the impact of industrialization on crime rates in London?</a></div>
+      <div class="card"><a href="/q8">8. How did the ratio of "crimes of necessity" (e.g., theft, food stealing) change during times of famine or high unemployment?</a></div>
+      <div class="card"><a href="/q9">9. How did technology (e.g., the advent of railways) influence crime patterns?</a></div>
+      <div class="card"><a href="/q10">10. What was the relationship between alcohol-related crimes (e.g., public drunkenness, assault) and public policies like the Gin Act?</a></div>
+    </div>
+  </section>
+{% endblock %}

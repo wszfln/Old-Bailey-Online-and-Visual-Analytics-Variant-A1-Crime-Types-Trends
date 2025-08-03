@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 4: Which crime categories had the highest conviction rates?</h2>
+<p>Please select the category/subcategory you want to view, and click the category bar can see the proportion of subcategories:</p>
+<select id="modeSelector">
+  <option value="category">Offence Category</option>
+  <option value="subcategory">Offence Subcategory</option>
+</select>
+
+<div id="q4_chart"></div>
+<div id="subcategory_pie" style="margin-top:40px; display: flex; flex-direction: column; align-items: center; text-align: center;"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q4.js') }}"></script>
+{% endblock %}

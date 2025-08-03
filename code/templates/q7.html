@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Question 7: What was the impact of industrialization on crime rates in London?</h2>
+
+<label for="q7Selector">Select View:</label>
+<select id="q7Selector">
+  <option value="total_trend">Overall Crime Trend</option>
+  <option value="crime_structure">Crime Structure (Violent vs Property)</option>
+  <option value="age_structure">Offender Age Structure</option>
+</select>
+
+<div id="q7_toggle_container">
+  <input type="checkbox" id="q7_category_toggle">
+  <label for="q7_category_toggle">Show Crime Categories (for Overall Trend)</label>
+</div>
+
+<div id="q7_chart"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="{{ url_for('static', filename='js/q7.js') }}"></script>
+{% endblock %}

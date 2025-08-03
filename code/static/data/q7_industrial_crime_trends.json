@@ -1,0 +1,7410 @@
+{
+  "industrial_stages": [
+    {
+      "name": "Pre-Industrialisation",
+      "start": 1674,
+      "end": 1779
+    },
+    {
+      "name": "Early Industrialisation",
+      "start": 1780,
+      "end": 1839
+    },
+    {
+      "name": "Mature Industrialisation",
+      "start": 1840,
+      "end": 1869
+    },
+    {
+      "name": "Post-Industrialisation",
+      "start": 1870,
+      "end": 1913
+    }
+  ],
+  "total_trend": [
+    {
+      "year": 1674,
+      "count": 36
+    },
+    {
+      "year": 1675,
+      "count": 50
+    },
+    {
+      "year": 1676,
+      "count": 86
+    },
+    {
+      "year": 1677,
+      "count": 82
+    },
+    {
+      "year": 1678,
+      "count": 123
+    },
+    {
+      "year": 1679,
+      "count": 114
+    },
+    {
+      "year": 1680,
+      "count": 109
+    },
+    {
+      "year": 1681,
+      "count": 128
+    },
+    {
+      "year": 1682,
+      "count": 157
+    },
+    {
+      "year": 1683,
+      "count": 201
+    },
+    {
+      "year": 1684,
+      "count": 306
+    },
+    {
+      "year": 1685,
+      "count": 357
+    },
+    {
+      "year": 1686,
+      "count": 302
+    },
+    {
+      "year": 1687,
+      "count": 391
+    },
+    {
+      "year": 1688,
+      "count": 278
+    },
+    {
+      "year": 1689,
+      "count": 281
+    },
+    {
+      "year": 1690,
+      "count": 322
+    },
+    {
+      "year": 1691,
+      "count": 285
+    },
+    {
+      "year": 1692,
+      "count": 248
+    },
+    {
+      "year": 1693,
+      "count": 467
+    },
+    {
+      "year": 1694,
+      "count": 319
+    },
+    {
+      "year": 1695,
+      "count": 340
+    },
+    {
+      "year": 1696,
+      "count": 321
+    },
+    {
+      "year": 1697,
+      "count": 310
+    },
+    {
+      "year": 1698,
+      "count": 351
+    },
+    {
+      "year": 1699,
+      "count": 181
+    },
+    {
+      "year": 1700,
+      "count": 124
+    },
+    {
+      "year": 1702,
+      "count": 69
+    },
+    {
+      "year": 1703,
+      "count": 72
+    },
+    {
+      "year": 1704,
+      "count": 117
+    },
+    {
+      "year": 1706,
+      "count": 1
+    },
+    {
+      "year": 1707,
+      "count": 164
+    },
+    {
+      "year": 1708,
+      "count": 166
+    },
+    {
+      "year": 1709,
+      "count": 99
+    },
+    {
+      "year": 1710,
+      "count": 174
+    },
+    {
+      "year": 1711,
+      "count": 167
+    },
+    {
+      "year": 1712,
+      "count": 169
+    },
+    {
+      "year": 1713,
+      "count": 113
+    },
+    {
+      "year": 1714,
+      "count": 285
+    },
+    {
+      "year": 1715,
+      "count": 469
+    },
+    {
+      "year": 1716,
+      "count": 416
+    },
+    {
+      "year": 1717,
+      "count": 404
+    },
+    {
+      "year": 1718,
+      "count": 409
+    },
+    {
+      "year": 1719,
+      "count": 393
+    },
+    {
+      "year": 1720,
+      "count": 408
+    },
+    {
+      "year": 1721,
+      "count": 489
+    },
+    {
+      "year": 1722,
+      "count": 435
+    },
+    {
+      "year": 1723,
+      "count": 424
+    },
+    {
+      "year": 1724,
+      "count": 531
+    },
+    {
+      "year": 1725,
+      "count": 604
+    },
+    {
+      "year": 1726,
+      "count": 522
+    },
+    {
+      "year": 1727,
+      "count": 456
+    },
+    {
+      "year": 1728,
+      "count": 485
+    },
+    {
+      "year": 1729,
+      "count": 562
+    },
+    {
+      "year": 1730,
+      "count": 554
+    },
+    {
+      "year": 1731,
+      "count": 517
+    },
+    {
+      "year": 1732,
+      "count": 478
+    },
+    {
+      "year": 1733,
+      "count": 441
+    },
+    {
+      "year": 1734,
+      "count": 411
+    },
+    {
+      "year": 1735,
+      "count": 529
+    },
+    {
+      "year": 1736,
+      "count": 489
+    },
+    {
+      "year": 1737,
+      "count": 436
+    },
+    {
+      "year": 1738,
+      "count": 358
+    },
+    {
+      "year": 1739,
+      "count": 459
+    },
+    {
+      "year": 1740,
+      "count": 440
+    },
+    {
+      "year": 1741,
+      "count": 499
+    },
+    {
+      "year": 1742,
+      "count": 392
+    },
+    {
+      "year": 1743,
+      "count": 447
+    },
+    {
+      "year": 1744,
+      "count": 383
+    },
+    {
+      "year": 1745,
+      "count": 300
+    },
+    {
+      "year": 1746,
+      "count": 348
+    },
+    {
+      "year": 1747,
+      "count": 355
+    },
+    {
+      "year": 1748,
+      "count": 481
+    },
+    {
+      "year": 1749,
+      "count": 577
+    },
+    {
+      "year": 1750,
+      "count": 539
+    },
+    {
+      "year": 1751,
+      "count": 499
+    },
+    {
+      "year": 1752,
+      "count": 456
+    },
+    {
+      "year": 1753,
+      "count": 460
+    },
+    {
+      "year": 1754,
+      "count": 436
+    },
+    {
+      "year": 1755,
+      "count": 353
+    },
+    {
+      "year": 1756,
+      "count": 365
+    },
+    {
+      "year": 1757,
+      "count": 354
+    },
+    {
+      "year": 1758,
+      "count": 321
+    },
+    {
+      "year": 1759,
+      "count": 274
+    },
+    {
+      "year": 1760,
+      "count": 283
+    },
+    {
+      "year": 1761,
+      "count": 325
+    },
+    {
+      "year": 1762,
+      "count": 291
+    },
+    {
+      "year": 1763,
+      "count": 417
+    },
+    {
+      "year": 1764,
+      "count": 523
+    },
+    {
+      "year": 1765,
+      "count": 426
+    },
+    {
+      "year": 1766,
+      "count": 464
+    },
+    {
+      "year": 1767,
+      "count": 486
+    },
+    {
+      "year": 1768,
+      "count": 496
+    },
+    {
+      "year": 1769,
+      "count": 495
+    },
+    {
+      "year": 1770,
+      "count": 532
+    },
+    {
+      "year": 1771,
+      "count": 640
+    },
+    {
+      "year": 1772,
+      "count": 661
+    },
+    {
+      "year": 1773,
+      "count": 673
+    },
+    {
+      "year": 1774,
+      "count": 673
+    },
+    {
+      "year": 1775,
+      "count": 617
+    },
+    {
+      "year": 1776,
+      "count": 608
+    },
+    {
+      "year": 1777,
+      "count": 600
+    },
+    {
+      "year": 1778,
+      "count": 608
+    },
+    {
+      "year": 1779,
+      "count": 381
+    },
+    {
+      "year": 1780,
+      "count": 533
+    },
+    {
+      "year": 1781,
+      "count": 528
+    },
+    {
+      "year": 1782,
+      "count": 625
+    },
+    {
+      "year": 1783,
+      "count": 885
+    },
+    {
+      "year": 1784,
+      "count": 1056
+    },
+    {
+      "year": 1785,
+      "count": 916
+    },
+    {
+      "year": 1786,
+      "count": 932
+    },
+    {
+      "year": 1787,
+      "count": 825
+    },
+    {
+      "year": 1788,
+      "count": 741
+    },
+    {
+      "year": 1789,
+      "count": 851
+    },
+    {
+      "year": 1790,
+      "count": 723
+    },
+    {
+      "year": 1791,
+      "count": 421
+    },
+    {
+      "year": 1792,
+      "count": 591
+    },
+    {
+      "year": 1793,
+      "count": 705
+    },
+    {
+      "year": 1794,
+      "count": 626
+    },
+    {
+      "year": 1795,
+      "count": 536
+    },
+    {
+      "year": 1796,
+      "count": 633
+    },
+    {
+      "year": 1797,
+      "count": 554
+    },
+    {
+      "year": 1798,
+      "count": 597
+    },
+    {
+      "year": 1799,
+      "count": 586
+    },
+    {
+      "year": 1800,
+      "count": 837
+    },
+    {
+      "year": 1801,
+      "count": 835
+    },
+    {
+      "year": 1802,
+      "count": 913
+    },
+    {
+      "year": 1803,
+      "count": 745
+    },
+    {
+      "year": 1804,
+      "count": 599
+    },
+    {
+      "year": 1805,
+      "count": 727
+    },
+    {
+      "year": 1806,
+      "count": 658
+    },
+    {
+      "year": 1807,
+      "count": 743
+    },
+    {
+      "year": 1808,
+      "count": 775
+    },
+    {
+      "year": 1809,
+      "count": 928
+    },
+    {
+      "year": 1810,
+      "count": 912
+    },
+    {
+      "year": 1811,
+      "count": 926
+    },
+    {
+      "year": 1812,
+      "count": 1030
+    },
+    {
+      "year": 1813,
+      "count": 1079
+    },
+    {
+      "year": 1814,
+      "count": 1080
+    },
+    {
+      "year": 1815,
+      "count": 1144
+    },
+    {
+      "year": 1816,
+      "count": 1322
+    },
+    {
+      "year": 1817,
+      "count": 1600
+    },
+    {
+      "year": 1818,
+      "count": 1580
+    },
+    {
+      "year": 1819,
+      "count": 1587
+    },
+    {
+      "year": 1820,
+      "count": 1548
+    },
+    {
+      "year": 1821,
+      "count": 1360
+    },
+    {
+      "year": 1822,
+      "count": 1537
+    },
+    {
+      "year": 1823,
+      "count": 1511
+    },
+    {
+      "year": 1824,
+      "count": 1688
+    },
+    {
+      "year": 1825,
+      "count": 1803
+    },
+    {
+      "year": 1826,
+      "count": 2141
+    },
+    {
+      "year": 1827,
+      "count": 2214
+    },
+    {
+      "year": 1828,
+      "count": 2245
+    },
+    {
+      "year": 1829,
+      "count": 2105
+    },
+    {
+      "year": 1830,
+      "count": 2112
+    },
+    {
+      "year": 1831,
+      "count": 2206
+    },
+    {
+      "year": 1832,
+      "count": 2401
+    },
+    {
+      "year": 1833,
+      "count": 1491
+    },
+    {
+      "year": 1834,
+      "count": 1734
+    },
+    {
+      "year": 1835,
+      "count": 2238
+    },
+    {
+      "year": 1836,
+      "count": 2462
+    },
+    {
+      "year": 1837,
+      "count": 2527
+    },
+    {
+      "year": 1838,
+      "count": 2718
+    },
+    {
+      "year": 1839,
+      "count": 2822
+    },
+    {
+      "year": 1840,
+      "count": 2702
+    },
+    {
+      "year": 1841,
+      "count": 2791
+    },
+    {
+      "year": 1842,
+      "count": 3090
+    },
+    {
+      "year": 1843,
+      "count": 3100
+    },
+    {
+      "year": 1844,
+      "count": 2509
+    },
+    {
+      "year": 1845,
+      "count": 2196
+    },
+    {
+      "year": 1846,
+      "count": 2188
+    },
+    {
+      "year": 1847,
+      "count": 2582
+    },
+    {
+      "year": 1848,
+      "count": 2426
+    },
+    {
+      "year": 1849,
+      "count": 1990
+    },
+    {
+      "year": 1850,
+      "count": 1959
+    },
+    {
+      "year": 1851,
+      "count": 1799
+    },
+    {
+      "year": 1852,
+      "count": 1079
+    },
+    {
+      "year": 1853,
+      "count": 1135
+    },
+    {
+      "year": 1854,
+      "count": 1233
+    },
+    {
+      "year": 1855,
+      "count": 962
+    },
+    {
+      "year": 1856,
+      "count": 1108
+    },
+    {
+      "year": 1857,
+      "count": 1117
+    },
+    {
+      "year": 1858,
+      "count": 1029
+    },
+    {
+      "year": 1859,
+      "count": 972
+    },
+    {
+      "year": 1860,
+      "count": 902
+    },
+    {
+      "year": 1861,
+      "count": 949
+    },
+    {
+      "year": 1862,
+      "count": 1160
+    },
+    {
+      "year": 1863,
+      "count": 1173
+    },
+    {
+      "year": 1864,
+      "count": 1011
+    },
+    {
+      "year": 1865,
+      "count": 1013
+    },
+    {
+      "year": 1866,
+      "count": 975
+    },
+    {
+      "year": 1867,
+      "count": 981
+    },
+    {
+      "year": 1868,
+      "count": 1019
+    },
+    {
+      "year": 1869,
+      "count": 964
+    },
+    {
+      "year": 1870,
+      "count": 833
+    },
+    {
+      "year": 1871,
+      "count": 823
+    },
+    {
+      "year": 1872,
+      "count": 742
+    },
+    {
+      "year": 1873,
+      "count": 703
+    },
+    {
+      "year": 1874,
+      "count": 720
+    },
+    {
+      "year": 1875,
+      "count": 705
+    },
+    {
+      "year": 1876,
+      "count": 815
+    },
+    {
+      "year": 1877,
+      "count": 822
+    },
+    {
+      "year": 1878,
+      "count": 903
+    },
+    {
+      "year": 1879,
+      "count": 936
+    },
+    {
+      "year": 1880,
+      "count": 852
+    },
+    {
+      "year": 1881,
+      "count": 936
+    },
+    {
+      "year": 1882,
+      "count": 1029
+    },
+    {
+      "year": 1883,
+      "count": 991
+    },
+    {
+      "year": 1884,
+      "count": 1124
+    },
+    {
+      "year": 1885,
+      "count": 948
+    },
+    {
+      "year": 1886,
+      "count": 1098
+    },
+    {
+      "year": 1887,
+      "count": 1060
+    },
+    {
+      "year": 1888,
+      "count": 982
+    },
+    {
+      "year": 1889,
+      "count": 904
+    },
+    {
+      "year": 1890,
+      "count": 837
+    },
+    {
+      "year": 1891,
+      "count": 918
+    },
+    {
+      "year": 1892,
+      "count": 980
+    },
+    {
+      "year": 1893,
+      "count": 939
+    },
+    {
+      "year": 1894,
+      "count": 847
+    },
+    {
+      "year": 1895,
+      "count": 860
+    },
+    {
+      "year": 1896,
+      "count": 835
+    },
+    {
+      "year": 1897,
+      "count": 714
+    },
+    {
+      "year": 1898,
+      "count": 764
+    },
+    {
+      "year": 1899,
+      "count": 705
+    },
+    {
+      "year": 1900,
+      "count": 705
+    },
+    {
+      "year": 1901,
+      "count": 785
+    },
+    {
+      "year": 1902,
+      "count": 805
+    },
+    {
+      "year": 1903,
+      "count": 839
+    },
+    {
+      "year": 1904,
+      "count": 809
+    },
+    {
+      "year": 1905,
+      "count": 799
+    },
+    {
+      "year": 1906,
+      "count": 808
+    },
+    {
+      "year": 1907,
+      "count": 764
+    },
+    {
+      "year": 1908,
+      "count": 754
+    },
+    {
+      "year": 1909,
+      "count": 821
+    },
+    {
+      "year": 1910,
+      "count": 793
+    },
+    {
+      "year": 1911,
+      "count": 772
+    },
+    {
+      "year": 1912,
+      "count": 796
+    },
+    {
+      "year": 1913,
+      "count": 295
+    }
+  ],
+  "category_trend": [
+    {
+      "year": 1674,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 0,
+      "kill": 4,
+      "miscellaneous": 0,
+      "royalOffences": 2,
+      "sexual": 2,
+      "theft": 25,
+      "violentTheft": 3
+    },
+    {
+      "year": 1675,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 1,
+      "kill": 10,
+      "miscellaneous": 2,
+      "royalOffences": 0,
+      "sexual": 2,
+      "theft": 26,
+      "violentTheft": 8
+    },
+    {
+      "year": 1676,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 1,
+      "deception": 1,
+      "kill": 16,
+      "miscellaneous": 2,
+      "royalOffences": 2,
+      "sexual": 6,
+      "theft": 55,
+      "violentTheft": 3
+    },
+    {
+      "year": 1677,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 0,
+      "kill": 22,
+      "miscellaneous": 2,
+      "royalOffences": 6,
+      "sexual": 5,
+      "theft": 42,
+      "violentTheft": 4
+    },
+    {
+      "year": 1678,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 0,
+      "kill": 19,
+      "miscellaneous": 1,
+      "royalOffences": 11,
+      "sexual": 9,
+      "theft": 76,
+      "violentTheft": 6
+    },
+    {
+      "year": 1679,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 4,
+      "deception": 0,
+      "kill": 23,
+      "miscellaneous": 1,
+      "royalOffences": 12,
+      "sexual": 2,
+      "theft": 63,
+      "violentTheft": 8
+    },
+    {
+      "year": 1680,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 1,
+      "deception": 0,
+      "kill": 18,
+      "miscellaneous": 1,
+      "royalOffences": 14,
+      "sexual": 2,
+      "theft": 69,
+      "violentTheft": 4
+    },
+    {
+      "year": 1681,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 0,
+      "kill": 24,
+      "miscellaneous": 0,
+      "royalOffences": 6,
+      "sexual": 5,
+      "theft": 87,
+      "violentTheft": 6
+    },
+    {
+      "year": 1682,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 0,
+      "kill": 20,
+      "miscellaneous": 0,
+      "royalOffences": 3,
+      "sexual": 4,
+      "theft": 123,
+      "violentTheft": 6
+    },
+    {
+      "year": 1683,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 0,
+      "kill": 35,
+      "miscellaneous": 1,
+      "royalOffences": 17,
+      "sexual": 6,
+      "theft": 132,
+      "violentTheft": 8
+    },
+    {
+      "year": 1684,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 5,
+      "kill": 39,
+      "miscellaneous": 5,
+      "royalOffences": 26,
+      "sexual": 5,
+      "theft": 212,
+      "violentTheft": 11
+    },
+    {
+      "year": 1685,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 4,
+      "kill": 35,
+      "miscellaneous": 4,
+      "royalOffences": 21,
+      "sexual": 6,
+      "theft": 278,
+      "violentTheft": 9
+    },
+    {
+      "year": 1686,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 5,
+      "kill": 36,
+      "miscellaneous": 3,
+      "royalOffences": 20,
+      "sexual": 5,
+      "theft": 224,
+      "violentTheft": 8
+    },
+    {
+      "year": 1687,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 3,
+      "deception": 3,
+      "kill": 30,
+      "miscellaneous": 4,
+      "royalOffences": 43,
+      "sexual": 7,
+      "theft": 288,
+      "violentTheft": 9
+    },
+    {
+      "year": 1688,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 0,
+      "deception": 1,
+      "kill": 47,
+      "miscellaneous": 0,
+      "royalOffences": 21,
+      "sexual": 3,
+      "theft": 194,
+      "violentTheft": 8
+    },
+    {
+      "year": 1689,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 2,
+      "deception": 3,
+      "kill": 41,
+      "miscellaneous": 4,
+      "royalOffences": 11,
+      "sexual": 6,
+      "theft": 195,
+      "violentTheft": 17
+    },
+    {
+      "year": 1690,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 1,
+      "deception": 3,
+      "kill": 35,
+      "miscellaneous": 7,
+      "royalOffences": 20,
+      "sexual": 3,
+      "theft": 238,
+      "violentTheft": 12
+    },
+    {
+      "year": 1691,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 4,
+      "kill": 36,
+      "miscellaneous": 2,
+      "royalOffences": 22,
+      "sexual": 1,
+      "theft": 200,
+      "violentTheft": 19
+    },
+    {
+      "year": 1692,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 1,
+      "kill": 23,
+      "miscellaneous": 0,
+      "royalOffences": 25,
+      "sexual": 5,
+      "theft": 180,
+      "violentTheft": 14
+    },
+    {
+      "year": 1693,
+      "Unknown": 1,
+      "breakingPeace": 5,
+      "damage": 0,
+      "deception": 3,
+      "kill": 28,
+      "miscellaneous": 7,
+      "royalOffences": 79,
+      "sexual": 8,
+      "theft": 314,
+      "violentTheft": 22
+    },
+    {
+      "year": 1694,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 8,
+      "kill": 22,
+      "miscellaneous": 3,
+      "royalOffences": 43,
+      "sexual": 7,
+      "theft": 217,
+      "violentTheft": 19
+    },
+    {
+      "year": 1695,
+      "Unknown": 0,
+      "breakingPeace": 5,
+      "damage": 0,
+      "deception": 9,
+      "kill": 22,
+      "miscellaneous": 7,
+      "royalOffences": 93,
+      "sexual": 2,
+      "theft": 185,
+      "violentTheft": 17
+    },
+    {
+      "year": 1696,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 13,
+      "kill": 25,
+      "miscellaneous": 8,
+      "royalOffences": 69,
+      "sexual": 2,
+      "theft": 191,
+      "violentTheft": 13
+    },
+    {
+      "year": 1697,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 0,
+      "deception": 9,
+      "kill": 18,
+      "miscellaneous": 4,
+      "royalOffences": 40,
+      "sexual": 4,
+      "theft": 213,
+      "violentTheft": 18
+    },
+    {
+      "year": 1698,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 9,
+      "kill": 24,
+      "miscellaneous": 1,
+      "royalOffences": 19,
+      "sexual": 4,
+      "theft": 272,
+      "violentTheft": 21
+    },
+    {
+      "year": 1699,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 8,
+      "kill": 5,
+      "miscellaneous": 1,
+      "royalOffences": 7,
+      "sexual": 5,
+      "theft": 149,
+      "violentTheft": 6
+    },
+    {
+      "year": 1700,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 2,
+      "kill": 2,
+      "miscellaneous": 4,
+      "royalOffences": 4,
+      "sexual": 2,
+      "theft": 102,
+      "violentTheft": 8
+    },
+    {
+      "year": 1702,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 0,
+      "kill": 3,
+      "miscellaneous": 0,
+      "royalOffences": 3,
+      "sexual": 3,
+      "theft": 60,
+      "violentTheft": 0
+    },
+    {
+      "year": 1703,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 2,
+      "kill": 5,
+      "miscellaneous": 0,
+      "royalOffences": 4,
+      "sexual": 4,
+      "theft": 54,
+      "violentTheft": 2
+    },
+    {
+      "year": 1704,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 2,
+      "kill": 9,
+      "miscellaneous": 0,
+      "royalOffences": 3,
+      "sexual": 3,
+      "theft": 95,
+      "violentTheft": 5
+    },
+    {
+      "year": 1706,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 0,
+      "kill": 0,
+      "miscellaneous": 0,
+      "royalOffences": 0,
+      "sexual": 1,
+      "theft": 0,
+      "violentTheft": 0
+    },
+    {
+      "year": 1707,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 2,
+      "deception": 2,
+      "kill": 10,
+      "miscellaneous": 0,
+      "royalOffences": 1,
+      "sexual": 11,
+      "theft": 135,
+      "violentTheft": 2
+    },
+    {
+      "year": 1708,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 4,
+      "kill": 18,
+      "miscellaneous": 1,
+      "royalOffences": 4,
+      "sexual": 5,
+      "theft": 129,
+      "violentTheft": 3
+    },
+    {
+      "year": 1709,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 1,
+      "deception": 1,
+      "kill": 8,
+      "miscellaneous": 0,
+      "royalOffences": 0,
+      "sexual": 1,
+      "theft": 85,
+      "violentTheft": 3
+    },
+    {
+      "year": 1710,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 1,
+      "kill": 6,
+      "miscellaneous": 1,
+      "royalOffences": 7,
+      "sexual": 4,
+      "theft": 151,
+      "violentTheft": 3
+    },
+    {
+      "year": 1711,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 4,
+      "kill": 9,
+      "miscellaneous": 1,
+      "royalOffences": 0,
+      "sexual": 1,
+      "theft": 145,
+      "violentTheft": 7
+    },
+    {
+      "year": 1712,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 10,
+      "kill": 6,
+      "miscellaneous": 3,
+      "royalOffences": 1,
+      "sexual": 0,
+      "theft": 147,
+      "violentTheft": 2
+    },
+    {
+      "year": 1713,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 4,
+      "kill": 3,
+      "miscellaneous": 0,
+      "royalOffences": 0,
+      "sexual": 3,
+      "theft": 98,
+      "violentTheft": 5
+    },
+    {
+      "year": 1714,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 5,
+      "kill": 19,
+      "miscellaneous": 1,
+      "royalOffences": 7,
+      "sexual": 5,
+      "theft": 238,
+      "violentTheft": 10
+    },
+    {
+      "year": 1715,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 16,
+      "kill": 22,
+      "miscellaneous": 1,
+      "royalOffences": 5,
+      "sexual": 15,
+      "theft": 385,
+      "violentTheft": 22
+    },
+    {
+      "year": 1716,
+      "Unknown": 2,
+      "breakingPeace": 3,
+      "damage": 1,
+      "deception": 16,
+      "kill": 10,
+      "miscellaneous": 1,
+      "royalOffences": 16,
+      "sexual": 6,
+      "theft": 336,
+      "violentTheft": 25
+    },
+    {
+      "year": 1717,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 15,
+      "kill": 14,
+      "miscellaneous": 2,
+      "royalOffences": 5,
+      "sexual": 6,
+      "theft": 330,
+      "violentTheft": 30
+    },
+    {
+      "year": 1718,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 4,
+      "kill": 23,
+      "miscellaneous": 0,
+      "royalOffences": 14,
+      "sexual": 10,
+      "theft": 333,
+      "violentTheft": 24
+    },
+    {
+      "year": 1719,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 8,
+      "kill": 20,
+      "miscellaneous": 6,
+      "royalOffences": 5,
+      "sexual": 7,
+      "theft": 320,
+      "violentTheft": 25
+    },
+    {
+      "year": 1720,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 3,
+      "deception": 6,
+      "kill": 19,
+      "miscellaneous": 8,
+      "royalOffences": 3,
+      "sexual": 11,
+      "theft": 322,
+      "violentTheft": 33
+    },
+    {
+      "year": 1721,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 13,
+      "kill": 27,
+      "miscellaneous": 9,
+      "royalOffences": 5,
+      "sexual": 11,
+      "theft": 381,
+      "violentTheft": 42
+    },
+    {
+      "year": 1722,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 0,
+      "deception": 14,
+      "kill": 22,
+      "miscellaneous": 3,
+      "royalOffences": 2,
+      "sexual": 10,
+      "theft": 337,
+      "violentTheft": 43
+    },
+    {
+      "year": 1723,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 10,
+      "kill": 19,
+      "miscellaneous": 4,
+      "royalOffences": 0,
+      "sexual": 13,
+      "theft": 357,
+      "violentTheft": 18
+    },
+    {
+      "year": 1724,
+      "Unknown": 2,
+      "breakingPeace": 5,
+      "damage": 0,
+      "deception": 13,
+      "kill": 15,
+      "miscellaneous": 1,
+      "royalOffences": 6,
+      "sexual": 11,
+      "theft": 459,
+      "violentTheft": 19
+    },
+    {
+      "year": 1725,
+      "Unknown": 1,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 9,
+      "kill": 17,
+      "miscellaneous": 6,
+      "royalOffences": 6,
+      "sexual": 6,
+      "theft": 530,
+      "violentTheft": 26
+    },
+    {
+      "year": 1726,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 10,
+      "kill": 20,
+      "miscellaneous": 8,
+      "royalOffences": 1,
+      "sexual": 17,
+      "theft": 440,
+      "violentTheft": 24
+    },
+    {
+      "year": 1727,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 0,
+      "deception": 13,
+      "kill": 18,
+      "miscellaneous": 4,
+      "royalOffences": 3,
+      "sexual": 14,
+      "theft": 382,
+      "violentTheft": 18
+    },
+    {
+      "year": 1728,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 12,
+      "kill": 12,
+      "miscellaneous": 7,
+      "royalOffences": 1,
+      "sexual": 14,
+      "theft": 398,
+      "violentTheft": 41
+    },
+    {
+      "year": 1729,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 2,
+      "deception": 13,
+      "kill": 12,
+      "miscellaneous": 5,
+      "royalOffences": 2,
+      "sexual": 10,
+      "theft": 490,
+      "violentTheft": 27
+    },
+    {
+      "year": 1730,
+      "Unknown": 2,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 7,
+      "kill": 11,
+      "miscellaneous": 4,
+      "royalOffences": 1,
+      "sexual": 21,
+      "theft": 455,
+      "violentTheft": 53
+    },
+    {
+      "year": 1731,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 2,
+      "deception": 11,
+      "kill": 16,
+      "miscellaneous": 2,
+      "royalOffences": 1,
+      "sexual": 12,
+      "theft": 435,
+      "violentTheft": 38
+    },
+    {
+      "year": 1732,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 14,
+      "kill": 17,
+      "miscellaneous": 2,
+      "royalOffences": 1,
+      "sexual": 8,
+      "theft": 390,
+      "violentTheft": 45
+    },
+    {
+      "year": 1733,
+      "Unknown": 1,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 13,
+      "kill": 12,
+      "miscellaneous": 1,
+      "royalOffences": 2,
+      "sexual": 6,
+      "theft": 371,
+      "violentTheft": 35
+    },
+    {
+      "year": 1734,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 6,
+      "kill": 19,
+      "miscellaneous": 1,
+      "royalOffences": 3,
+      "sexual": 4,
+      "theft": 354,
+      "violentTheft": 22
+    },
+    {
+      "year": 1735,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 1,
+      "deception": 9,
+      "kill": 19,
+      "miscellaneous": 3,
+      "royalOffences": 2,
+      "sexual": 17,
+      "theft": 438,
+      "violentTheft": 38
+    },
+    {
+      "year": 1736,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 1,
+      "deception": 9,
+      "kill": 10,
+      "miscellaneous": 2,
+      "royalOffences": 0,
+      "sexual": 8,
+      "theft": 431,
+      "violentTheft": 26
+    },
+    {
+      "year": 1737,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 11,
+      "kill": 22,
+      "miscellaneous": 1,
+      "royalOffences": 2,
+      "sexual": 7,
+      "theft": 364,
+      "violentTheft": 27
+    },
+    {
+      "year": 1738,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 9,
+      "kill": 12,
+      "miscellaneous": 0,
+      "royalOffences": 4,
+      "sexual": 5,
+      "theft": 299,
+      "violentTheft": 29
+    },
+    {
+      "year": 1739,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 7,
+      "kill": 9,
+      "miscellaneous": 3,
+      "royalOffences": 3,
+      "sexual": 7,
+      "theft": 397,
+      "violentTheft": 31
+    },
+    {
+      "year": 1740,
+      "Unknown": 1,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 6,
+      "kill": 11,
+      "miscellaneous": 1,
+      "royalOffences": 0,
+      "sexual": 10,
+      "theft": 383,
+      "violentTheft": 28
+    },
+    {
+      "year": 1741,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 4,
+      "kill": 14,
+      "miscellaneous": 1,
+      "royalOffences": 0,
+      "sexual": 5,
+      "theft": 436,
+      "violentTheft": 37
+    },
+    {
+      "year": 1742,
+      "Unknown": 3,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 14,
+      "kill": 17,
+      "miscellaneous": 0,
+      "royalOffences": 2,
+      "sexual": 7,
+      "theft": 325,
+      "violentTheft": 24
+    },
+    {
+      "year": 1743,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 8,
+      "kill": 15,
+      "miscellaneous": 3,
+      "royalOffences": 5,
+      "sexual": 6,
+      "theft": 374,
+      "violentTheft": 33
+    },
+    {
+      "year": 1744,
+      "Unknown": 1,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 14,
+      "kill": 13,
+      "miscellaneous": 3,
+      "royalOffences": 1,
+      "sexual": 3,
+      "theft": 301,
+      "violentTheft": 45
+    },
+    {
+      "year": 1745,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 9,
+      "kill": 12,
+      "miscellaneous": 1,
+      "royalOffences": 3,
+      "sexual": 4,
+      "theft": 245,
+      "violentTheft": 23
+    },
+    {
+      "year": 1746,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 6,
+      "kill": 10,
+      "miscellaneous": 4,
+      "royalOffences": 5,
+      "sexual": 2,
+      "theft": 300,
+      "violentTheft": 19
+    },
+    {
+      "year": 1747,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 2,
+      "kill": 12,
+      "miscellaneous": 1,
+      "royalOffences": 11,
+      "sexual": 6,
+      "theft": 309,
+      "violentTheft": 14
+    },
+    {
+      "year": 1748,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 8,
+      "kill": 9,
+      "miscellaneous": 2,
+      "royalOffences": 15,
+      "sexual": 6,
+      "theft": 419,
+      "violentTheft": 20
+    },
+    {
+      "year": 1749,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 13,
+      "kill": 6,
+      "miscellaneous": 4,
+      "royalOffences": 10,
+      "sexual": 9,
+      "theft": 477,
+      "violentTheft": 55
+    },
+    {
+      "year": 1750,
+      "Unknown": 3,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 16,
+      "kill": 13,
+      "miscellaneous": 7,
+      "royalOffences": 11,
+      "sexual": 8,
+      "theft": 413,
+      "violentTheft": 67
+    },
+    {
+      "year": 1751,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 32,
+      "kill": 10,
+      "miscellaneous": 10,
+      "royalOffences": 12,
+      "sexual": 6,
+      "theft": 385,
+      "violentTheft": 42
+    },
+    {
+      "year": 1752,
+      "Unknown": 3,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 22,
+      "kill": 23,
+      "miscellaneous": 10,
+      "royalOffences": 3,
+      "sexual": 6,
+      "theft": 359,
+      "violentTheft": 30
+    },
+    {
+      "year": 1753,
+      "Unknown": 1,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 14,
+      "kill": 11,
+      "miscellaneous": 11,
+      "royalOffences": 2,
+      "sexual": 8,
+      "theft": 374,
+      "violentTheft": 39
+    },
+    {
+      "year": 1754,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 18,
+      "kill": 14,
+      "miscellaneous": 4,
+      "royalOffences": 0,
+      "sexual": 8,
+      "theft": 367,
+      "violentTheft": 25
+    },
+    {
+      "year": 1755,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 10,
+      "kill": 10,
+      "miscellaneous": 5,
+      "royalOffences": 1,
+      "sexual": 4,
+      "theft": 301,
+      "violentTheft": 19
+    },
+    {
+      "year": 1756,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 11,
+      "kill": 15,
+      "miscellaneous": 4,
+      "royalOffences": 2,
+      "sexual": 3,
+      "theft": 314,
+      "violentTheft": 15
+    },
+    {
+      "year": 1757,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 1,
+      "deception": 15,
+      "kill": 5,
+      "miscellaneous": 7,
+      "royalOffences": 2,
+      "sexual": 7,
+      "theft": 302,
+      "violentTheft": 15
+    },
+    {
+      "year": 1758,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 23,
+      "kill": 3,
+      "miscellaneous": 3,
+      "royalOffences": 5,
+      "sexual": 3,
+      "theft": 269,
+      "violentTheft": 13
+    },
+    {
+      "year": 1759,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 20,
+      "kill": 7,
+      "miscellaneous": 1,
+      "royalOffences": 0,
+      "sexual": 2,
+      "theft": 232,
+      "violentTheft": 10
+    },
+    {
+      "year": 1760,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 9,
+      "kill": 14,
+      "miscellaneous": 0,
+      "royalOffences": 1,
+      "sexual": 1,
+      "theft": 252,
+      "violentTheft": 6
+    },
+    {
+      "year": 1761,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 1,
+      "deception": 16,
+      "kill": 19,
+      "miscellaneous": 0,
+      "royalOffences": 3,
+      "sexual": 4,
+      "theft": 274,
+      "violentTheft": 8
+    },
+    {
+      "year": 1762,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 13,
+      "kill": 9,
+      "miscellaneous": 1,
+      "royalOffences": 0,
+      "sexual": 5,
+      "theft": 252,
+      "violentTheft": 10
+    },
+    {
+      "year": 1763,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 3,
+      "deception": 25,
+      "kill": 7,
+      "miscellaneous": 1,
+      "royalOffences": 0,
+      "sexual": 3,
+      "theft": 336,
+      "violentTheft": 40
+    },
+    {
+      "year": 1764,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 13,
+      "kill": 7,
+      "miscellaneous": 2,
+      "royalOffences": 1,
+      "sexual": 4,
+      "theft": 466,
+      "violentTheft": 29
+    },
+    {
+      "year": 1765,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 1,
+      "deception": 18,
+      "kill": 7,
+      "miscellaneous": 4,
+      "royalOffences": 0,
+      "sexual": 3,
+      "theft": 374,
+      "violentTheft": 16
+    },
+    {
+      "year": 1766,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 18,
+      "kill": 8,
+      "miscellaneous": 1,
+      "royalOffences": 4,
+      "sexual": 7,
+      "theft": 403,
+      "violentTheft": 21
+    },
+    {
+      "year": 1767,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 14,
+      "kill": 8,
+      "miscellaneous": 0,
+      "royalOffences": 3,
+      "sexual": 4,
+      "theft": 436,
+      "violentTheft": 20
+    },
+    {
+      "year": 1768,
+      "Unknown": 0,
+      "breakingPeace": 7,
+      "damage": 1,
+      "deception": 14,
+      "kill": 16,
+      "miscellaneous": 2,
+      "royalOffences": 0,
+      "sexual": 8,
+      "theft": 425,
+      "violentTheft": 23
+    },
+    {
+      "year": 1769,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 3,
+      "deception": 25,
+      "kill": 10,
+      "miscellaneous": 2,
+      "royalOffences": 2,
+      "sexual": 5,
+      "theft": 414,
+      "violentTheft": 31
+    },
+    {
+      "year": 1770,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 2,
+      "deception": 6,
+      "kill": 16,
+      "miscellaneous": 3,
+      "royalOffences": 3,
+      "sexual": 4,
+      "theft": 459,
+      "violentTheft": 37
+    },
+    {
+      "year": 1771,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 15,
+      "kill": 12,
+      "miscellaneous": 4,
+      "royalOffences": 6,
+      "sexual": 6,
+      "theft": 563,
+      "violentTheft": 32
+    },
+    {
+      "year": 1772,
+      "Unknown": 1,
+      "breakingPeace": 3,
+      "damage": 1,
+      "deception": 22,
+      "kill": 5,
+      "miscellaneous": 10,
+      "royalOffences": 5,
+      "sexual": 11,
+      "theft": 540,
+      "violentTheft": 63
+    },
+    {
+      "year": 1773,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 3,
+      "deception": 20,
+      "kill": 6,
+      "miscellaneous": 6,
+      "royalOffences": 8,
+      "sexual": 3,
+      "theft": 580,
+      "violentTheft": 44
+    },
+    {
+      "year": 1774,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 0,
+      "deception": 15,
+      "kill": 8,
+      "miscellaneous": 8,
+      "royalOffences": 9,
+      "sexual": 5,
+      "theft": 578,
+      "violentTheft": 48
+    },
+    {
+      "year": 1775,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 20,
+      "kill": 8,
+      "miscellaneous": 12,
+      "royalOffences": 12,
+      "sexual": 6,
+      "theft": 511,
+      "violentTheft": 45
+    },
+    {
+      "year": 1776,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 2,
+      "deception": 15,
+      "kill": 11,
+      "miscellaneous": 9,
+      "royalOffences": 9,
+      "sexual": 6,
+      "theft": 495,
+      "violentTheft": 60
+    },
+    {
+      "year": 1777,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 13,
+      "kill": 12,
+      "miscellaneous": 6,
+      "royalOffences": 2,
+      "sexual": 8,
+      "theft": 530,
+      "violentTheft": 28
+    },
+    {
+      "year": 1778,
+      "Unknown": 0,
+      "breakingPeace": 7,
+      "damage": 0,
+      "deception": 17,
+      "kill": 16,
+      "miscellaneous": 9,
+      "royalOffences": 8,
+      "sexual": 4,
+      "theft": 505,
+      "violentTheft": 42
+    },
+    {
+      "year": 1779,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 3,
+      "deception": 14,
+      "kill": 9,
+      "miscellaneous": 4,
+      "royalOffences": 13,
+      "sexual": 9,
+      "theft": 298,
+      "violentTheft": 29
+    },
+    {
+      "year": 1780,
+      "Unknown": 0,
+      "breakingPeace": 69,
+      "damage": 5,
+      "deception": 2,
+      "kill": 4,
+      "miscellaneous": 2,
+      "royalOffences": 12,
+      "sexual": 2,
+      "theft": 393,
+      "violentTheft": 44
+    },
+    {
+      "year": 1781,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 1,
+      "deception": 10,
+      "kill": 7,
+      "miscellaneous": 2,
+      "royalOffences": 11,
+      "sexual": 1,
+      "theft": 434,
+      "violentTheft": 59
+    },
+    {
+      "year": 1782,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 2,
+      "deception": 15,
+      "kill": 10,
+      "miscellaneous": 6,
+      "royalOffences": 21,
+      "sexual": 1,
+      "theft": 511,
+      "violentTheft": 57
+    },
+    {
+      "year": 1783,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 1,
+      "deception": 27,
+      "kill": 6,
+      "miscellaneous": 34,
+      "royalOffences": 15,
+      "sexual": 1,
+      "theft": 702,
+      "violentTheft": 96
+    },
+    {
+      "year": 1784,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 3,
+      "deception": 48,
+      "kill": 16,
+      "miscellaneous": 11,
+      "royalOffences": 15,
+      "sexual": 1,
+      "theft": 859,
+      "violentTheft": 100
+    },
+    {
+      "year": 1785,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 42,
+      "kill": 3,
+      "miscellaneous": 19,
+      "royalOffences": 12,
+      "sexual": 7,
+      "theft": 760,
+      "violentTheft": 71
+    },
+    {
+      "year": 1786,
+      "Unknown": 1,
+      "breakingPeace": 4,
+      "damage": 2,
+      "deception": 36,
+      "kill": 16,
+      "miscellaneous": 5,
+      "royalOffences": 17,
+      "sexual": 6,
+      "theft": 766,
+      "violentTheft": 79
+    },
+    {
+      "year": 1787,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 32,
+      "kill": 12,
+      "miscellaneous": 3,
+      "royalOffences": 16,
+      "sexual": 7,
+      "theft": 690,
+      "violentTheft": 63
+    },
+    {
+      "year": 1788,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 26,
+      "kill": 6,
+      "miscellaneous": 8,
+      "royalOffences": 23,
+      "sexual": 2,
+      "theft": 625,
+      "violentTheft": 49
+    },
+    {
+      "year": 1789,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 2,
+      "deception": 20,
+      "kill": 8,
+      "miscellaneous": 7,
+      "royalOffences": 11,
+      "sexual": 7,
+      "theft": 716,
+      "violentTheft": 78
+    },
+    {
+      "year": 1790,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 3,
+      "deception": 25,
+      "kill": 9,
+      "miscellaneous": 8,
+      "royalOffences": 17,
+      "sexual": 11,
+      "theft": 602,
+      "violentTheft": 45
+    },
+    {
+      "year": 1791,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 9,
+      "kill": 5,
+      "miscellaneous": 2,
+      "royalOffences": 12,
+      "sexual": 3,
+      "theft": 357,
+      "violentTheft": 31
+    },
+    {
+      "year": 1792,
+      "Unknown": 0,
+      "breakingPeace": 0,
+      "damage": 0,
+      "deception": 12,
+      "kill": 5,
+      "miscellaneous": 4,
+      "royalOffences": 11,
+      "sexual": 0,
+      "theft": 512,
+      "violentTheft": 47
+    },
+    {
+      "year": 1793,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 3,
+      "deception": 18,
+      "kill": 9,
+      "miscellaneous": 3,
+      "royalOffences": 14,
+      "sexual": 9,
+      "theft": 599,
+      "violentTheft": 46
+    },
+    {
+      "year": 1794,
+      "Unknown": 2,
+      "breakingPeace": 5,
+      "damage": 2,
+      "deception": 23,
+      "kill": 4,
+      "miscellaneous": 4,
+      "royalOffences": 21,
+      "sexual": 9,
+      "theft": 518,
+      "violentTheft": 38
+    },
+    {
+      "year": 1795,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 0,
+      "deception": 18,
+      "kill": 5,
+      "miscellaneous": 1,
+      "royalOffences": 16,
+      "sexual": 3,
+      "theft": 470,
+      "violentTheft": 19
+    },
+    {
+      "year": 1796,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 18,
+      "kill": 11,
+      "miscellaneous": 15,
+      "royalOffences": 33,
+      "sexual": 4,
+      "theft": 524,
+      "violentTheft": 26
+    },
+    {
+      "year": 1797,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 25,
+      "kill": 8,
+      "miscellaneous": 14,
+      "royalOffences": 14,
+      "sexual": 6,
+      "theft": 462,
+      "violentTheft": 24
+    },
+    {
+      "year": 1798,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 22,
+      "kill": 11,
+      "miscellaneous": 11,
+      "royalOffences": 20,
+      "sexual": 14,
+      "theft": 499,
+      "violentTheft": 18
+    },
+    {
+      "year": 1799,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 0,
+      "deception": 16,
+      "kill": 9,
+      "miscellaneous": 9,
+      "royalOffences": 19,
+      "sexual": 5,
+      "theft": 485,
+      "violentTheft": 40
+    },
+    {
+      "year": 1800,
+      "Unknown": 0,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 13,
+      "kill": 11,
+      "miscellaneous": 3,
+      "royalOffences": 26,
+      "sexual": 5,
+      "theft": 747,
+      "violentTheft": 31
+    },
+    {
+      "year": 1801,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 2,
+      "deception": 19,
+      "kill": 7,
+      "miscellaneous": 4,
+      "royalOffences": 21,
+      "sexual": 6,
+      "theft": 743,
+      "violentTheft": 30
+    },
+    {
+      "year": 1802,
+      "Unknown": 0,
+      "breakingPeace": 2,
+      "damage": 1,
+      "deception": 15,
+      "kill": 4,
+      "miscellaneous": 3,
+      "royalOffences": 14,
+      "sexual": 4,
+      "theft": 814,
+      "violentTheft": 56
+    },
+    {
+      "year": 1803,
+      "Unknown": 0,
+      "breakingPeace": 9,
+      "damage": 3,
+      "deception": 16,
+      "kill": 9,
+      "miscellaneous": 9,
+      "royalOffences": 22,
+      "sexual": 10,
+      "theft": 645,
+      "violentTheft": 22
+    },
+    {
+      "year": 1804,
+      "Unknown": 0,
+      "breakingPeace": 3,
+      "damage": 1,
+      "deception": 24,
+      "kill": 10,
+      "miscellaneous": 10,
+      "royalOffences": 8,
+      "sexual": 6,
+      "theft": 517,
+      "violentTheft": 20
+    },
+    {
+      "year": 1805,
+      "Unknown": 2,
+      "breakingPeace": 1,
+      "damage": 1,
+      "deception": 19,
+      "kill": 9,
+      "miscellaneous": 16,
+      "royalOffences": 22,
+      "sexual": 12,
+      "theft": 627,
+      "violentTheft": 18
+    },
+    {
+      "year": 1806,
+      "Unknown": 1,
+      "breakingPeace": 1,
+      "damage": 0,
+      "deception": 20,
+      "kill": 3,
+      "miscellaneous": 11,
+      "royalOffences": 14,
+      "sexual": 6,
+      "theft": 582,
+      "violentTheft": 20
+    },
+    {
+      "year": 1807,
+      "Unknown": 0,
+      "breakingPeace": 6,
+      "damage": 1,
+      "deception": 17,
+      "kill": 14,
+      "miscellaneous": 10,
+      "royalOffences": 19,
+      "sexual": 6,
+      "theft": 656,
+      "violentTheft": 14
+    },
+    {
+      "year": 1808,
+      "Unknown": 0,
+      "breakingPeace": 4,
+      "damage": 0,
+      "deception": 12,
+      "kill": 7,
+      "miscellaneous": 9,
+      "royalOffences": 7,
+      "sexual": 7,
+      "theft": 702,
+      "violentTheft": 27
+    },
+    {
+      "year": 1809,
+      "Unknown": 0,
+      "breakingPeace": 10,
+      "damage": 1,
+      "deception": 10,
+      "kill": 9,
+      "miscellaneous": 12,
+      "royalOffences": 19,
+      "sexual": 12,
+      "theft": 833,
+      "violentTheft": 22
+    },
+    {
+      "year": 1810,
+      "Unknown": 0,
+      "breakingPeace": 7,
+      "damage": 1,
+      "deception": 11,
+      "kill": 7,
+      "miscellaneous": 19,
+      "royalOffences": 12,
+      "sexual": 12,
+      "theft": 804,
+      "violentTheft": 39
+    },
+    {
+      "year": 1811,
+      "Unknown": 0,
+      "breakingPeace": 6,
+      "damage": 2,
+      "deception": 21,
+      "kill": 15,
+      "miscellaneous": 19,
+      "royalOffences": 24,
+      "sexual": 12,
+      "theft": 789,
+      "violentTheft": 38
+    },
+    {
+      "year": 1812,
+      "Unknown": 0,
+      "breakingPeace": 5,
+      "damage": 0,
+      "deception": 21,
+      "kill": 10,
+      "miscellaneous": 16,
+      "royalOffences": 50,
+      "sexual": 8,
+      "theft": 879,
+      "violentTheft": 41
+    },
+    {
+      "year": 1813,
+      "Unknown": 0,
+      "breakingPeace": 5,
+      "damage": 3,
+      "deception": 35,
+      "kill": 11,
+      "miscellaneous": 8,
+      "royalOffences": 74,
+      "sexual": 7,
+      "theft": 890,
+      "violentTheft": 46
+    },
+    {
+      "year": 1814,
+      "Unknown": 0,
+      "breakingPeace": 11,
+      "damage": 2,
+      "deception": 14,
+      "kill": 17,
+      "miscellaneous": 13,
+      "royalOffences": 68,
+      "sexual": 11,
+      "theft": 905,
+      "violentTheft": 39
+    },
+    {
+      "year": 1815,
+      "Unknown": 1,
+      "breakingPeace": 8,
+      "damage": 2,
+      "deception": 18,
+      "kill": 12,
+      "miscellaneous": 12,
+      "royalOffences": 47,
+      "sexual": 11,
+      "theft": 983,
+      "violentTheft": 50
+    },
+    {
+      "year": 1816,
+      "Unknown": 0,
+      "breakingPeace": 5,
+      "damage": 0,
+      "deception": 31,
+      "kill": 14,
+      "miscellaneous": 11,
+      "royalOffences": 23,
+      "sexual": 7,
+      "theft": 1145,
+      "violentTheft": 86
+    },
+    {
+      "year": 1817,
+      "Unknown": 1,
+      "breakingPeace": 6,
+      "damage": 0,
+      "deception": 47,
+      "kill": 15,
+      "miscellaneous": 8,
+      "royalOffences": 39,
+      "sexual": 9,
+      "theft": 1401,
+      "violentTheft": 74
+    },
+    {
+      "year": 1818,
+      "Unknown": 1,
+      "breakingPeace": 6,
+      "damage": 2,
+      "deception": 42,
+      "kill": 13,
+      "miscellaneous": 8,
+      "royalOffences": 78,
+      "sexual": 5,
+      "theft": 1379,
+      "violentTheft": 46
+    },
+    {
+      "year": 1819,
+      "Unknown": 2,
+      "breakingPeace": 9,
+      "damage": 4,
+      "deception": 32,
+      "kill": 10,
+      "miscellaneous": 12,
+      "royalOffences": 51,
+      "sexual": 13,
+      "theft": 1414,
+      "violentTheft": 40
+    },
+    {
+      "year": 1820,
+      "Unknown": 0,
+      "breakingPeace": 7,
+      "damage": 2,
+      "deception": 24,
+      "kill": 8,
+      "miscellaneous": 8,
+      "royalOffences": 64,
+      "sexual": 10,
+      "theft": 1352,
+      "violentTheft": 73
+    },
+    {
+      "year": 1821,
+      "Unknown": 0,
+      "breakingPeace": 9,
+      "damage": 0,
+      "deception": 19,
+      "kill": 10,
+      "miscellaneous": 15,
+      "royalOffences": 46,
+      "sexual": 10,
+      "theft": 1196,
+      "violentTheft": 55
+    },
+    {
+      "year": 1822,
+      "Unknown": 0,
+      "breakingPeace": 12,
+      "damage": 1,
+      "deception": 35,
+      "kill": 15,
+      "miscellaneous": 20,
+      "royalOffences": 9,
+      "sexual": 17,
+      "theft": 1382,
+      "violentTheft": 46
+    },
+    {
+      "year": 1823,
+      "Unknown": 0,
+      "breakingPeace": 11,
+      "damage": 2,
+      "deception": 11,
+      "kill": 17,
+      "miscellaneous": 24,
+      "royalOffences": 10,
+      "sexual": 11,
+      "theft": 1398,
+      "violentTheft": 27
+    },
+    {
+      "year": 1824,
+      "Unknown": 0,
+      "breakingPeace": 6,
+      "damage": 4,
+      "deception": 28,
+      "kill": 15,
+      "miscellaneous": 10,
+      "royalOffences": 17,
+      "sexual": 4,
+      "theft": 1575,
+      "violentTheft": 29
+    },
+    {
+      "year": 1825,
+      "Unknown": 0,
+      "breakingPeace": 8,
+      "damage": 1,
+      "deception": 25,
+      "kill": 25,
+      "miscellaneous": 22,
+      "royalOffences": 18,
+      "sexual": 18,
+      "theft": 1653,
+      "violentTheft": 33
+    },
+    {
+      "year": 1826,
+      "Unknown": 0,
+      "breakingPeace": 8,
+      "damage": 2,
+      "deception": 17,
+      "kill": 30,
+      "miscellaneous": 25,
+      "royalOffences": 13,
+      "sexual": 18,
+      "theft": 1967,
+      "violentTheft": 61
+    },
+    {
+      "year": 1827,
+      "Unknown": 1,
+      "breakingPeace": 7,
+      "damage": 0,
+      "deception": 25,
+      "kill": 20,
+      "miscellaneous": 19,
+      "royalOffences": 17,
+      "sexual": 10,
+      "theft": 2057,
+      "violentTheft": 58
+    },
+    {
+      "year": 1828,
+      "Unknown": 1,
+      "breakingPeace": 18,
+      "damage": 1,
+      "deception": 16,
+      "kill": 22,
+      "miscellaneous": 20,
+      "royalOffences": 23,
+      "sexual": 28,
+      "theft": 2060,
+      "violentTheft": 56
+    },
+    {
+      "year": 1829,
+      "Unknown": 0,
+      "breakingPeace": 9,
+      "damage": 2,
+      "deception": 27,
+      "kill": 20,
+      "miscellaneous": 25,
+      "royalOffences": 21,
+      "sexual": 16,
+      "theft": 1952,
+      "violentTheft": 33
+    },
+    {
+      "year": 1830,
+      "Unknown": 0,
+      "breakingPeace": 12,
+      "damage": 2,
+      "deception": 27,
+      "kill": 17,
+      "miscellaneous": 15,
+      "royalOffences": 20,
+      "sexual": 16,
+      "theft": 1983,
+      "violentTheft": 20
+    },
+    {
+      "year": 1831,
+      "Unknown": 0,
+      "breakingPeace": 15,
+      "damage": 2,
+      "deception": 23,
+      "kill": 15,
+      "miscellaneous": 24,
+      "royalOffences": 16,
+      "sexual": 20,
+      "theft": 2060,
+      "violentTheft": 31
+    },
+    {
+      "year": 1832,
+      "Unknown": 0,
+      "breakingPeace": 12,
+      "damage": 0,
+      "deception": 41,
+      "kill": 27,
+      "miscellaneous": 8,
+      "royalOffences": 22,
+      "sexual": 9,
+      "theft": 2252,
+      "violentTheft": 30
+    },
+    {
+      "year": 1833,
+      "Unknown": 0,
+      "breakingPeace": 22,
+      "damage": 1,
+      "deception": 47,
+      "kill": 15,
+      "miscellaneous": 10,
+      "royalOffences": 29,
+      "sexual": 21,
+      "theft": 1311,
+      "violentTheft": 35
+    },
+    {
+      "year": 1834,
+      "Unknown": 0,
+      "breakingPeace": 18,
+      "damage": 1,
+      "deception": 37,
+      "kill": 23,
+      "miscellaneous": 22,
+      "royalOffences": 34,
+      "sexual": 20,
+      "theft": 1553,
+      "violentTheft": 26
+    },
+    {
+      "year": 1835,
+      "Unknown": 1,
+      "breakingPeace": 32,
+      "damage": 1,
+      "deception": 51,
+      "kill": 28,
+      "miscellaneous": 53,
+      "royalOffences": 89,
+      "sexual": 28,
+      "theft": 1937,
+      "violentTheft": 18
+    },
+    {
+      "year": 1836,
+      "Unknown": 0,
+      "breakingPeace": 32,
+      "damage": 4,
+      "deception": 58,
+      "kill": 22,
+      "miscellaneous": 46,
+      "royalOffences": 78,
+      "sexual": 39,
+      "theft": 2144,
+      "violentTheft": 39
+    },
+    {
+      "year": 1837,
+      "Unknown": 0,
+      "breakingPeace": 33,
+      "damage": 0,
+      "deception": 98,
+      "kill": 22,
+      "miscellaneous": 29,
+      "royalOffences": 69,
+      "sexual": 58,
+      "theft": 2188,
+      "violentTheft": 30
+    },
+    {
+      "year": 1838,
+      "Unknown": 0,
+      "breakingPeace": 49,
+      "damage": 5,
+      "deception": 115,
+      "kill": 32,
+      "miscellaneous": 38,
+      "royalOffences": 77,
+      "sexual": 51,
+      "theft": 2329,
+      "violentTheft": 22
+    },
+    {
+      "year": 1839,
+      "Unknown": 0,
+      "breakingPeace": 79,
+      "damage": 1,
+      "deception": 102,
+      "kill": 26,
+      "miscellaneous": 47,
+      "royalOffences": 55,
+      "sexual": 57,
+      "theft": 2434,
+      "violentTheft": 21
+    },
+    {
+      "year": 1840,
+      "Unknown": 0,
+      "breakingPeace": 80,
+      "damage": 0,
+      "deception": 99,
+      "kill": 20,
+      "miscellaneous": 54,
+      "royalOffences": 62,
+      "sexual": 32,
+      "theft": 2341,
+      "violentTheft": 14
+    },
+    {
+      "year": 1841,
+      "Unknown": 0,
+      "breakingPeace": 90,
+      "damage": 3,
+      "deception": 95,
+      "kill": 24,
+      "miscellaneous": 59,
+      "royalOffences": 61,
+      "sexual": 33,
+      "theft": 2412,
+      "violentTheft": 14
+    },
+    {
+      "year": 1842,
+      "Unknown": 0,
+      "breakingPeace": 74,
+      "damage": 1,
+      "deception": 125,
+      "kill": 21,
+      "miscellaneous": 71,
+      "royalOffences": 51,
+      "sexual": 55,
+      "theft": 2653,
+      "violentTheft": 39
+    },
+    {
+      "year": 1843,
+      "Unknown": 0,
+      "breakingPeace": 111,
+      "damage": 1,
+      "deception": 146,
+      "kill": 23,
+      "miscellaneous": 20,
+      "royalOffences": 89,
+      "sexual": 55,
+      "theft": 2636,
+      "violentTheft": 19
+    },
+    {
+      "year": 1844,
+      "Unknown": 1,
+      "breakingPeace": 104,
+      "damage": 9,
+      "deception": 115,
+      "kill": 31,
+      "miscellaneous": 36,
+      "royalOffences": 77,
+      "sexual": 52,
+      "theft": 2064,
+      "violentTheft": 20
+    },
+    {
+      "year": 1845,
+      "Unknown": 0,
+      "breakingPeace": 109,
+      "damage": 1,
+      "deception": 119,
+      "kill": 33,
+      "miscellaneous": 32,
+      "royalOffences": 84,
+      "sexual": 58,
+      "theft": 1736,
+      "violentTheft": 24
+    },
+    {
+      "year": 1846,
+      "Unknown": 0,
+      "breakingPeace": 123,
+      "damage": 9,
+      "deception": 98,
+      "kill": 35,
+      "miscellaneous": 18,
+      "royalOffences": 81,
+      "sexual": 61,
+      "theft": 1720,
+      "violentTheft": 43
+    },
+    {
+      "year": 1847,
+      "Unknown": 0,
+      "breakingPeace": 120,
+      "damage": 3,
+      "deception": 153,
+      "kill": 45,
+      "miscellaneous": 20,
+      "royalOffences": 107,
+      "sexual": 66,
+      "theft": 2028,
+      "violentTheft": 40
+    },
+    {
+      "year": 1848,
+      "Unknown": 0,
+      "breakingPeace": 129,
+      "damage": 4,
+      "deception": 136,
+      "kill": 28,
+      "miscellaneous": 23,
+      "royalOffences": 152,
+      "sexual": 63,
+      "theft": 1838,
+      "violentTheft": 53
+    },
+    {
+      "year": 1849,
+      "Unknown": 0,
+      "breakingPeace": 124,
+      "damage": 6,
+      "deception": 124,
+      "kill": 36,
+      "miscellaneous": 20,
+      "royalOffences": 96,
+      "sexual": 51,
+      "theft": 1504,
+      "violentTheft": 29
+    },
+    {
+      "year": 1850,
+      "Unknown": 0,
+      "breakingPeace": 97,
+      "damage": 5,
+      "deception": 148,
+      "kill": 31,
+      "miscellaneous": 20,
+      "royalOffences": 109,
+      "sexual": 54,
+      "theft": 1456,
+      "violentTheft": 39
+    },
+    {
+      "year": 1851,
+      "Unknown": 0,
+      "breakingPeace": 98,
+      "damage": 9,
+      "deception": 141,
+      "kill": 40,
+      "miscellaneous": 15,
+      "royalOffences": 171,
+      "sexual": 66,
+      "theft": 1214,
+      "violentTheft": 45
+    },
+    {
+      "year": 1852,
+      "Unknown": 0,
+      "breakingPeace": 75,
+      "damage": 5,
+      "deception": 122,
+      "kill": 33,
+      "miscellaneous": 15,
+      "royalOffences": 235,
+      "sexual": 33,
+      "theft": 542,
+      "violentTheft": 19
+    },
+    {
+      "year": 1853,
+      "Unknown": 0,
+      "breakingPeace": 68,
+      "damage": 2,
+      "deception": 137,
+      "kill": 29,
+      "miscellaneous": 17,
+      "royalOffences": 232,
+      "sexual": 27,
+      "theft": 597,
+      "violentTheft": 26
+    },
+    {
+      "year": 1854,
+      "Unknown": 0,
+      "breakingPeace": 60,
+      "damage": 11,
+      "deception": 131,
+      "kill": 28,
+      "miscellaneous": 22,
+      "royalOffences": 280,
+      "sexual": 34,
+      "theft": 645,
+      "violentTheft": 22
+    },
+    {
+      "year": 1855,
+      "Unknown": 0,
+      "breakingPeace": 52,
+      "damage": 5,
+      "deception": 135,
+      "kill": 31,
+      "miscellaneous": 13,
+      "royalOffences": 169,
+      "sexual": 25,
+      "theft": 501,
+      "violentTheft": 31
+    },
+    {
+      "year": 1856,
+      "Unknown": 0,
+      "breakingPeace": 78,
+      "damage": 9,
+      "deception": 142,
+      "kill": 28,
+      "miscellaneous": 14,
+      "royalOffences": 177,
+      "sexual": 30,
+      "theft": 578,
+      "violentTheft": 52
+    },
+    {
+      "year": 1857,
+      "Unknown": 0,
+      "breakingPeace": 93,
+      "damage": 10,
+      "deception": 118,
+      "kill": 34,
+      "miscellaneous": 15,
+      "royalOffences": 210,
+      "sexual": 45,
+      "theft": 538,
+      "violentTheft": 54
+    },
+    {
+      "year": 1858,
+      "Unknown": 0,
+      "breakingPeace": 53,
+      "damage": 6,
+      "deception": 107,
+      "kill": 33,
+      "miscellaneous": 14,
+      "royalOffences": 236,
+      "sexual": 45,
+      "theft": 488,
+      "violentTheft": 47
+    },
+    {
+      "year": 1859,
+      "Unknown": 0,
+      "breakingPeace": 71,
+      "damage": 7,
+      "deception": 116,
+      "kill": 32,
+      "miscellaneous": 16,
+      "royalOffences": 204,
+      "sexual": 41,
+      "theft": 439,
+      "violentTheft": 46
+    },
+    {
+      "year": 1860,
+      "Unknown": 0,
+      "breakingPeace": 64,
+      "damage": 7,
+      "deception": 97,
+      "kill": 22,
+      "miscellaneous": 21,
+      "royalOffences": 184,
+      "sexual": 41,
+      "theft": 437,
+      "violentTheft": 29
+    },
+    {
+      "year": 1861,
+      "Unknown": 0,
+      "breakingPeace": 48,
+      "damage": 9,
+      "deception": 118,
+      "kill": 37,
+      "miscellaneous": 22,
+      "royalOffences": 192,
+      "sexual": 43,
+      "theft": 438,
+      "violentTheft": 42
+    },
+    {
+      "year": 1862,
+      "Unknown": 0,
+      "breakingPeace": 95,
+      "damage": 12,
+      "deception": 134,
+      "kill": 54,
+      "miscellaneous": 28,
+      "royalOffences": 178,
+      "sexual": 55,
+      "theft": 531,
+      "violentTheft": 73
+    },
+    {
+      "year": 1863,
+      "Unknown": 0,
+      "breakingPeace": 84,
+      "damage": 22,
+      "deception": 137,
+      "kill": 49,
+      "miscellaneous": 21,
+      "royalOffences": 163,
+      "sexual": 66,
+      "theft": 568,
+      "violentTheft": 63
+    },
+    {
+      "year": 1864,
+      "Unknown": 0,
+      "breakingPeace": 110,
+      "damage": 8,
+      "deception": 96,
+      "kill": 43,
+      "miscellaneous": 25,
+      "royalOffences": 167,
+      "sexual": 45,
+      "theft": 445,
+      "violentTheft": 72
+    },
+    {
+      "year": 1865,
+      "Unknown": 0,
+      "breakingPeace": 87,
+      "damage": 11,
+      "deception": 112,
+      "kill": 41,
+      "miscellaneous": 23,
+      "royalOffences": 152,
+      "sexual": 41,
+      "theft": 461,
+      "violentTheft": 85
+    },
+    {
+      "year": 1866,
+      "Unknown": 0,
+      "breakingPeace": 107,
+      "damage": 11,
+      "deception": 113,
+      "kill": 53,
+      "miscellaneous": 23,
+      "royalOffences": 132,
+      "sexual": 29,
+      "theft": 435,
+      "violentTheft": 72
+    },
+    {
+      "year": 1867,
+      "Unknown": 0,
+      "breakingPeace": 84,
+      "damage": 11,
+      "deception": 117,
+      "kill": 25,
+      "miscellaneous": 19,
+      "royalOffences": 141,
+      "sexual": 43,
+      "theft": 456,
+      "violentTheft": 85
+    },
+    {
+      "year": 1868,
+      "Unknown": 1,
+      "breakingPeace": 93,
+      "damage": 14,
+      "deception": 128,
+      "kill": 52,
+      "miscellaneous": 22,
+      "royalOffences": 169,
+      "sexual": 48,
+      "theft": 415,
+      "violentTheft": 77
+    },
+    {
+      "year": 1869,
+      "Unknown": 0,
+      "breakingPeace": 64,
+      "damage": 17,
+      "deception": 140,
+      "kill": 29,
+      "miscellaneous": 24,
+      "royalOffences": 149,
+      "sexual": 60,
+      "theft": 404,
+      "violentTheft": 77
+    },
+    {
+      "year": 1870,
+      "Unknown": 0,
+      "breakingPeace": 64,
+      "damage": 14,
+      "deception": 137,
+      "kill": 31,
+      "miscellaneous": 20,
+      "royalOffences": 131,
+      "sexual": 54,
+      "theft": 318,
+      "violentTheft": 64
+    },
+    {
+      "year": 1871,
+      "Unknown": 0,
+      "breakingPeace": 65,
+      "damage": 14,
+      "deception": 136,
+      "kill": 42,
+      "miscellaneous": 17,
+      "royalOffences": 115,
+      "sexual": 47,
+      "theft": 319,
+      "violentTheft": 68
+    },
+    {
+      "year": 1872,
+      "Unknown": 1,
+      "breakingPeace": 67,
+      "damage": 11,
+      "deception": 107,
+      "kill": 60,
+      "miscellaneous": 25,
+      "royalOffences": 95,
+      "sexual": 54,
+      "theft": 265,
+      "violentTheft": 57
+    },
+    {
+      "year": 1873,
+      "Unknown": 1,
+      "breakingPeace": 68,
+      "damage": 5,
+      "deception": 104,
+      "kill": 47,
+      "miscellaneous": 12,
+      "royalOffences": 64,
+      "sexual": 49,
+      "theft": 316,
+      "violentTheft": 37
+    },
+    {
+      "year": 1874,
+      "Unknown": 1,
+      "breakingPeace": 82,
+      "damage": 6,
+      "deception": 118,
+      "kill": 31,
+      "miscellaneous": 26,
+      "royalOffences": 92,
+      "sexual": 31,
+      "theft": 294,
+      "violentTheft": 39
+    },
+    {
+      "year": 1875,
+      "Unknown": 0,
+      "breakingPeace": 75,
+      "damage": 11,
+      "deception": 138,
+      "kill": 35,
+      "miscellaneous": 20,
+      "royalOffences": 84,
+      "sexual": 41,
+      "theft": 273,
+      "violentTheft": 28
+    },
+    {
+      "year": 1876,
+      "Unknown": 0,
+      "breakingPeace": 81,
+      "damage": 16,
+      "deception": 136,
+      "kill": 46,
+      "miscellaneous": 17,
+      "royalOffences": 82,
+      "sexual": 51,
+      "theft": 330,
+      "violentTheft": 56
+    },
+    {
+      "year": 1877,
+      "Unknown": 0,
+      "breakingPeace": 93,
+      "damage": 13,
+      "deception": 161,
+      "kill": 41,
+      "miscellaneous": 16,
+      "royalOffences": 66,
+      "sexual": 51,
+      "theft": 333,
+      "violentTheft": 48
+    },
+    {
+      "year": 1878,
+      "Unknown": 0,
+      "breakingPeace": 90,
+      "damage": 14,
+      "deception": 209,
+      "kill": 34,
+      "miscellaneous": 13,
+      "royalOffences": 91,
+      "sexual": 41,
+      "theft": 347,
+      "violentTheft": 64
+    },
+    {
+      "year": 1879,
+      "Unknown": 0,
+      "breakingPeace": 86,
+      "damage": 24,
+      "deception": 193,
+      "kill": 52,
+      "miscellaneous": 10,
+      "royalOffences": 106,
+      "sexual": 66,
+      "theft": 343,
+      "violentTheft": 56
+    },
+    {
+      "year": 1880,
+      "Unknown": 0,
+      "breakingPeace": 81,
+      "damage": 21,
+      "deception": 175,
+      "kill": 47,
+      "miscellaneous": 23,
+      "royalOffences": 109,
+      "sexual": 53,
+      "theft": 288,
+      "violentTheft": 55
+    },
+    {
+      "year": 1881,
+      "Unknown": 0,
+      "breakingPeace": 84,
+      "damage": 24,
+      "deception": 196,
+      "kill": 47,
+      "miscellaneous": 13,
+      "royalOffences": 112,
+      "sexual": 67,
+      "theft": 328,
+      "violentTheft": 65
+    },
+    {
+      "year": 1882,
+      "Unknown": 0,
+      "breakingPeace": 102,
+      "damage": 18,
+      "deception": 179,
+      "kill": 53,
+      "miscellaneous": 24,
+      "royalOffences": 143,
+      "sexual": 63,
+      "theft": 352,
+      "violentTheft": 95
+    },
+    {
+      "year": 1883,
+      "Unknown": 0,
+      "breakingPeace": 86,
+      "damage": 19,
+      "deception": 196,
+      "kill": 44,
+      "miscellaneous": 26,
+      "royalOffences": 138,
+      "sexual": 54,
+      "theft": 353,
+      "violentTheft": 75
+    },
+    {
+      "year": 1884,
+      "Unknown": 0,
+      "breakingPeace": 106,
+      "damage": 17,
+      "deception": 182,
+      "kill": 48,
+      "miscellaneous": 21,
+      "royalOffences": 199,
+      "sexual": 91,
+      "theft": 383,
+      "violentTheft": 77
+    },
+    {
+      "year": 1885,
+      "Unknown": 1,
+      "breakingPeace": 85,
+      "damage": 16,
+      "deception": 183,
+      "kill": 45,
+      "miscellaneous": 17,
+      "royalOffences": 149,
+      "sexual": 85,
+      "theft": 305,
+      "violentTheft": 62
+    },
+    {
+      "year": 1886,
+      "Unknown": 0,
+      "breakingPeace": 98,
+      "damage": 14,
+      "deception": 184,
+      "kill": 36,
+      "miscellaneous": 20,
+      "royalOffences": 191,
+      "sexual": 154,
+      "theft": 332,
+      "violentTheft": 69
+    },
+    {
+      "year": 1887,
+      "Unknown": 1,
+      "breakingPeace": 99,
+      "damage": 22,
+      "deception": 171,
+      "kill": 43,
+      "miscellaneous": 28,
+      "royalOffences": 128,
+      "sexual": 125,
+      "theft": 378,
+      "violentTheft": 65
+    },
+    {
+      "year": 1888,
+      "Unknown": 0,
+      "breakingPeace": 95,
+      "damage": 18,
+      "deception": 175,
+      "kill": 37,
+      "miscellaneous": 21,
+      "royalOffences": 70,
+      "sexual": 105,
+      "theft": 386,
+      "violentTheft": 75
+    },
+    {
+      "year": 1889,
+      "Unknown": 0,
+      "breakingPeace": 87,
+      "damage": 20,
+      "deception": 158,
+      "kill": 38,
+      "miscellaneous": 20,
+      "royalOffences": 43,
+      "sexual": 118,
+      "theft": 354,
+      "violentTheft": 66
+    },
+    {
+      "year": 1890,
+      "Unknown": 0,
+      "breakingPeace": 98,
+      "damage": 9,
+      "deception": 142,
+      "kill": 52,
+      "miscellaneous": 27,
+      "royalOffences": 49,
+      "sexual": 131,
+      "theft": 284,
+      "violentTheft": 45
+    },
+    {
+      "year": 1891,
+      "Unknown": 0,
+      "breakingPeace": 100,
+      "damage": 28,
+      "deception": 170,
+      "kill": 43,
+      "miscellaneous": 27,
+      "royalOffences": 45,
+      "sexual": 151,
+      "theft": 308,
+      "violentTheft": 46
+    },
+    {
+      "year": 1892,
+      "Unknown": 1,
+      "breakingPeace": 83,
+      "damage": 9,
+      "deception": 186,
+      "kill": 34,
+      "miscellaneous": 22,
+      "royalOffences": 83,
+      "sexual": 145,
+      "theft": 354,
+      "violentTheft": 63
+    },
+    {
+      "year": 1893,
+      "Unknown": 0,
+      "breakingPeace": 73,
+      "damage": 16,
+      "deception": 209,
+      "kill": 38,
+      "miscellaneous": 22,
+      "royalOffences": 80,
+      "sexual": 125,
+      "theft": 324,
+      "violentTheft": 52
+    },
+    {
+      "year": 1894,
+      "Unknown": 2,
+      "breakingPeace": 74,
+      "damage": 10,
+      "deception": 185,
+      "kill": 35,
+      "miscellaneous": 18,
+      "royalOffences": 43,
+      "sexual": 98,
+      "theft": 330,
+      "violentTheft": 52
+    },
+    {
+      "year": 1895,
+      "Unknown": 0,
+      "breakingPeace": 82,
+      "damage": 22,
+      "deception": 160,
+      "kill": 50,
+      "miscellaneous": 21,
+      "royalOffences": 35,
+      "sexual": 111,
+      "theft": 325,
+      "violentTheft": 54
+    },
+    {
+      "year": 1896,
+      "Unknown": 0,
+      "breakingPeace": 87,
+      "damage": 15,
+      "deception": 186,
+      "kill": 35,
+      "miscellaneous": 23,
+      "royalOffences": 29,
+      "sexual": 109,
+      "theft": 293,
+      "violentTheft": 58
+    },
+    {
+      "year": 1897,
+      "Unknown": 0,
+      "breakingPeace": 97,
+      "damage": 10,
+      "deception": 140,
+      "kill": 39,
+      "miscellaneous": 28,
+      "royalOffences": 37,
+      "sexual": 94,
+      "theft": 206,
+      "violentTheft": 63
+    },
+    {
+      "year": 1898,
+      "Unknown": 0,
+      "breakingPeace": 77,
+      "damage": 16,
+      "deception": 147,
+      "kill": 54,
+      "miscellaneous": 12,
+      "royalOffences": 54,
+      "sexual": 119,
+      "theft": 205,
+      "violentTheft": 80
+    },
+    {
+      "year": 1899,
+      "Unknown": 0,
+      "breakingPeace": 83,
+      "damage": 7,
+      "deception": 148,
+      "kill": 42,
+      "miscellaneous": 16,
+      "royalOffences": 47,
+      "sexual": 99,
+      "theft": 195,
+      "violentTheft": 68
+    },
+    {
+      "year": 1900,
+      "Unknown": 0,
+      "breakingPeace": 89,
+      "damage": 11,
+      "deception": 135,
+      "kill": 43,
+      "miscellaneous": 21,
+      "royalOffences": 26,
+      "sexual": 118,
+      "theft": 218,
+      "violentTheft": 44
+    },
+    {
+      "year": 1901,
+      "Unknown": 0,
+      "breakingPeace": 107,
+      "damage": 10,
+      "deception": 154,
+      "kill": 48,
+      "miscellaneous": 17,
+      "royalOffences": 22,
+      "sexual": 115,
+      "theft": 251,
+      "violentTheft": 61
+    },
+    {
+      "year": 1902,
+      "Unknown": 0,
+      "breakingPeace": 92,
+      "damage": 17,
+      "deception": 192,
+      "kill": 62,
+      "miscellaneous": 22,
+      "royalOffences": 26,
+      "sexual": 110,
+      "theft": 227,
+      "violentTheft": 57
+    },
+    {
+      "year": 1903,
+      "Unknown": 0,
+      "breakingPeace": 107,
+      "damage": 12,
+      "deception": 187,
+      "kill": 41,
+      "miscellaneous": 25,
+      "royalOffences": 24,
+      "sexual": 137,
+      "theft": 248,
+      "violentTheft": 58
+    },
+    {
+      "year": 1904,
+      "Unknown": 0,
+      "breakingPeace": 93,
+      "damage": 14,
+      "deception": 170,
+      "kill": 42,
+      "miscellaneous": 23,
+      "royalOffences": 35,
+      "sexual": 130,
+      "theft": 259,
+      "violentTheft": 43
+    },
+    {
+      "year": 1905,
+      "Unknown": 1,
+      "breakingPeace": 98,
+      "damage": 10,
+      "deception": 175,
+      "kill": 44,
+      "miscellaneous": 16,
+      "royalOffences": 66,
+      "sexual": 109,
+      "theft": 242,
+      "violentTheft": 38
+    },
+    {
+      "year": 1906,
+      "Unknown": 0,
+      "breakingPeace": 97,
+      "damage": 7,
+      "deception": 187,
+      "kill": 34,
+      "miscellaneous": 21,
+      "royalOffences": 53,
+      "sexual": 134,
+      "theft": 229,
+      "violentTheft": 46
+    },
+    {
+      "year": 1907,
+      "Unknown": 1,
+      "breakingPeace": 106,
+      "damage": 11,
+      "deception": 166,
+      "kill": 37,
+      "miscellaneous": 12,
+      "royalOffences": 36,
+      "sexual": 111,
+      "theft": 241,
+      "violentTheft": 43
+    },
+    {
+      "year": 1908,
+      "Unknown": 0,
+      "breakingPeace": 93,
+      "damage": 8,
+      "deception": 158,
+      "kill": 40,
+      "miscellaneous": 22,
+      "royalOffences": 45,
+      "sexual": 96,
+      "theft": 241,
+      "violentTheft": 51
+    },
+    {
+      "year": 1909,
+      "Unknown": 0,
+      "breakingPeace": 86,
+      "damage": 20,
+      "deception": 211,
+      "kill": 36,
+      "miscellaneous": 24,
+      "royalOffences": 55,
+      "sexual": 129,
+      "theft": 237,
+      "violentTheft": 23
+    },
+    {
+      "year": 1910,
+      "Unknown": 0,
+      "breakingPeace": 80,
+      "damage": 11,
+      "deception": 172,
+      "kill": 29,
+      "miscellaneous": 25,
+      "royalOffences": 88,
+      "sexual": 102,
+      "theft": 250,
+      "violentTheft": 36
+    },
+    {
+      "year": 1911,
+      "Unknown": 0,
+      "breakingPeace": 82,
+      "damage": 10,
+      "deception": 162,
+      "kill": 41,
+      "miscellaneous": 21,
+      "royalOffences": 72,
+      "sexual": 98,
+      "theft": 256,
+      "violentTheft": 30
+    },
+    {
+      "year": 1912,
+      "Unknown": 0,
+      "breakingPeace": 93,
+      "damage": 15,
+      "deception": 194,
+      "kill": 43,
+      "miscellaneous": 17,
+      "royalOffences": 47,
+      "sexual": 114,
+      "theft": 240,
+      "violentTheft": 33
+    },
+    {
+      "year": 1913,
+      "Unknown": 0,
+      "breakingPeace": 27,
+      "damage": 10,
+      "deception": 72,
+      "kill": 14,
+      "miscellaneous": 9,
+      "royalOffences": 13,
+      "sexual": 44,
+      "theft": 96,
+      "violentTheft": 10
+    }
+  ],
+  "structure_by_year": [
+    {
+      "year": 1674,
+      "other": 15,
+      "property": 13,
+      "violent": 8
+    },
+    {
+      "year": 1675,
+      "other": 13,
+      "property": 16,
+      "violent": 21
+    },
+    {
+      "year": 1676,
+      "other": 28,
+      "property": 38,
+      "violent": 20
+    },
+    {
+      "year": 1677,
+      "other": 27,
+      "property": 25,
+      "violent": 30
+    },
+    {
+      "year": 1678,
+      "other": 43,
+      "property": 49,
+      "violent": 31
+    },
+    {
+      "year": 1679,
+      "other": 36,
+      "property": 44,
+      "violent": 34
+    },
+    {
+      "year": 1680,
+      "other": 29,
+      "property": 57,
+      "violent": 23
+    },
+    {
+      "year": 1681,
+      "other": 35,
+      "property": 61,
+      "violent": 32
+    },
+    {
+      "year": 1682,
+      "other": 47,
+      "property": 83,
+      "violent": 27
+    },
+    {
+      "year": 1683,
+      "other": 85,
+      "property": 69,
+      "violent": 47
+    },
+    {
+      "year": 1684,
+      "other": 106,
+      "property": 146,
+      "violent": 54
+    },
+    {
+      "year": 1685,
+      "other": 124,
+      "property": 185,
+      "violent": 48
+    },
+    {
+      "year": 1686,
+      "other": 54,
+      "property": 200,
+      "violent": 48
+    },
+    {
+      "year": 1687,
+      "other": 116,
+      "property": 229,
+      "violent": 46
+    },
+    {
+      "year": 1688,
+      "other": 53,
+      "property": 164,
+      "violent": 61
+    },
+    {
+      "year": 1689,
+      "other": 50,
+      "property": 168,
+      "violent": 63
+    },
+    {
+      "year": 1690,
+      "other": 81,
+      "property": 190,
+      "violent": 51
+    },
+    {
+      "year": 1691,
+      "other": 70,
+      "property": 159,
+      "violent": 56
+    },
+    {
+      "year": 1692,
+      "other": 61,
+      "property": 150,
+      "violent": 37
+    },
+    {
+      "year": 1693,
+      "other": 151,
+      "property": 260,
+      "violent": 56
+    },
+    {
+      "year": 1694,
+      "other": 85,
+      "property": 188,
+      "violent": 46
+    },
+    {
+      "year": 1695,
+      "other": 145,
+      "property": 150,
+      "violent": 45
+    },
+    {
+      "year": 1696,
+      "other": 119,
+      "property": 163,
+      "violent": 39
+    },
+    {
+      "year": 1697,
+      "other": 61,
+      "property": 206,
+      "violent": 43
+    },
+    {
+      "year": 1698,
+      "other": 101,
+      "property": 202,
+      "violent": 48
+    },
+    {
+      "year": 1699,
+      "other": 36,
+      "property": 131,
+      "violent": 14
+    },
+    {
+      "year": 1700,
+      "other": 22,
+      "property": 92,
+      "violent": 10
+    },
+    {
+      "year": 1702,
+      "other": 11,
+      "property": 54,
+      "violent": 4
+    },
+    {
+      "year": 1703,
+      "other": 7,
+      "property": 56,
+      "violent": 9
+    },
+    {
+      "year": 1704,
+      "other": 9,
+      "property": 91,
+      "violent": 17
+    },
+    {
+      "year": 1706,
+      "other": 1,
+      "property": 0,
+      "violent": 0
+    },
+    {
+      "year": 1707,
+      "other": 29,
+      "property": 116,
+      "violent": 19
+    },
+    {
+      "year": 1708,
+      "other": 35,
+      "property": 107,
+      "violent": 24
+    },
+    {
+      "year": 1709,
+      "other": 13,
+      "property": 75,
+      "violent": 11
+    },
+    {
+      "year": 1710,
+      "other": 28,
+      "property": 133,
+      "violent": 13
+    },
+    {
+      "year": 1711,
+      "other": 20,
+      "property": 130,
+      "violent": 17
+    },
+    {
+      "year": 1712,
+      "other": 60,
+      "property": 101,
+      "violent": 8
+    },
+    {
+      "year": 1713,
+      "other": 20,
+      "property": 85,
+      "violent": 8
+    },
+    {
+      "year": 1714,
+      "other": 67,
+      "property": 189,
+      "violent": 29
+    },
+    {
+      "year": 1715,
+      "other": 108,
+      "property": 308,
+      "violent": 53
+    },
+    {
+      "year": 1716,
+      "other": 61,
+      "property": 314,
+      "violent": 41
+    },
+    {
+      "year": 1717,
+      "other": 41,
+      "property": 314,
+      "violent": 49
+    },
+    {
+      "year": 1718,
+      "other": 63,
+      "property": 295,
+      "violent": 51
+    },
+    {
+      "year": 1719,
+      "other": 67,
+      "property": 276,
+      "violent": 50
+    },
+    {
+      "year": 1720,
+      "other": 40,
+      "property": 308,
+      "violent": 60
+    },
+    {
+      "year": 1721,
+      "other": 39,
+      "property": 373,
+      "violent": 77
+    },
+    {
+      "year": 1722,
+      "other": 33,
+      "property": 329,
+      "violent": 73
+    },
+    {
+      "year": 1723,
+      "other": 41,
+      "property": 337,
+      "violent": 46
+    },
+    {
+      "year": 1724,
+      "other": 66,
+      "property": 425,
+      "violent": 40
+    },
+    {
+      "year": 1725,
+      "other": 165,
+      "property": 388,
+      "violent": 51
+    },
+    {
+      "year": 1726,
+      "other": 175,
+      "property": 290,
+      "violent": 57
+    },
+    {
+      "year": 1727,
+      "other": 101,
+      "property": 307,
+      "violent": 48
+    },
+    {
+      "year": 1728,
+      "other": 106,
+      "property": 318,
+      "violent": 61
+    },
+    {
+      "year": 1729,
+      "other": 171,
+      "property": 347,
+      "violent": 44
+    },
+    {
+      "year": 1730,
+      "other": 86,
+      "property": 394,
+      "violent": 74
+    },
+    {
+      "year": 1731,
+      "other": 69,
+      "property": 393,
+      "violent": 55
+    },
+    {
+      "year": 1732,
+      "other": 159,
+      "property": 253,
+      "violent": 66
+    },
+    {
+      "year": 1733,
+      "other": 166,
+      "property": 227,
+      "violent": 48
+    },
+    {
+      "year": 1734,
+      "other": 157,
+      "property": 209,
+      "violent": 45
+    },
+    {
+      "year": 1735,
+      "other": 220,
+      "property": 243,
+      "violent": 66
+    },
+    {
+      "year": 1736,
+      "other": 125,
+      "property": 325,
+      "violent": 39
+    },
+    {
+      "year": 1737,
+      "other": 36,
+      "property": 348,
+      "violent": 52
+    },
+    {
+      "year": 1738,
+      "other": 37,
+      "property": 277,
+      "violent": 44
+    },
+    {
+      "year": 1739,
+      "other": 49,
+      "property": 364,
+      "violent": 46
+    },
+    {
+      "year": 1740,
+      "other": 73,
+      "property": 325,
+      "violent": 42
+    },
+    {
+      "year": 1741,
+      "other": 117,
+      "property": 327,
+      "violent": 55
+    },
+    {
+      "year": 1742,
+      "other": 81,
+      "property": 265,
+      "violent": 46
+    },
+    {
+      "year": 1743,
+      "other": 51,
+      "property": 343,
+      "violent": 53
+    },
+    {
+      "year": 1744,
+      "other": 17,
+      "property": 305,
+      "violent": 61
+    },
+    {
+      "year": 1745,
+      "other": 24,
+      "property": 236,
+      "violent": 40
+    },
+    {
+      "year": 1746,
+      "other": 143,
+      "property": 172,
+      "violent": 33
+    },
+    {
+      "year": 1747,
+      "other": 82,
+      "property": 243,
+      "violent": 30
+    },
+    {
+      "year": 1748,
+      "other": 79,
+      "property": 369,
+      "violent": 33
+    },
+    {
+      "year": 1749,
+      "other": 82,
+      "property": 426,
+      "violent": 69
+    },
+    {
+      "year": 1750,
+      "other": 61,
+      "property": 392,
+      "violent": 86
+    },
+    {
+      "year": 1751,
+      "other": 69,
+      "property": 373,
+      "violent": 57
+    },
+    {
+      "year": 1752,
+      "other": 41,
+      "property": 359,
+      "violent": 56
+    },
+    {
+      "year": 1753,
+      "other": 53,
+      "property": 355,
+      "violent": 52
+    },
+    {
+      "year": 1754,
+      "other": 47,
+      "property": 346,
+      "violent": 43
+    },
+    {
+      "year": 1755,
+      "other": 44,
+      "property": 274,
+      "violent": 35
+    },
+    {
+      "year": 1756,
+      "other": 27,
+      "property": 306,
+      "violent": 32
+    },
+    {
+      "year": 1757,
+      "other": 29,
+      "property": 300,
+      "violent": 25
+    },
+    {
+      "year": 1758,
+      "other": 26,
+      "property": 277,
+      "violent": 18
+    },
+    {
+      "year": 1759,
+      "other": 14,
+      "property": 240,
+      "violent": 20
+    },
+    {
+      "year": 1760,
+      "other": 20,
+      "property": 242,
+      "violent": 21
+    },
+    {
+      "year": 1761,
+      "other": 17,
+      "property": 279,
+      "violent": 29
+    },
+    {
+      "year": 1762,
+      "other": 22,
+      "property": 246,
+      "violent": 23
+    },
+    {
+      "year": 1763,
+      "other": 23,
+      "property": 343,
+      "violent": 51
+    },
+    {
+      "year": 1764,
+      "other": 32,
+      "property": 453,
+      "violent": 38
+    },
+    {
+      "year": 1765,
+      "other": 21,
+      "property": 376,
+      "violent": 29
+    },
+    {
+      "year": 1766,
+      "other": 44,
+      "property": 387,
+      "violent": 33
+    },
+    {
+      "year": 1767,
+      "other": 44,
+      "property": 410,
+      "violent": 32
+    },
+    {
+      "year": 1768,
+      "other": 24,
+      "property": 420,
+      "violent": 52
+    },
+    {
+      "year": 1769,
+      "other": 24,
+      "property": 423,
+      "violent": 48
+    },
+    {
+      "year": 1770,
+      "other": 33,
+      "property": 441,
+      "violent": 58
+    },
+    {
+      "year": 1771,
+      "other": 62,
+      "property": 527,
+      "violent": 51
+    },
+    {
+      "year": 1772,
+      "other": 52,
+      "property": 529,
+      "violent": 80
+    },
+    {
+      "year": 1773,
+      "other": 58,
+      "property": 560,
+      "violent": 55
+    },
+    {
+      "year": 1774,
+      "other": 40,
+      "property": 570,
+      "violent": 63
+    },
+    {
+      "year": 1775,
+      "other": 75,
+      "property": 482,
+      "violent": 60
+    },
+    {
+      "year": 1776,
+      "other": 34,
+      "property": 497,
+      "violent": 77
+    },
+    {
+      "year": 1777,
+      "other": 37,
+      "property": 518,
+      "violent": 45
+    },
+    {
+      "year": 1778,
+      "other": 49,
+      "property": 490,
+      "violent": 69
+    },
+    {
+      "year": 1779,
+      "other": 31,
+      "property": 303,
+      "violent": 47
+    },
+    {
+      "year": 1780,
+      "other": 30,
+      "property": 384,
+      "violent": 119
+    },
+    {
+      "year": 1781,
+      "other": 37,
+      "property": 421,
+      "violent": 70
+    },
+    {
+      "year": 1782,
+      "other": 50,
+      "property": 505,
+      "violent": 70
+    },
+    {
+      "year": 1783,
+      "other": 90,
+      "property": 689,
+      "violent": 106
+    },
+    {
+      "year": 1784,
+      "other": 60,
+      "property": 876,
+      "violent": 120
+    },
+    {
+      "year": 1785,
+      "other": 74,
+      "property": 763,
+      "violent": 79
+    },
+    {
+      "year": 1786,
+      "other": 73,
+      "property": 755,
+      "violent": 104
+    },
+    {
+      "year": 1787,
+      "other": 60,
+      "property": 684,
+      "violent": 81
+    },
+    {
+      "year": 1788,
+      "other": 69,
+      "property": 614,
+      "violent": 58
+    },
+    {
+      "year": 1789,
+      "other": 69,
+      "property": 689,
+      "violent": 93
+    },
+    {
+      "year": 1790,
+      "other": 62,
+      "property": 600,
+      "violent": 61
+    },
+    {
+      "year": 1791,
+      "other": 40,
+      "property": 344,
+      "violent": 37
+    },
+    {
+      "year": 1792,
+      "other": 50,
+      "property": 489,
+      "violent": 52
+    },
+    {
+      "year": 1793,
+      "other": 49,
+      "property": 591,
+      "violent": 65
+    },
+    {
+      "year": 1794,
+      "other": 65,
+      "property": 512,
+      "violent": 49
+    },
+    {
+      "year": 1795,
+      "other": 47,
+      "property": 460,
+      "violent": 29
+    },
+    {
+      "year": 1796,
+      "other": 79,
+      "property": 513,
+      "violent": 41
+    },
+    {
+      "year": 1797,
+      "other": 59,
+      "property": 459,
+      "violent": 36
+    },
+    {
+      "year": 1798,
+      "other": 66,
+      "property": 497,
+      "violent": 34
+    },
+    {
+      "year": 1799,
+      "other": 56,
+      "property": 475,
+      "violent": 55
+    },
+    {
+      "year": 1800,
+      "other": 83,
+      "property": 711,
+      "violent": 43
+    },
+    {
+      "year": 1801,
+      "other": 86,
+      "property": 708,
+      "violent": 41
+    },
+    {
+      "year": 1802,
+      "other": 55,
+      "property": 794,
+      "violent": 64
+    },
+    {
+      "year": 1803,
+      "other": 84,
+      "property": 617,
+      "violent": 44
+    },
+    {
+      "year": 1804,
+      "other": 49,
+      "property": 516,
+      "violent": 34
+    },
+    {
+      "year": 1805,
+      "other": 71,
+      "property": 622,
+      "violent": 34
+    },
+    {
+      "year": 1806,
+      "other": 47,
+      "property": 583,
+      "violent": 28
+    },
+    {
+      "year": 1807,
+      "other": 71,
+      "property": 635,
+      "violent": 37
+    },
+    {
+      "year": 1808,
+      "other": 47,
+      "property": 686,
+      "violent": 42
+    },
+    {
+      "year": 1809,
+      "other": 79,
+      "property": 801,
+      "violent": 48
+    },
+    {
+      "year": 1810,
+      "other": 82,
+      "property": 770,
+      "violent": 60
+    },
+    {
+      "year": 1811,
+      "other": 86,
+      "property": 776,
+      "violent": 64
+    },
+    {
+      "year": 1812,
+      "other": 107,
+      "property": 865,
+      "violent": 58
+    },
+    {
+      "year": 1813,
+      "other": 127,
+      "property": 888,
+      "violent": 64
+    },
+    {
+      "year": 1814,
+      "other": 126,
+      "property": 884,
+      "violent": 70
+    },
+    {
+      "year": 1815,
+      "other": 118,
+      "property": 951,
+      "violent": 75
+    },
+    {
+      "year": 1816,
+      "other": 115,
+      "property": 1099,
+      "violent": 108
+    },
+    {
+      "year": 1817,
+      "other": 124,
+      "property": 1378,
+      "violent": 98
+    },
+    {
+      "year": 1818,
+      "other": 170,
+      "property": 1343,
+      "violent": 67
+    },
+    {
+      "year": 1819,
+      "other": 155,
+      "property": 1368,
+      "violent": 64
+    },
+    {
+      "year": 1820,
+      "other": 141,
+      "property": 1315,
+      "violent": 92
+    },
+    {
+      "year": 1821,
+      "other": 110,
+      "property": 1171,
+      "violent": 79
+    },
+    {
+      "year": 1822,
+      "other": 94,
+      "property": 1364,
+      "violent": 79
+    },
+    {
+      "year": 1823,
+      "other": 90,
+      "property": 1361,
+      "violent": 60
+    },
+    {
+      "year": 1824,
+      "other": 82,
+      "property": 1555,
+      "violent": 51
+    },
+    {
+      "year": 1825,
+      "other": 135,
+      "property": 1593,
+      "violent": 75
+    },
+    {
+      "year": 1826,
+      "other": 131,
+      "property": 1906,
+      "violent": 104
+    },
+    {
+      "year": 1827,
+      "other": 678,
+      "property": 1445,
+      "violent": 91
+    },
+    {
+      "year": 1828,
+      "other": 1493,
+      "property": 653,
+      "violent": 99
+    },
+    {
+      "year": 1829,
+      "other": 1448,
+      "property": 589,
+      "violent": 68
+    },
+    {
+      "year": 1830,
+      "other": 1350,
+      "property": 705,
+      "violent": 57
+    },
+    {
+      "year": 1831,
+      "other": 1421,
+      "property": 720,
+      "violent": 65
+    },
+    {
+      "year": 1832,
+      "other": 1560,
+      "property": 770,
+      "violent": 71
+    },
+    {
+      "year": 1833,
+      "other": 867,
+      "property": 541,
+      "violent": 83
+    },
+    {
+      "year": 1834,
+      "other": 932,
+      "property": 724,
+      "violent": 78
+    },
+    {
+      "year": 1835,
+      "other": 1073,
+      "property": 1066,
+      "violent": 99
+    },
+    {
+      "year": 1836,
+      "other": 1224,
+      "property": 1110,
+      "violent": 128
+    },
+    {
+      "year": 1837,
+      "other": 1342,
+      "property": 1059,
+      "violent": 126
+    },
+    {
+      "year": 1838,
+      "other": 1360,
+      "property": 1216,
+      "violent": 142
+    },
+    {
+      "year": 1839,
+      "other": 1576,
+      "property": 1075,
+      "violent": 171
+    },
+    {
+      "year": 1840,
+      "other": 1470,
+      "property": 1098,
+      "violent": 134
+    },
+    {
+      "year": 1841,
+      "other": 1483,
+      "property": 1158,
+      "violent": 150
+    },
+    {
+      "year": 1842,
+      "other": 1675,
+      "property": 1246,
+      "violent": 169
+    },
+    {
+      "year": 1843,
+      "other": 1474,
+      "property": 1441,
+      "violent": 185
+    },
+    {
+      "year": 1844,
+      "other": 1108,
+      "property": 1210,
+      "violent": 191
+    },
+    {
+      "year": 1845,
+      "other": 804,
+      "property": 1193,
+      "violent": 199
+    },
+    {
+      "year": 1846,
+      "other": 779,
+      "property": 1162,
+      "violent": 247
+    },
+    {
+      "year": 1847,
+      "other": 932,
+      "property": 1400,
+      "violent": 250
+    },
+    {
+      "year": 1848,
+      "other": 933,
+      "property": 1235,
+      "violent": 258
+    },
+    {
+      "year": 1849,
+      "other": 806,
+      "property": 962,
+      "violent": 222
+    },
+    {
+      "year": 1850,
+      "other": 764,
+      "property": 994,
+      "violent": 201
+    },
+    {
+      "year": 1851,
+      "other": 678,
+      "property": 889,
+      "violent": 232
+    },
+    {
+      "year": 1852,
+      "other": 473,
+      "property": 461,
+      "violent": 145
+    },
+    {
+      "year": 1853,
+      "other": 483,
+      "property": 516,
+      "violent": 136
+    },
+    {
+      "year": 1854,
+      "other": 556,
+      "property": 549,
+      "violent": 128
+    },
+    {
+      "year": 1855,
+      "other": 388,
+      "property": 450,
+      "violent": 124
+    },
+    {
+      "year": 1856,
+      "other": 420,
+      "property": 514,
+      "violent": 174
+    },
+    {
+      "year": 1857,
+      "other": 429,
+      "property": 480,
+      "violent": 208
+    },
+    {
+      "year": 1858,
+      "other": 443,
+      "property": 427,
+      "violent": 159
+    },
+    {
+      "year": 1859,
+      "other": 405,
+      "property": 394,
+      "violent": 173
+    },
+    {
+      "year": 1860,
+      "other": 379,
+      "property": 385,
+      "violent": 138
+    },
+    {
+      "year": 1861,
+      "other": 381,
+      "property": 413,
+      "violent": 155
+    },
+    {
+      "year": 1862,
+      "other": 405,
+      "property": 500,
+      "violent": 255
+    },
+    {
+      "year": 1863,
+      "other": 379,
+      "property": 556,
+      "violent": 238
+    },
+    {
+      "year": 1864,
+      "other": 364,
+      "property": 400,
+      "violent": 247
+    },
+    {
+      "year": 1865,
+      "other": 345,
+      "property": 431,
+      "violent": 237
+    },
+    {
+      "year": 1866,
+      "other": 305,
+      "property": 416,
+      "violent": 254
+    },
+    {
+      "year": 1867,
+      "other": 343,
+      "property": 417,
+      "violent": 221
+    },
+    {
+      "year": 1868,
+      "other": 361,
+      "property": 408,
+      "violent": 250
+    },
+    {
+      "year": 1869,
+      "other": 352,
+      "property": 409,
+      "violent": 203
+    },
+    {
+      "year": 1870,
+      "other": 251,
+      "property": 380,
+      "violent": 202
+    },
+    {
+      "year": 1871,
+      "other": 253,
+      "property": 359,
+      "violent": 211
+    },
+    {
+      "year": 1872,
+      "other": 251,
+      "property": 283,
+      "violent": 208
+    },
+    {
+      "year": 1873,
+      "other": 202,
+      "property": 319,
+      "violent": 182
+    },
+    {
+      "year": 1874,
+      "other": 231,
+      "property": 321,
+      "violent": 168
+    },
+    {
+      "year": 1875,
+      "other": 223,
+      "property": 325,
+      "violent": 157
+    },
+    {
+      "year": 1876,
+      "other": 255,
+      "property": 354,
+      "violent": 206
+    },
+    {
+      "year": 1877,
+      "other": 212,
+      "property": 404,
+      "violent": 206
+    },
+    {
+      "year": 1878,
+      "other": 271,
+      "property": 420,
+      "violent": 212
+    },
+    {
+      "year": 1879,
+      "other": 276,
+      "property": 426,
+      "violent": 234
+    },
+    {
+      "year": 1880,
+      "other": 280,
+      "property": 361,
+      "violent": 211
+    },
+    {
+      "year": 1881,
+      "other": 293,
+      "property": 408,
+      "violent": 235
+    },
+    {
+      "year": 1882,
+      "other": 329,
+      "property": 415,
+      "violent": 285
+    },
+    {
+      "year": 1883,
+      "other": 330,
+      "property": 423,
+      "violent": 238
+    },
+    {
+      "year": 1884,
+      "other": 436,
+      "property": 407,
+      "violent": 281
+    },
+    {
+      "year": 1885,
+      "other": 319,
+      "property": 379,
+      "violent": 250
+    },
+    {
+      "year": 1886,
+      "other": 371,
+      "property": 400,
+      "violent": 327
+    },
+    {
+      "year": 1887,
+      "other": 354,
+      "property": 407,
+      "violent": 299
+    },
+    {
+      "year": 1888,
+      "other": 285,
+      "property": 413,
+      "violent": 284
+    },
+    {
+      "year": 1889,
+      "other": 266,
+      "property": 365,
+      "violent": 273
+    },
+    {
+      "year": 1890,
+      "other": 239,
+      "property": 311,
+      "violent": 287
+    },
+    {
+      "year": 1891,
+      "other": 220,
+      "property": 391,
+      "violent": 307
+    },
+    {
+      "year": 1892,
+      "other": 278,
+      "property": 422,
+      "violent": 280
+    },
+    {
+      "year": 1893,
+      "other": 265,
+      "property": 421,
+      "violent": 253
+    },
+    {
+      "year": 1894,
+      "other": 217,
+      "property": 398,
+      "violent": 232
+    },
+    {
+      "year": 1895,
+      "other": 207,
+      "property": 393,
+      "violent": 260
+    },
+    {
+      "year": 1896,
+      "other": 208,
+      "property": 381,
+      "violent": 246
+    },
+    {
+      "year": 1897,
+      "other": 203,
+      "property": 256,
+      "violent": 255
+    },
+    {
+      "year": 1898,
+      "other": 216,
+      "property": 259,
+      "violent": 289
+    },
+    {
+      "year": 1899,
+      "other": 199,
+      "property": 243,
+      "violent": 263
+    },
+    {
+      "year": 1900,
+      "other": 204,
+      "property": 242,
+      "violent": 259
+    },
+    {
+      "year": 1901,
+      "other": 220,
+      "property": 274,
+      "violent": 291
+    },
+    {
+      "year": 1902,
+      "other": 207,
+      "property": 314,
+      "violent": 284
+    },
+    {
+      "year": 1903,
+      "other": 247,
+      "property": 303,
+      "violent": 289
+    },
+    {
+      "year": 1904,
+      "other": 282,
+      "property": 277,
+      "violent": 250
+    },
+    {
+      "year": 1905,
+      "other": 253,
+      "property": 301,
+      "violent": 245
+    },
+    {
+      "year": 1906,
+      "other": 232,
+      "property": 310,
+      "violent": 266
+    },
+    {
+      "year": 1907,
+      "other": 211,
+      "property": 298,
+      "violent": 255
+    },
+    {
+      "year": 1908,
+      "other": 230,
+      "property": 273,
+      "violent": 251
+    },
+    {
+      "year": 1909,
+      "other": 244,
+      "property": 349,
+      "violent": 228
+    },
+    {
+      "year": 1910,
+      "other": 294,
+      "property": 288,
+      "violent": 211
+    },
+    {
+      "year": 1911,
+      "other": 284,
+      "property": 287,
+      "violent": 201
+    },
+    {
+      "year": 1912,
+      "other": 251,
+      "property": 313,
+      "violent": 232
+    },
+    {
+      "year": 1913,
+      "other": 106,
+      "property": 119,
+      "violent": 70
+    }
+  ],
+  "age_structure": [
+    {
+      "year": 1674,
+      "adult(26-40)": 1,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 28,
+      "middle aged(41-60)": 4,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1675,
+      "adult(26-40)": 3,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 39,
+      "middle aged(41-60)": 5,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1676,
+      "adult(26-40)": 7,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 71,
+      "middle aged(41-60)": 5,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1677,
+      "adult(26-40)": 10,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 60,
+      "middle aged(41-60)": 12,
+      "youth(18-25)": 0
+    },
+    {
+      "year": 1678,
+      "adult(26-40)": 7,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 92,
+      "middle aged(41-60)": 18,
+      "youth(18-25)": 6
+    },
+    {
+      "year": 1679,
+      "adult(26-40)": 10,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 78,
+      "middle aged(41-60)": 24,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1680,
+      "adult(26-40)": 6,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 85,
+      "middle aged(41-60)": 15,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1681,
+      "adult(26-40)": 9,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 104,
+      "middle aged(41-60)": 11,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1682,
+      "adult(26-40)": 4,
+      "elderly(60+)": 4,
+      "juvenile(under 18)": 142,
+      "middle aged(41-60)": 6,
+      "youth(18-25)": 1
+    },
+    {
+      "year": 1683,
+      "adult(26-40)": 7,
+      "elderly(60+)": 6,
+      "juvenile(under 18)": 157,
+      "middle aged(41-60)": 28,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1684,
+      "adult(26-40)": 19,
+      "elderly(60+)": 15,
+      "juvenile(under 18)": 233,
+      "middle aged(41-60)": 38,
+      "youth(18-25)": 1
+    },
+    {
+      "year": 1685,
+      "adult(26-40)": 9,
+      "elderly(60+)": 16,
+      "juvenile(under 18)": 298,
+      "middle aged(41-60)": 34,
+      "youth(18-25)": 0
+    },
+    {
+      "year": 1686,
+      "adult(26-40)": 10,
+      "elderly(60+)": 9,
+      "juvenile(under 18)": 251,
+      "middle aged(41-60)": 30,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1687,
+      "adult(26-40)": 14,
+      "elderly(60+)": 6,
+      "juvenile(under 18)": 310,
+      "middle aged(41-60)": 57,
+      "youth(18-25)": 4
+    },
+    {
+      "year": 1688,
+      "adult(26-40)": 5,
+      "elderly(60+)": 15,
+      "juvenile(under 18)": 227,
+      "middle aged(41-60)": 23,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1689,
+      "adult(26-40)": 10,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 227,
+      "middle aged(41-60)": 26,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1690,
+      "adult(26-40)": 11,
+      "elderly(60+)": 9,
+      "juvenile(under 18)": 262,
+      "middle aged(41-60)": 37,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1691,
+      "adult(26-40)": 11,
+      "elderly(60+)": 6,
+      "juvenile(under 18)": 229,
+      "middle aged(41-60)": 29,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1692,
+      "adult(26-40)": 7,
+      "elderly(60+)": 9,
+      "juvenile(under 18)": 201,
+      "middle aged(41-60)": 28,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1693,
+      "adult(26-40)": 16,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 343,
+      "middle aged(41-60)": 96,
+      "youth(18-25)": 4
+    },
+    {
+      "year": 1694,
+      "adult(26-40)": 9,
+      "elderly(60+)": 7,
+      "juvenile(under 18)": 245,
+      "middle aged(41-60)": 56,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1695,
+      "adult(26-40)": 9,
+      "elderly(60+)": 6,
+      "juvenile(under 18)": 208,
+      "middle aged(41-60)": 114,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1696,
+      "adult(26-40)": 9,
+      "elderly(60+)": 2,
+      "juvenile(under 18)": 220,
+      "middle aged(41-60)": 89,
+      "youth(18-25)": 1
+    },
+    {
+      "year": 1697,
+      "adult(26-40)": 8,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 240,
+      "middle aged(41-60)": 59,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1698,
+      "adult(26-40)": 9,
+      "elderly(60+)": 4,
+      "juvenile(under 18)": 303,
+      "middle aged(41-60)": 32,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1699,
+      "adult(26-40)": 5,
+      "elderly(60+)": 3,
+      "juvenile(under 18)": 156,
+      "middle aged(41-60)": 16,
+      "youth(18-25)": 1
+    },
+    {
+      "year": 1700,
+      "adult(26-40)": 1,
+      "elderly(60+)": 2,
+      "juvenile(under 18)": 112,
+      "middle aged(41-60)": 9,
+      "youth(18-25)": 0
+    },
+    {
+      "year": 1702,
+      "adult(26-40)": 1,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 62,
+      "middle aged(41-60)": 6,
+      "youth(18-25)": 0
+    },
+    {
+      "year": 1703,
+      "adult(26-40)": 3,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 58,
+      "middle aged(41-60)": 10,
+      "youth(18-25)": 0
+    },
+    {
+      "year": 1704,
+      "adult(26-40)": 5,
+      "elderly(60+)": 5,
+      "juvenile(under 18)": 100,
+      "middle aged(41-60)": 4,
+      "youth(18-25)": 3
+    },
+    {
+      "year": 1706,
+      "adult(26-40)": 0,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 0,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 0
+    },
+    {
+      "year": 1707,
+      "adult(26-40)": 8,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 140,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 7
+    },
+    {
+      "year": 1708,
+      "adult(26-40)": 10,
+      "elderly(60+)": 4,
+      "juvenile(under 18)": 135,
+      "middle aged(41-60)": 5,
+      "youth(18-25)": 12
+    },
+    {
+      "year": 1709,
+      "adult(26-40)": 3,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 91,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 4
+    },
+    {
+      "year": 1710,
+      "adult(26-40)": 3,
+      "elderly(60+)": 4,
+      "juvenile(under 18)": 158,
+      "middle aged(41-60)": 8,
+      "youth(18-25)": 1
+    },
+    {
+      "year": 1711,
+      "adult(26-40)": 8,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 156,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1712,
+      "adult(26-40)": 7,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 156,
+      "middle aged(41-60)": 4,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1713,
+      "adult(26-40)": 4,
+      "elderly(60+)": 2,
+      "juvenile(under 18)": 105,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 2
+    },
+    {
+      "year": 1714,
+      "adult(26-40)": 16,
+      "elderly(60+)": 3,
+      "juvenile(under 18)": 250,
+      "middle aged(41-60)": 8,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1715,
+      "adult(26-40)": 26,
+      "elderly(60+)": 9,
+      "juvenile(under 18)": 415,
+      "middle aged(41-60)": 7,
+      "youth(18-25)": 12
+    },
+    {
+      "year": 1716,
+      "adult(26-40)": 23,
+      "elderly(60+)": 4,
+      "juvenile(under 18)": 366,
+      "middle aged(41-60)": 17,
+      "youth(18-25)": 6
+    },
+    {
+      "year": 1717,
+      "adult(26-40)": 15,
+      "elderly(60+)": 6,
+      "juvenile(under 18)": 368,
+      "middle aged(41-60)": 7,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1718,
+      "adult(26-40)": 21,
+      "elderly(60+)": 5,
+      "juvenile(under 18)": 361,
+      "middle aged(41-60)": 14,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1719,
+      "adult(26-40)": 19,
+      "elderly(60+)": 5,
+      "juvenile(under 18)": 351,
+      "middle aged(41-60)": 10,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1720,
+      "adult(26-40)": 18,
+      "elderly(60+)": 6,
+      "juvenile(under 18)": 363,
+      "middle aged(41-60)": 11,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1721,
+      "adult(26-40)": 31,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 435,
+      "middle aged(41-60)": 8,
+      "youth(18-25)": 7
+    },
+    {
+      "year": 1722,
+      "adult(26-40)": 20,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 402,
+      "middle aged(41-60)": 4,
+      "youth(18-25)": 9
+    },
+    {
+      "year": 1723,
+      "adult(26-40)": 26,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 387,
+      "middle aged(41-60)": 2,
+      "youth(18-25)": 9
+    },
+    {
+      "year": 1724,
+      "adult(26-40)": 16,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 495,
+      "middle aged(41-60)": 9,
+      "youth(18-25)": 11
+    },
+    {
+      "year": 1725,
+      "adult(26-40)": 19,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 573,
+      "middle aged(41-60)": 8,
+      "youth(18-25)": 4
+    },
+    {
+      "year": 1726,
+      "adult(26-40)": 26,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 482,
+      "middle aged(41-60)": 7,
+      "youth(18-25)": 7
+    },
+    {
+      "year": 1727,
+      "adult(26-40)": 16,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 418,
+      "middle aged(41-60)": 5,
+      "youth(18-25)": 17
+    },
+    {
+      "year": 1728,
+      "adult(26-40)": 10,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 455,
+      "middle aged(41-60)": 7,
+      "youth(18-25)": 13
+    },
+    {
+      "year": 1729,
+      "adult(26-40)": 13,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 535,
+      "middle aged(41-60)": 6,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1730,
+      "adult(26-40)": 12,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 517,
+      "middle aged(41-60)": 5,
+      "youth(18-25)": 20
+    },
+    {
+      "year": 1731,
+      "adult(26-40)": 14,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 491,
+      "middle aged(41-60)": 3,
+      "youth(18-25)": 9
+    },
+    {
+      "year": 1732,
+      "adult(26-40)": 7,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 458,
+      "middle aged(41-60)": 2,
+      "youth(18-25)": 11
+    },
+    {
+      "year": 1733,
+      "adult(26-40)": 7,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 421,
+      "middle aged(41-60)": 2,
+      "youth(18-25)": 11
+    },
+    {
+      "year": 1734,
+      "adult(26-40)": 11,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 393,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 6
+    },
+    {
+      "year": 1735,
+      "adult(26-40)": 11,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 495,
+      "middle aged(41-60)": 3,
+      "youth(18-25)": 20
+    },
+    {
+      "year": 1736,
+      "adult(26-40)": 4,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 473,
+      "middle aged(41-60)": 2,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1737,
+      "adult(26-40)": 9,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 417,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 9
+    },
+    {
+      "year": 1738,
+      "adult(26-40)": 10,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 332,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 16
+    },
+    {
+      "year": 1739,
+      "adult(26-40)": 5,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 433,
+      "middle aged(41-60)": 3,
+      "youth(18-25)": 18
+    },
+    {
+      "year": 1740,
+      "adult(26-40)": 6,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 416,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 18
+    },
+    {
+      "year": 1741,
+      "adult(26-40)": 9,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 462,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 28
+    },
+    {
+      "year": 1742,
+      "adult(26-40)": 4,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 361,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 27
+    },
+    {
+      "year": 1743,
+      "adult(26-40)": 14,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 401,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 31
+    },
+    {
+      "year": 1744,
+      "adult(26-40)": 5,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 335,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 42
+    },
+    {
+      "year": 1745,
+      "adult(26-40)": 3,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 281,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 15
+    },
+    {
+      "year": 1746,
+      "adult(26-40)": 5,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 329,
+      "middle aged(41-60)": 4,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1747,
+      "adult(26-40)": 13,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 332,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 9
+    },
+    {
+      "year": 1748,
+      "adult(26-40)": 16,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 460,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 4
+    },
+    {
+      "year": 1749,
+      "adult(26-40)": 13,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 554,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 9
+    },
+    {
+      "year": 1750,
+      "adult(26-40)": 18,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 508,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 13
+    },
+    {
+      "year": 1751,
+      "adult(26-40)": 22,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 462,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 15
+    },
+    {
+      "year": 1752,
+      "adult(26-40)": 14,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 431,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 11
+    },
+    {
+      "year": 1753,
+      "adult(26-40)": 13,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 441,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 6
+    },
+    {
+      "year": 1754,
+      "adult(26-40)": 2,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 400,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 34
+    },
+    {
+      "year": 1755,
+      "adult(26-40)": 6,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 316,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 31
+    },
+    {
+      "year": 1756,
+      "adult(26-40)": 5,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 269,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 91
+    },
+    {
+      "year": 1757,
+      "adult(26-40)": 6,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 258,
+      "middle aged(41-60)": 82,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1758,
+      "adult(26-40)": 6,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 249,
+      "middle aged(41-60)": 51,
+      "youth(18-25)": 15
+    },
+    {
+      "year": 1759,
+      "adult(26-40)": 1,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 119,
+      "middle aged(41-60)": 75,
+      "youth(18-25)": 78
+    },
+    {
+      "year": 1760,
+      "adult(26-40)": 2,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 210,
+      "middle aged(41-60)": 61,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1761,
+      "adult(26-40)": 11,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 230,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 84
+    },
+    {
+      "year": 1762,
+      "adult(26-40)": 11,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 251,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 29
+    },
+    {
+      "year": 1763,
+      "adult(26-40)": 0,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 373,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 44
+    },
+    {
+      "year": 1764,
+      "adult(26-40)": 1,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 512,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1765,
+      "adult(26-40)": 4,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 417,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 5
+    },
+    {
+      "year": 1766,
+      "adult(26-40)": 4,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 452,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1767,
+      "adult(26-40)": 3,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 474,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 9
+    },
+    {
+      "year": 1768,
+      "adult(26-40)": 1,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 468,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 27
+    },
+    {
+      "year": 1769,
+      "adult(26-40)": 3,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 479,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 13
+    },
+    {
+      "year": 1770,
+      "adult(26-40)": 5,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 517,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1771,
+      "adult(26-40)": 7,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 625,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1772,
+      "adult(26-40)": 8,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 640,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 13
+    },
+    {
+      "year": 1773,
+      "adult(26-40)": 89,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 573,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 11
+    },
+    {
+      "year": 1774,
+      "adult(26-40)": 82,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 577,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 13
+    },
+    {
+      "year": 1775,
+      "adult(26-40)": 16,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 539,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 62
+    },
+    {
+      "year": 1776,
+      "adult(26-40)": 14,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 581,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 13
+    },
+    {
+      "year": 1777,
+      "adult(26-40)": 7,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 582,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 11
+    },
+    {
+      "year": 1778,
+      "adult(26-40)": 16,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 582,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 10
+    },
+    {
+      "year": 1779,
+      "adult(26-40)": 16,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 358,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 7
+    },
+    {
+      "year": 1780,
+      "adult(26-40)": 12,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 513,
+      "middle aged(41-60)": 0,
+      "youth(18-25)": 8
+    },
+    {
+      "year": 1781,
+      "adult(26-40)": 13,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 480,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 34
+    },
+    {
+      "year": 1782,
+      "adult(26-40)": 247,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 85,
+      "middle aged(41-60)": 11,
+      "youth(18-25)": 281
+    },
+    {
+      "year": 1783,
+      "adult(26-40)": 17,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 831,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 36
+    },
+    {
+      "year": 1784,
+      "adult(26-40)": 18,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 1024,
+      "middle aged(41-60)": 1,
+      "youth(18-25)": 13
+    },
+    {
+      "year": 1785,
+      "adult(26-40)": 23,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 868,
+      "middle aged(41-60)": 7,
+      "youth(18-25)": 18
+    },
+    {
+      "year": 1786,
+      "adult(26-40)": 21,
+      "elderly(60+)": 0,
+      "juvenile(under 18)": 869,
+      "middle aged(41-60)": 6,
+      "youth(18-25)": 36
+    },
+    {
+      "year": 1787,
+      "adult(26-40)": 15,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 772,
+      "middle aged(41-60)": 11,
+      "youth(18-25)": 26
+    },
+    {
+      "year": 1788,
+      "adult(26-40)": 75,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 603,
+      "middle aged(41-60)": 9,
+      "youth(18-25)": 53
+    },
+    {
+      "year": 1789,
+      "adult(26-40)": 120,
+      "elderly(60+)": 1,
+      "juvenile(under 18)": 568,
+      "middle aged(41-60)": 14,
+      "youth(18-25)": 148
+    },
+    {
+      "year": 1790,
+      "adult(26-40)": 139,
+      "elderly(60+)": 2,
+      "juvenile(under 18)": 233,
+      "middle aged(41-60)": 43,
+      "youth(18-25)": 306
+    },
+    {
+      "year": 1791,
+      "adult(26-40)": 130,
+      "elderly(60+)": 5,
+      "juvenile(under 18)": 22,
+      "middle aged(41-60)": 61,
+      "youth(18-25)": 203
+    },
+    {
+      "year": 1792,
+      "adult(26-40)": 365,
+      "elderly(60+)": 4,
+      "juvenile(under 18)": 28,
+      "middle aged(41-60)": 37,
+      "youth(18-25)": 157
+    },
+    {
+      "year": 1793,
+      "adult(26-40)": 375,
+      "elderly(60+)": 9,
+      "juvenile(under 18)": 106,
+      "middle aged(41-60)": 60,
+      "youth(18-25)": 155
+    },
+    {
+      "year": 1794,
+      "adult(26-40)": 337,
+      "elderly(60+)": 10,
+      "juvenile(under 18)": 25,
+      "middle aged(41-60)": 34,
+      "youth(18-25)": 220
+    },
+    {
+      "year": 1795,
+      "adult(26-40)": 260,
+      "elderly(60+)": 3,
+      "juvenile(under 18)": 37,
+      "middle aged(41-60)": 60,
+      "youth(18-25)": 176
+    },
+    {
+      "year": 1796,
+      "adult(26-40)": 264,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 24,
+      "middle aged(41-60)": 192,
+      "youth(18-25)": 145
+    },
+    {
+      "year": 1797,
+      "adult(26-40)": 245,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 27,
+      "middle aged(41-60)": 160,
+      "youth(18-25)": 114
+    },
+    {
+      "year": 1798,
+      "adult(26-40)": 262,
+      "elderly(60+)": 10,
+      "juvenile(under 18)": 26,
+      "middle aged(41-60)": 187,
+      "youth(18-25)": 112
+    },
+    {
+      "year": 1799,
+      "adult(26-40)": 273,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 34,
+      "middle aged(41-60)": 162,
+      "youth(18-25)": 109
+    },
+    {
+      "year": 1800,
+      "adult(26-40)": 355,
+      "elderly(60+)": 7,
+      "juvenile(under 18)": 53,
+      "middle aged(41-60)": 252,
+      "youth(18-25)": 170
+    },
+    {
+      "year": 1801,
+      "adult(26-40)": 348,
+      "elderly(60+)": 14,
+      "juvenile(under 18)": 51,
+      "middle aged(41-60)": 271,
+      "youth(18-25)": 151
+    },
+    {
+      "year": 1802,
+      "adult(26-40)": 346,
+      "elderly(60+)": 15,
+      "juvenile(under 18)": 76,
+      "middle aged(41-60)": 286,
+      "youth(18-25)": 190
+    },
+    {
+      "year": 1803,
+      "adult(26-40)": 319,
+      "elderly(60+)": 11,
+      "juvenile(under 18)": 35,
+      "middle aged(41-60)": 225,
+      "youth(18-25)": 155
+    },
+    {
+      "year": 1804,
+      "adult(26-40)": 258,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 37,
+      "middle aged(41-60)": 176,
+      "youth(18-25)": 111
+    },
+    {
+      "year": 1805,
+      "adult(26-40)": 370,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 41,
+      "middle aged(41-60)": 197,
+      "youth(18-25)": 107
+    },
+    {
+      "year": 1806,
+      "adult(26-40)": 400,
+      "elderly(60+)": 20,
+      "juvenile(under 18)": 45,
+      "middle aged(41-60)": 65,
+      "youth(18-25)": 128
+    },
+    {
+      "year": 1807,
+      "adult(26-40)": 249,
+      "elderly(60+)": 10,
+      "juvenile(under 18)": 105,
+      "middle aged(41-60)": 103,
+      "youth(18-25)": 276
+    },
+    {
+      "year": 1808,
+      "adult(26-40)": 261,
+      "elderly(60+)": 14,
+      "juvenile(under 18)": 236,
+      "middle aged(41-60)": 99,
+      "youth(18-25)": 165
+    },
+    {
+      "year": 1809,
+      "adult(26-40)": 298,
+      "elderly(60+)": 20,
+      "juvenile(under 18)": 279,
+      "middle aged(41-60)": 129,
+      "youth(18-25)": 202
+    },
+    {
+      "year": 1810,
+      "adult(26-40)": 305,
+      "elderly(60+)": 18,
+      "juvenile(under 18)": 200,
+      "middle aged(41-60)": 110,
+      "youth(18-25)": 279
+    },
+    {
+      "year": 1811,
+      "adult(26-40)": 308,
+      "elderly(60+)": 11,
+      "juvenile(under 18)": 172,
+      "middle aged(41-60)": 140,
+      "youth(18-25)": 295
+    },
+    {
+      "year": 1812,
+      "adult(26-40)": 353,
+      "elderly(60+)": 29,
+      "juvenile(under 18)": 140,
+      "middle aged(41-60)": 135,
+      "youth(18-25)": 373
+    },
+    {
+      "year": 1813,
+      "adult(26-40)": 363,
+      "elderly(60+)": 23,
+      "juvenile(under 18)": 75,
+      "middle aged(41-60)": 135,
+      "youth(18-25)": 483
+    },
+    {
+      "year": 1814,
+      "adult(26-40)": 328,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 83,
+      "middle aged(41-60)": 150,
+      "youth(18-25)": 502
+    },
+    {
+      "year": 1815,
+      "adult(26-40)": 585,
+      "elderly(60+)": 18,
+      "juvenile(under 18)": 81,
+      "middle aged(41-60)": 172,
+      "youth(18-25)": 288
+    },
+    {
+      "year": 1816,
+      "adult(26-40)": 578,
+      "elderly(60+)": 19,
+      "juvenile(under 18)": 138,
+      "middle aged(41-60)": 178,
+      "youth(18-25)": 409
+    },
+    {
+      "year": 1817,
+      "adult(26-40)": 477,
+      "elderly(60+)": 23,
+      "juvenile(under 18)": 180,
+      "middle aged(41-60)": 168,
+      "youth(18-25)": 752
+    },
+    {
+      "year": 1818,
+      "adult(26-40)": 670,
+      "elderly(60+)": 26,
+      "juvenile(under 18)": 176,
+      "middle aged(41-60)": 157,
+      "youth(18-25)": 551
+    },
+    {
+      "year": 1819,
+      "adult(26-40)": 411,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 215,
+      "middle aged(41-60)": 159,
+      "youth(18-25)": 785
+    },
+    {
+      "year": 1820,
+      "adult(26-40)": 374,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 441,
+      "middle aged(41-60)": 129,
+      "youth(18-25)": 587
+    },
+    {
+      "year": 1821,
+      "adult(26-40)": 329,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 463,
+      "middle aged(41-60)": 125,
+      "youth(18-25)": 431
+    },
+    {
+      "year": 1822,
+      "adult(26-40)": 396,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 582,
+      "middle aged(41-60)": 125,
+      "youth(18-25)": 417
+    },
+    {
+      "year": 1823,
+      "adult(26-40)": 301,
+      "elderly(60+)": 18,
+      "juvenile(under 18)": 606,
+      "middle aged(41-60)": 114,
+      "youth(18-25)": 472
+    },
+    {
+      "year": 1824,
+      "adult(26-40)": 342,
+      "elderly(60+)": 22,
+      "juvenile(under 18)": 671,
+      "middle aged(41-60)": 123,
+      "youth(18-25)": 530
+    },
+    {
+      "year": 1825,
+      "adult(26-40)": 374,
+      "elderly(60+)": 28,
+      "juvenile(under 18)": 401,
+      "middle aged(41-60)": 152,
+      "youth(18-25)": 848
+    },
+    {
+      "year": 1826,
+      "adult(26-40)": 782,
+      "elderly(60+)": 28,
+      "juvenile(under 18)": 459,
+      "middle aged(41-60)": 164,
+      "youth(18-25)": 708
+    },
+    {
+      "year": 1827,
+      "adult(26-40)": 483,
+      "elderly(60+)": 27,
+      "juvenile(under 18)": 456,
+      "middle aged(41-60)": 184,
+      "youth(18-25)": 1064
+    },
+    {
+      "year": 1828,
+      "adult(26-40)": 494,
+      "elderly(60+)": 32,
+      "juvenile(under 18)": 352,
+      "middle aged(41-60)": 188,
+      "youth(18-25)": 1179
+    },
+    {
+      "year": 1829,
+      "adult(26-40)": 458,
+      "elderly(60+)": 21,
+      "juvenile(under 18)": 349,
+      "middle aged(41-60)": 161,
+      "youth(18-25)": 1116
+    },
+    {
+      "year": 1830,
+      "adult(26-40)": 631,
+      "elderly(60+)": 20,
+      "juvenile(under 18)": 327,
+      "middle aged(41-60)": 137,
+      "youth(18-25)": 997
+    },
+    {
+      "year": 1831,
+      "adult(26-40)": 784,
+      "elderly(60+)": 14,
+      "juvenile(under 18)": 365,
+      "middle aged(41-60)": 161,
+      "youth(18-25)": 882
+    },
+    {
+      "year": 1832,
+      "adult(26-40)": 631,
+      "elderly(60+)": 15,
+      "juvenile(under 18)": 397,
+      "middle aged(41-60)": 176,
+      "youth(18-25)": 1182
+    },
+    {
+      "year": 1833,
+      "adult(26-40)": 436,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 205,
+      "middle aged(41-60)": 90,
+      "youth(18-25)": 748
+    },
+    {
+      "year": 1834,
+      "adult(26-40)": 380,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 285,
+      "middle aged(41-60)": 132,
+      "youth(18-25)": 920
+    },
+    {
+      "year": 1835,
+      "adult(26-40)": 942,
+      "elderly(60+)": 15,
+      "juvenile(under 18)": 310,
+      "middle aged(41-60)": 183,
+      "youth(18-25)": 788
+    },
+    {
+      "year": 1836,
+      "adult(26-40)": 1049,
+      "elderly(60+)": 29,
+      "juvenile(under 18)": 394,
+      "middle aged(41-60)": 202,
+      "youth(18-25)": 788
+    },
+    {
+      "year": 1837,
+      "adult(26-40)": 761,
+      "elderly(60+)": 38,
+      "juvenile(under 18)": 367,
+      "middle aged(41-60)": 199,
+      "youth(18-25)": 1162
+    },
+    {
+      "year": 1838,
+      "adult(26-40)": 742,
+      "elderly(60+)": 21,
+      "juvenile(under 18)": 436,
+      "middle aged(41-60)": 239,
+      "youth(18-25)": 1280
+    },
+    {
+      "year": 1839,
+      "adult(26-40)": 1042,
+      "elderly(60+)": 26,
+      "juvenile(under 18)": 457,
+      "middle aged(41-60)": 270,
+      "youth(18-25)": 1027
+    },
+    {
+      "year": 1840,
+      "adult(26-40)": 987,
+      "elderly(60+)": 42,
+      "juvenile(under 18)": 442,
+      "middle aged(41-60)": 242,
+      "youth(18-25)": 989
+    },
+    {
+      "year": 1841,
+      "adult(26-40)": 764,
+      "elderly(60+)": 21,
+      "juvenile(under 18)": 418,
+      "middle aged(41-60)": 261,
+      "youth(18-25)": 1327
+    },
+    {
+      "year": 1842,
+      "adult(26-40)": 1015,
+      "elderly(60+)": 36,
+      "juvenile(under 18)": 462,
+      "middle aged(41-60)": 276,
+      "youth(18-25)": 1301
+    },
+    {
+      "year": 1843,
+      "adult(26-40)": 1075,
+      "elderly(60+)": 24,
+      "juvenile(under 18)": 498,
+      "middle aged(41-60)": 228,
+      "youth(18-25)": 1275
+    },
+    {
+      "year": 1844,
+      "adult(26-40)": 1030,
+      "elderly(60+)": 23,
+      "juvenile(under 18)": 352,
+      "middle aged(41-60)": 196,
+      "youth(18-25)": 908
+    },
+    {
+      "year": 1845,
+      "adult(26-40)": 654,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 299,
+      "middle aged(41-60)": 170,
+      "youth(18-25)": 1061
+    },
+    {
+      "year": 1846,
+      "adult(26-40)": 690,
+      "elderly(60+)": 21,
+      "juvenile(under 18)": 279,
+      "middle aged(41-60)": 159,
+      "youth(18-25)": 1039
+    },
+    {
+      "year": 1847,
+      "adult(26-40)": 1064,
+      "elderly(60+)": 18,
+      "juvenile(under 18)": 347,
+      "middle aged(41-60)": 181,
+      "youth(18-25)": 972
+    },
+    {
+      "year": 1848,
+      "adult(26-40)": 1180,
+      "elderly(60+)": 16,
+      "juvenile(under 18)": 273,
+      "middle aged(41-60)": 175,
+      "youth(18-25)": 782
+    },
+    {
+      "year": 1849,
+      "adult(26-40)": 897,
+      "elderly(60+)": 14,
+      "juvenile(under 18)": 233,
+      "middle aged(41-60)": 114,
+      "youth(18-25)": 732
+    },
+    {
+      "year": 1850,
+      "adult(26-40)": 762,
+      "elderly(60+)": 13,
+      "juvenile(under 18)": 216,
+      "middle aged(41-60)": 175,
+      "youth(18-25)": 793
+    },
+    {
+      "year": 1851,
+      "adult(26-40)": 638,
+      "elderly(60+)": 16,
+      "juvenile(under 18)": 191,
+      "middle aged(41-60)": 196,
+      "youth(18-25)": 758
+    },
+    {
+      "year": 1852,
+      "adult(26-40)": 510,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 94,
+      "middle aged(41-60)": 80,
+      "youth(18-25)": 383
+    },
+    {
+      "year": 1853,
+      "adult(26-40)": 531,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 88,
+      "middle aged(41-60)": 129,
+      "youth(18-25)": 379
+    },
+    {
+      "year": 1854,
+      "adult(26-40)": 563,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 110,
+      "middle aged(41-60)": 100,
+      "youth(18-25)": 443
+    },
+    {
+      "year": 1855,
+      "adult(26-40)": 469,
+      "elderly(60+)": 9,
+      "juvenile(under 18)": 79,
+      "middle aged(41-60)": 82,
+      "youth(18-25)": 323
+    },
+    {
+      "year": 1856,
+      "adult(26-40)": 488,
+      "elderly(60+)": 14,
+      "juvenile(under 18)": 62,
+      "middle aged(41-60)": 95,
+      "youth(18-25)": 449
+    },
+    {
+      "year": 1857,
+      "adult(26-40)": 496,
+      "elderly(60+)": 9,
+      "juvenile(under 18)": 85,
+      "middle aged(41-60)": 116,
+      "youth(18-25)": 411
+    },
+    {
+      "year": 1858,
+      "adult(26-40)": 445,
+      "elderly(60+)": 13,
+      "juvenile(under 18)": 74,
+      "middle aged(41-60)": 107,
+      "youth(18-25)": 390
+    },
+    {
+      "year": 1859,
+      "adult(26-40)": 382,
+      "elderly(60+)": 15,
+      "juvenile(under 18)": 79,
+      "middle aged(41-60)": 140,
+      "youth(18-25)": 356
+    },
+    {
+      "year": 1860,
+      "adult(26-40)": 367,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 74,
+      "middle aged(41-60)": 114,
+      "youth(18-25)": 335
+    },
+    {
+      "year": 1861,
+      "adult(26-40)": 383,
+      "elderly(60+)": 21,
+      "juvenile(under 18)": 70,
+      "middle aged(41-60)": 137,
+      "youth(18-25)": 338
+    },
+    {
+      "year": 1862,
+      "adult(26-40)": 477,
+      "elderly(60+)": 15,
+      "juvenile(under 18)": 76,
+      "middle aged(41-60)": 144,
+      "youth(18-25)": 448
+    },
+    {
+      "year": 1863,
+      "adult(26-40)": 482,
+      "elderly(60+)": 10,
+      "juvenile(under 18)": 69,
+      "middle aged(41-60)": 152,
+      "youth(18-25)": 460
+    },
+    {
+      "year": 1864,
+      "adult(26-40)": 419,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 57,
+      "middle aged(41-60)": 130,
+      "youth(18-25)": 393
+    },
+    {
+      "year": 1865,
+      "adult(26-40)": 393,
+      "elderly(60+)": 10,
+      "juvenile(under 18)": 79,
+      "middle aged(41-60)": 144,
+      "youth(18-25)": 387
+    },
+    {
+      "year": 1866,
+      "adult(26-40)": 355,
+      "elderly(60+)": 13,
+      "juvenile(under 18)": 88,
+      "middle aged(41-60)": 124,
+      "youth(18-25)": 395
+    },
+    {
+      "year": 1867,
+      "adult(26-40)": 378,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 77,
+      "middle aged(41-60)": 128,
+      "youth(18-25)": 386
+    },
+    {
+      "year": 1868,
+      "adult(26-40)": 397,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 78,
+      "middle aged(41-60)": 108,
+      "youth(18-25)": 419
+    },
+    {
+      "year": 1869,
+      "adult(26-40)": 405,
+      "elderly(60+)": 19,
+      "juvenile(under 18)": 85,
+      "middle aged(41-60)": 138,
+      "youth(18-25)": 317
+    },
+    {
+      "year": 1870,
+      "adult(26-40)": 351,
+      "elderly(60+)": 11,
+      "juvenile(under 18)": 65,
+      "middle aged(41-60)": 119,
+      "youth(18-25)": 287
+    },
+    {
+      "year": 1871,
+      "adult(26-40)": 330,
+      "elderly(60+)": 14,
+      "juvenile(under 18)": 58,
+      "middle aged(41-60)": 110,
+      "youth(18-25)": 311
+    },
+    {
+      "year": 1872,
+      "adult(26-40)": 301,
+      "elderly(60+)": 8,
+      "juvenile(under 18)": 53,
+      "middle aged(41-60)": 108,
+      "youth(18-25)": 272
+    },
+    {
+      "year": 1873,
+      "adult(26-40)": 257,
+      "elderly(60+)": 16,
+      "juvenile(under 18)": 54,
+      "middle aged(41-60)": 116,
+      "youth(18-25)": 260
+    },
+    {
+      "year": 1874,
+      "adult(26-40)": 288,
+      "elderly(60+)": 16,
+      "juvenile(under 18)": 48,
+      "middle aged(41-60)": 110,
+      "youth(18-25)": 258
+    },
+    {
+      "year": 1875,
+      "adult(26-40)": 281,
+      "elderly(60+)": 14,
+      "juvenile(under 18)": 42,
+      "middle aged(41-60)": 119,
+      "youth(18-25)": 249
+    },
+    {
+      "year": 1876,
+      "adult(26-40)": 331,
+      "elderly(60+)": 11,
+      "juvenile(under 18)": 45,
+      "middle aged(41-60)": 143,
+      "youth(18-25)": 285
+    },
+    {
+      "year": 1877,
+      "adult(26-40)": 348,
+      "elderly(60+)": 16,
+      "juvenile(under 18)": 60,
+      "middle aged(41-60)": 124,
+      "youth(18-25)": 274
+    },
+    {
+      "year": 1878,
+      "adult(26-40)": 399,
+      "elderly(60+)": 17,
+      "juvenile(under 18)": 44,
+      "middle aged(41-60)": 156,
+      "youth(18-25)": 287
+    },
+    {
+      "year": 1879,
+      "adult(26-40)": 423,
+      "elderly(60+)": 26,
+      "juvenile(under 18)": 51,
+      "middle aged(41-60)": 154,
+      "youth(18-25)": 282
+    },
+    {
+      "year": 1880,
+      "adult(26-40)": 397,
+      "elderly(60+)": 18,
+      "juvenile(under 18)": 44,
+      "middle aged(41-60)": 120,
+      "youth(18-25)": 273
+    },
+    {
+      "year": 1881,
+      "adult(26-40)": 406,
+      "elderly(60+)": 23,
+      "juvenile(under 18)": 51,
+      "middle aged(41-60)": 136,
+      "youth(18-25)": 320
+    },
+    {
+      "year": 1882,
+      "adult(26-40)": 431,
+      "elderly(60+)": 20,
+      "juvenile(under 18)": 60,
+      "middle aged(41-60)": 149,
+      "youth(18-25)": 369
+    },
+    {
+      "year": 1883,
+      "adult(26-40)": 414,
+      "elderly(60+)": 22,
+      "juvenile(under 18)": 55,
+      "middle aged(41-60)": 137,
+      "youth(18-25)": 363
+    },
+    {
+      "year": 1884,
+      "adult(26-40)": 531,
+      "elderly(60+)": 18,
+      "juvenile(under 18)": 66,
+      "middle aged(41-60)": 148,
+      "youth(18-25)": 361
+    },
+    {
+      "year": 1885,
+      "adult(26-40)": 425,
+      "elderly(60+)": 22,
+      "juvenile(under 18)": 49,
+      "middle aged(41-60)": 159,
+      "youth(18-25)": 293
+    },
+    {
+      "year": 1886,
+      "adult(26-40)": 549,
+      "elderly(60+)": 37,
+      "juvenile(under 18)": 56,
+      "middle aged(41-60)": 138,
+      "youth(18-25)": 318
+    },
+    {
+      "year": 1887,
+      "adult(26-40)": 492,
+      "elderly(60+)": 19,
+      "juvenile(under 18)": 59,
+      "middle aged(41-60)": 161,
+      "youth(18-25)": 329
+    },
+    {
+      "year": 1888,
+      "adult(26-40)": 466,
+      "elderly(60+)": 23,
+      "juvenile(under 18)": 46,
+      "middle aged(41-60)": 135,
+      "youth(18-25)": 312
+    },
+    {
+      "year": 1889,
+      "adult(26-40)": 454,
+      "elderly(60+)": 25,
+      "juvenile(under 18)": 34,
+      "middle aged(41-60)": 139,
+      "youth(18-25)": 252
+    },
+    {
+      "year": 1890,
+      "adult(26-40)": 405,
+      "elderly(60+)": 36,
+      "juvenile(under 18)": 31,
+      "middle aged(41-60)": 136,
+      "youth(18-25)": 229
+    },
+    {
+      "year": 1891,
+      "adult(26-40)": 476,
+      "elderly(60+)": 28,
+      "juvenile(under 18)": 46,
+      "middle aged(41-60)": 140,
+      "youth(18-25)": 228
+    },
+    {
+      "year": 1892,
+      "adult(26-40)": 501,
+      "elderly(60+)": 25,
+      "juvenile(under 18)": 34,
+      "middle aged(41-60)": 140,
+      "youth(18-25)": 280
+    },
+    {
+      "year": 1893,
+      "adult(26-40)": 476,
+      "elderly(60+)": 26,
+      "juvenile(under 18)": 49,
+      "middle aged(41-60)": 136,
+      "youth(18-25)": 252
+    },
+    {
+      "year": 1894,
+      "adult(26-40)": 426,
+      "elderly(60+)": 27,
+      "juvenile(under 18)": 37,
+      "middle aged(41-60)": 138,
+      "youth(18-25)": 219
+    },
+    {
+      "year": 1895,
+      "adult(26-40)": 417,
+      "elderly(60+)": 29,
+      "juvenile(under 18)": 34,
+      "middle aged(41-60)": 116,
+      "youth(18-25)": 264
+    },
+    {
+      "year": 1896,
+      "adult(26-40)": 414,
+      "elderly(60+)": 30,
+      "juvenile(under 18)": 29,
+      "middle aged(41-60)": 128,
+      "youth(18-25)": 234
+    },
+    {
+      "year": 1897,
+      "adult(26-40)": 343,
+      "elderly(60+)": 25,
+      "juvenile(under 18)": 18,
+      "middle aged(41-60)": 112,
+      "youth(18-25)": 216
+    },
+    {
+      "year": 1898,
+      "adult(26-40)": 358,
+      "elderly(60+)": 25,
+      "juvenile(under 18)": 29,
+      "middle aged(41-60)": 133,
+      "youth(18-25)": 219
+    },
+    {
+      "year": 1899,
+      "adult(26-40)": 363,
+      "elderly(60+)": 24,
+      "juvenile(under 18)": 22,
+      "middle aged(41-60)": 102,
+      "youth(18-25)": 194
+    },
+    {
+      "year": 1900,
+      "adult(26-40)": 396,
+      "elderly(60+)": 20,
+      "juvenile(under 18)": 22,
+      "middle aged(41-60)": 108,
+      "youth(18-25)": 159
+    },
+    {
+      "year": 1901,
+      "adult(26-40)": 411,
+      "elderly(60+)": 19,
+      "juvenile(under 18)": 16,
+      "middle aged(41-60)": 143,
+      "youth(18-25)": 196
+    },
+    {
+      "year": 1902,
+      "adult(26-40)": 425,
+      "elderly(60+)": 24,
+      "juvenile(under 18)": 25,
+      "middle aged(41-60)": 153,
+      "youth(18-25)": 178
+    },
+    {
+      "year": 1903,
+      "adult(26-40)": 462,
+      "elderly(60+)": 27,
+      "juvenile(under 18)": 19,
+      "middle aged(41-60)": 161,
+      "youth(18-25)": 170
+    },
+    {
+      "year": 1904,
+      "adult(26-40)": 441,
+      "elderly(60+)": 21,
+      "juvenile(under 18)": 18,
+      "middle aged(41-60)": 161,
+      "youth(18-25)": 168
+    },
+    {
+      "year": 1905,
+      "adult(26-40)": 434,
+      "elderly(60+)": 23,
+      "juvenile(under 18)": 15,
+      "middle aged(41-60)": 139,
+      "youth(18-25)": 188
+    },
+    {
+      "year": 1906,
+      "adult(26-40)": 424,
+      "elderly(60+)": 28,
+      "juvenile(under 18)": 21,
+      "middle aged(41-60)": 142,
+      "youth(18-25)": 193
+    },
+    {
+      "year": 1907,
+      "adult(26-40)": 402,
+      "elderly(60+)": 21,
+      "juvenile(under 18)": 16,
+      "middle aged(41-60)": 151,
+      "youth(18-25)": 174
+    },
+    {
+      "year": 1908,
+      "adult(26-40)": 387,
+      "elderly(60+)": 19,
+      "juvenile(under 18)": 17,
+      "middle aged(41-60)": 146,
+      "youth(18-25)": 185
+    },
+    {
+      "year": 1909,
+      "adult(26-40)": 402,
+      "elderly(60+)": 32,
+      "juvenile(under 18)": 17,
+      "middle aged(41-60)": 165,
+      "youth(18-25)": 205
+    },
+    {
+      "year": 1910,
+      "adult(26-40)": 400,
+      "elderly(60+)": 31,
+      "juvenile(under 18)": 13,
+      "middle aged(41-60)": 176,
+      "youth(18-25)": 173
+    },
+    {
+      "year": 1911,
+      "adult(26-40)": 386,
+      "elderly(60+)": 38,
+      "juvenile(under 18)": 11,
+      "middle aged(41-60)": 159,
+      "youth(18-25)": 178
+    },
+    {
+      "year": 1912,
+      "adult(26-40)": 378,
+      "elderly(60+)": 39,
+      "juvenile(under 18)": 14,
+      "middle aged(41-60)": 175,
+      "youth(18-25)": 190
+    },
+    {
+      "year": 1913,
+      "adult(26-40)": 130,
+      "elderly(60+)": 12,
+      "juvenile(under 18)": 4,
+      "middle aged(41-60)": 76,
+      "youth(18-25)": 73
+    }
+  ]
+}

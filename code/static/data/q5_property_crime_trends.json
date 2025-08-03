@@ -1,0 +1,1975 @@
+{
+  "yearly_rates": {
+    "1677.0": {
+      "damage": 0,
+      "deception": 0,
+      "theft": 13,
+      "violentTheft": 0,
+      "total_property": 13,
+      "total_all": 25
+    },
+    "1678.0": {
+      "damage": 0,
+      "deception": 0,
+      "theft": 76,
+      "violentTheft": 6,
+      "total_property": 82,
+      "total_all": 123
+    },
+    "1679.0": {
+      "damage": 4,
+      "deception": 0,
+      "theft": 63,
+      "violentTheft": 8,
+      "total_property": 75,
+      "total_all": 114
+    },
+    "1680.0": {
+      "damage": 1,
+      "deception": 0,
+      "theft": 69,
+      "violentTheft": 4,
+      "total_property": 74,
+      "total_all": 109
+    },
+    "1681.0": {
+      "damage": 0,
+      "deception": 0,
+      "theft": 87,
+      "violentTheft": 6,
+      "total_property": 93,
+      "total_all": 128
+    },
+    "1682.0": {
+      "damage": 0,
+      "deception": 0,
+      "theft": 123,
+      "violentTheft": 6,
+      "total_property": 129,
+      "total_all": 157
+    },
+    "1683.0": {
+      "damage": 0,
+      "deception": 0,
+      "theft": 132,
+      "violentTheft": 8,
+      "total_property": 140,
+      "total_all": 201
+    },
+    "1684.0": {
+      "damage": 0,
+      "deception": 5,
+      "theft": 212,
+      "violentTheft": 11,
+      "total_property": 228,
+      "total_all": 306
+    },
+    "1685.0": {
+      "damage": 0,
+      "deception": 4,
+      "theft": 278,
+      "violentTheft": 9,
+      "total_property": 291,
+      "total_all": 357
+    },
+    "1686.0": {
+      "damage": 0,
+      "deception": 5,
+      "theft": 224,
+      "violentTheft": 8,
+      "total_property": 237,
+      "total_all": 302
+    },
+    "1687.0": {
+      "damage": 3,
+      "deception": 3,
+      "theft": 288,
+      "violentTheft": 9,
+      "total_property": 303,
+      "total_all": 391
+    },
+    "1688.0": {
+      "damage": 0,
+      "deception": 1,
+      "theft": 194,
+      "violentTheft": 8,
+      "total_property": 203,
+      "total_all": 278
+    },
+    "1689.0": {
+      "damage": 2,
+      "deception": 3,
+      "theft": 195,
+      "violentTheft": 17,
+      "total_property": 217,
+      "total_all": 281
+    },
+    "1690.0": {
+      "damage": 1,
+      "deception": 3,
+      "theft": 238,
+      "violentTheft": 12,
+      "total_property": 254,
+      "total_all": 322
+    },
+    "1691.0": {
+      "damage": 0,
+      "deception": 4,
+      "theft": 200,
+      "violentTheft": 19,
+      "total_property": 223,
+      "total_all": 285
+    },
+    "1692.0": {
+      "damage": 0,
+      "deception": 1,
+      "theft": 180,
+      "violentTheft": 14,
+      "total_property": 195,
+      "total_all": 248
+    },
+    "1693.0": {
+      "damage": 0,
+      "deception": 3,
+      "theft": 314,
+      "violentTheft": 22,
+      "total_property": 339,
+      "total_all": 467
+    },
+    "1694.0": {
+      "damage": 0,
+      "deception": 8,
+      "theft": 217,
+      "violentTheft": 19,
+      "total_property": 244,
+      "total_all": 319
+    },
+    "1695.0": {
+      "damage": 0,
+      "deception": 9,
+      "theft": 185,
+      "violentTheft": 17,
+      "total_property": 211,
+      "total_all": 340
+    },
+    "1696.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 191,
+      "violentTheft": 13,
+      "total_property": 217,
+      "total_all": 321
+    },
+    "1697.0": {
+      "damage": 0,
+      "deception": 9,
+      "theft": 213,
+      "violentTheft": 18,
+      "total_property": 240,
+      "total_all": 310
+    },
+    "1698.0": {
+      "damage": 0,
+      "deception": 7,
+      "theft": 272,
+      "violentTheft": 21,
+      "total_property": 300,
+      "total_all": 349
+    },
+    "1699.0": {
+      "damage": 0,
+      "deception": 8,
+      "theft": 149,
+      "violentTheft": 6,
+      "total_property": 163,
+      "total_all": 181
+    },
+    "1700.0": {
+      "damage": 0,
+      "deception": 2,
+      "theft": 102,
+      "violentTheft": 8,
+      "total_property": 112,
+      "total_all": 124
+    },
+    "1702.0": {
+      "damage": 0,
+      "deception": 0,
+      "theft": 60,
+      "violentTheft": 0,
+      "total_property": 60,
+      "total_all": 69
+    },
+    "1703.0": {
+      "damage": 0,
+      "deception": 2,
+      "theft": 54,
+      "violentTheft": 2,
+      "total_property": 58,
+      "total_all": 72
+    },
+    "1704.0": {
+      "damage": 0,
+      "deception": 2,
+      "theft": 95,
+      "violentTheft": 5,
+      "total_property": 102,
+      "total_all": 117
+    },
+    "1707.0": {
+      "damage": 2,
+      "deception": 2,
+      "theft": 135,
+      "violentTheft": 2,
+      "total_property": 141,
+      "total_all": 164
+    },
+    "1708.0": {
+      "damage": 0,
+      "deception": 4,
+      "theft": 129,
+      "violentTheft": 3,
+      "total_property": 136,
+      "total_all": 166
+    },
+    "1709.0": {
+      "damage": 1,
+      "deception": 1,
+      "theft": 85,
+      "violentTheft": 3,
+      "total_property": 90,
+      "total_all": 99
+    },
+    "1710.0": {
+      "damage": 0,
+      "deception": 1,
+      "theft": 151,
+      "violentTheft": 3,
+      "total_property": 155,
+      "total_all": 174
+    },
+    "1711.0": {
+      "damage": 0,
+      "deception": 4,
+      "theft": 145,
+      "violentTheft": 7,
+      "total_property": 156,
+      "total_all": 167
+    },
+    "1712.0": {
+      "damage": 0,
+      "deception": 10,
+      "theft": 147,
+      "violentTheft": 2,
+      "total_property": 159,
+      "total_all": 169
+    },
+    "1713.0": {
+      "damage": 0,
+      "deception": 4,
+      "theft": 98,
+      "violentTheft": 5,
+      "total_property": 107,
+      "total_all": 113
+    },
+    "1714.0": {
+      "damage": 0,
+      "deception": 5,
+      "theft": 238,
+      "violentTheft": 10,
+      "total_property": 253,
+      "total_all": 285
+    },
+    "1715.0": {
+      "damage": 0,
+      "deception": 16,
+      "theft": 385,
+      "violentTheft": 22,
+      "total_property": 423,
+      "total_all": 469
+    },
+    "1716.0": {
+      "damage": 1,
+      "deception": 16,
+      "theft": 336,
+      "violentTheft": 25,
+      "total_property": 378,
+      "total_all": 416
+    },
+    "1717.0": {
+      "damage": 0,
+      "deception": 15,
+      "theft": 330,
+      "violentTheft": 30,
+      "total_property": 375,
+      "total_all": 404
+    },
+    "1718.0": {
+      "damage": 0,
+      "deception": 4,
+      "theft": 333,
+      "violentTheft": 24,
+      "total_property": 361,
+      "total_all": 409
+    },
+    "1719.0": {
+      "damage": 0,
+      "deception": 8,
+      "theft": 320,
+      "violentTheft": 25,
+      "total_property": 353,
+      "total_all": 393
+    },
+    "1720.0": {
+      "damage": 3,
+      "deception": 6,
+      "theft": 322,
+      "violentTheft": 33,
+      "total_property": 364,
+      "total_all": 408
+    },
+    "1721.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 381,
+      "violentTheft": 42,
+      "total_property": 436,
+      "total_all": 489
+    },
+    "1722.0": {
+      "damage": 0,
+      "deception": 14,
+      "theft": 337,
+      "violentTheft": 43,
+      "total_property": 394,
+      "total_all": 435
+    },
+    "1723.0": {
+      "damage": 1,
+      "deception": 10,
+      "theft": 357,
+      "violentTheft": 18,
+      "total_property": 386,
+      "total_all": 424
+    },
+    "1724.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 459,
+      "violentTheft": 19,
+      "total_property": 491,
+      "total_all": 531
+    },
+    "1725.0": {
+      "damage": 0,
+      "deception": 9,
+      "theft": 530,
+      "violentTheft": 26,
+      "total_property": 565,
+      "total_all": 604
+    },
+    "1726.0": {
+      "damage": 1,
+      "deception": 10,
+      "theft": 440,
+      "violentTheft": 24,
+      "total_property": 475,
+      "total_all": 522
+    },
+    "1727.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 382,
+      "violentTheft": 18,
+      "total_property": 413,
+      "total_all": 456
+    },
+    "1728.0": {
+      "damage": 0,
+      "deception": 12,
+      "theft": 398,
+      "violentTheft": 41,
+      "total_property": 451,
+      "total_all": 485
+    },
+    "1729.0": {
+      "damage": 2,
+      "deception": 13,
+      "theft": 490,
+      "violentTheft": 27,
+      "total_property": 532,
+      "total_all": 562
+    },
+    "1730.0": {
+      "damage": 0,
+      "deception": 7,
+      "theft": 455,
+      "violentTheft": 53,
+      "total_property": 515,
+      "total_all": 554
+    },
+    "1731.0": {
+      "damage": 2,
+      "deception": 11,
+      "theft": 435,
+      "violentTheft": 38,
+      "total_property": 486,
+      "total_all": 517
+    },
+    "1732.0": {
+      "damage": 0,
+      "deception": 14,
+      "theft": 390,
+      "violentTheft": 45,
+      "total_property": 449,
+      "total_all": 478
+    },
+    "1733.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 371,
+      "violentTheft": 35,
+      "total_property": 419,
+      "total_all": 441
+    },
+    "1734.0": {
+      "damage": 1,
+      "deception": 6,
+      "theft": 354,
+      "violentTheft": 22,
+      "total_property": 383,
+      "total_all": 411
+    },
+    "1735.0": {
+      "damage": 1,
+      "deception": 9,
+      "theft": 438,
+      "violentTheft": 38,
+      "total_property": 486,
+      "total_all": 529
+    },
+    "1736.0": {
+      "damage": 1,
+      "deception": 9,
+      "theft": 431,
+      "violentTheft": 26,
+      "total_property": 467,
+      "total_all": 489
+    },
+    "1737.0": {
+      "damage": 1,
+      "deception": 11,
+      "theft": 364,
+      "violentTheft": 27,
+      "total_property": 403,
+      "total_all": 436
+    },
+    "1738.0": {
+      "damage": 0,
+      "deception": 9,
+      "theft": 299,
+      "violentTheft": 29,
+      "total_property": 337,
+      "total_all": 358
+    },
+    "1739.0": {
+      "damage": 0,
+      "deception": 7,
+      "theft": 397,
+      "violentTheft": 31,
+      "total_property": 435,
+      "total_all": 459
+    },
+    "1740.0": {
+      "damage": 0,
+      "deception": 6,
+      "theft": 383,
+      "violentTheft": 28,
+      "total_property": 417,
+      "total_all": 440
+    },
+    "1741.0": {
+      "damage": 0,
+      "deception": 4,
+      "theft": 436,
+      "violentTheft": 37,
+      "total_property": 477,
+      "total_all": 499
+    },
+    "1742.0": {
+      "damage": 0,
+      "deception": 14,
+      "theft": 325,
+      "violentTheft": 24,
+      "total_property": 363,
+      "total_all": 392
+    },
+    "1743.0": {
+      "damage": 0,
+      "deception": 8,
+      "theft": 374,
+      "violentTheft": 33,
+      "total_property": 415,
+      "total_all": 447
+    },
+    "1744.0": {
+      "damage": 0,
+      "deception": 14,
+      "theft": 301,
+      "violentTheft": 45,
+      "total_property": 360,
+      "total_all": 383
+    },
+    "1745.0": {
+      "damage": 1,
+      "deception": 9,
+      "theft": 245,
+      "violentTheft": 23,
+      "total_property": 278,
+      "total_all": 300
+    },
+    "1746.0": {
+      "damage": 0,
+      "deception": 6,
+      "theft": 300,
+      "violentTheft": 19,
+      "total_property": 325,
+      "total_all": 348
+    },
+    "1747.0": {
+      "damage": 0,
+      "deception": 2,
+      "theft": 309,
+      "violentTheft": 14,
+      "total_property": 325,
+      "total_all": 355
+    },
+    "1748.0": {
+      "damage": 0,
+      "deception": 8,
+      "theft": 419,
+      "violentTheft": 20,
+      "total_property": 447,
+      "total_all": 481
+    },
+    "1749.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 477,
+      "violentTheft": 55,
+      "total_property": 545,
+      "total_all": 577
+    },
+    "1750.0": {
+      "damage": 0,
+      "deception": 16,
+      "theft": 413,
+      "violentTheft": 67,
+      "total_property": 496,
+      "total_all": 539
+    },
+    "1751.0": {
+      "damage": 0,
+      "deception": 32,
+      "theft": 385,
+      "violentTheft": 42,
+      "total_property": 459,
+      "total_all": 499
+    },
+    "1752.0": {
+      "damage": 0,
+      "deception": 22,
+      "theft": 359,
+      "violentTheft": 30,
+      "total_property": 411,
+      "total_all": 456
+    },
+    "1753.0": {
+      "damage": 0,
+      "deception": 14,
+      "theft": 374,
+      "violentTheft": 39,
+      "total_property": 427,
+      "total_all": 460
+    },
+    "1754.0": {
+      "damage": 0,
+      "deception": 18,
+      "theft": 367,
+      "violentTheft": 25,
+      "total_property": 410,
+      "total_all": 436
+    },
+    "1755.0": {
+      "damage": 0,
+      "deception": 10,
+      "theft": 301,
+      "violentTheft": 19,
+      "total_property": 330,
+      "total_all": 353
+    },
+    "1756.0": {
+      "damage": 0,
+      "deception": 11,
+      "theft": 314,
+      "violentTheft": 15,
+      "total_property": 340,
+      "total_all": 365
+    },
+    "1757.0": {
+      "damage": 1,
+      "deception": 15,
+      "theft": 302,
+      "violentTheft": 15,
+      "total_property": 333,
+      "total_all": 354
+    },
+    "1758.0": {
+      "damage": 0,
+      "deception": 23,
+      "theft": 269,
+      "violentTheft": 13,
+      "total_property": 305,
+      "total_all": 321
+    },
+    "1759.0": {
+      "damage": 0,
+      "deception": 20,
+      "theft": 232,
+      "violentTheft": 10,
+      "total_property": 262,
+      "total_all": 274
+    },
+    "1760.0": {
+      "damage": 0,
+      "deception": 9,
+      "theft": 252,
+      "violentTheft": 6,
+      "total_property": 267,
+      "total_all": 283
+    },
+    "1761.0": {
+      "damage": 1,
+      "deception": 16,
+      "theft": 274,
+      "violentTheft": 8,
+      "total_property": 299,
+      "total_all": 325
+    },
+    "1762.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 252,
+      "violentTheft": 10,
+      "total_property": 275,
+      "total_all": 291
+    },
+    "1763.0": {
+      "damage": 3,
+      "deception": 25,
+      "theft": 336,
+      "violentTheft": 40,
+      "total_property": 404,
+      "total_all": 417
+    },
+    "1764.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 466,
+      "violentTheft": 29,
+      "total_property": 508,
+      "total_all": 523
+    },
+    "1765.0": {
+      "damage": 1,
+      "deception": 18,
+      "theft": 374,
+      "violentTheft": 16,
+      "total_property": 409,
+      "total_all": 426
+    },
+    "1766.0": {
+      "damage": 0,
+      "deception": 18,
+      "theft": 403,
+      "violentTheft": 21,
+      "total_property": 442,
+      "total_all": 464
+    },
+    "1767.0": {
+      "damage": 0,
+      "deception": 14,
+      "theft": 436,
+      "violentTheft": 20,
+      "total_property": 470,
+      "total_all": 486
+    },
+    "1768.0": {
+      "damage": 1,
+      "deception": 14,
+      "theft": 425,
+      "violentTheft": 23,
+      "total_property": 463,
+      "total_all": 496
+    },
+    "1769.0": {
+      "damage": 3,
+      "deception": 25,
+      "theft": 414,
+      "violentTheft": 31,
+      "total_property": 473,
+      "total_all": 495
+    },
+    "1770.0": {
+      "damage": 2,
+      "deception": 6,
+      "theft": 459,
+      "violentTheft": 37,
+      "total_property": 504,
+      "total_all": 532
+    },
+    "1771.0": {
+      "damage": 1,
+      "deception": 15,
+      "theft": 563,
+      "violentTheft": 32,
+      "total_property": 611,
+      "total_all": 640
+    },
+    "1772.0": {
+      "damage": 1,
+      "deception": 22,
+      "theft": 540,
+      "violentTheft": 63,
+      "total_property": 626,
+      "total_all": 661
+    },
+    "1773.0": {
+      "damage": 3,
+      "deception": 20,
+      "theft": 580,
+      "violentTheft": 44,
+      "total_property": 647,
+      "total_all": 673
+    },
+    "1774.0": {
+      "damage": 0,
+      "deception": 15,
+      "theft": 578,
+      "violentTheft": 48,
+      "total_property": 641,
+      "total_all": 673
+    },
+    "1775.0": {
+      "damage": 0,
+      "deception": 20,
+      "theft": 511,
+      "violentTheft": 45,
+      "total_property": 576,
+      "total_all": 617
+    },
+    "1776.0": {
+      "damage": 2,
+      "deception": 15,
+      "theft": 495,
+      "violentTheft": 60,
+      "total_property": 572,
+      "total_all": 608
+    },
+    "1777.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 530,
+      "violentTheft": 28,
+      "total_property": 571,
+      "total_all": 600
+    },
+    "1778.0": {
+      "damage": 0,
+      "deception": 17,
+      "theft": 505,
+      "violentTheft": 42,
+      "total_property": 564,
+      "total_all": 608
+    },
+    "1779.0": {
+      "damage": 3,
+      "deception": 14,
+      "theft": 298,
+      "violentTheft": 29,
+      "total_property": 344,
+      "total_all": 381
+    },
+    "1780.0": {
+      "damage": 5,
+      "deception": 2,
+      "theft": 393,
+      "violentTheft": 44,
+      "total_property": 444,
+      "total_all": 533
+    },
+    "1781.0": {
+      "damage": 1,
+      "deception": 10,
+      "theft": 434,
+      "violentTheft": 59,
+      "total_property": 504,
+      "total_all": 528
+    },
+    "1782.0": {
+      "damage": 2,
+      "deception": 15,
+      "theft": 511,
+      "violentTheft": 57,
+      "total_property": 585,
+      "total_all": 625
+    },
+    "1783.0": {
+      "damage": 1,
+      "deception": 27,
+      "theft": 702,
+      "violentTheft": 96,
+      "total_property": 826,
+      "total_all": 885
+    },
+    "1784.0": {
+      "damage": 3,
+      "deception": 48,
+      "theft": 859,
+      "violentTheft": 100,
+      "total_property": 1010,
+      "total_all": 1056
+    },
+    "1785.0": {
+      "damage": 1,
+      "deception": 42,
+      "theft": 760,
+      "violentTheft": 71,
+      "total_property": 874,
+      "total_all": 916
+    },
+    "1786.0": {
+      "damage": 2,
+      "deception": 36,
+      "theft": 766,
+      "violentTheft": 79,
+      "total_property": 883,
+      "total_all": 932
+    },
+    "1787.0": {
+      "damage": 1,
+      "deception": 32,
+      "theft": 690,
+      "violentTheft": 63,
+      "total_property": 786,
+      "total_all": 825
+    },
+    "1788.0": {
+      "damage": 1,
+      "deception": 26,
+      "theft": 625,
+      "violentTheft": 49,
+      "total_property": 701,
+      "total_all": 741
+    },
+    "1789.0": {
+      "damage": 2,
+      "deception": 20,
+      "theft": 716,
+      "violentTheft": 78,
+      "total_property": 816,
+      "total_all": 851
+    },
+    "1790.0": {
+      "damage": 3,
+      "deception": 25,
+      "theft": 602,
+      "violentTheft": 45,
+      "total_property": 675,
+      "total_all": 723
+    },
+    "1791.0": {
+      "damage": 1,
+      "deception": 9,
+      "theft": 357,
+      "violentTheft": 31,
+      "total_property": 398,
+      "total_all": 421
+    },
+    "1792.0": {
+      "damage": 0,
+      "deception": 12,
+      "theft": 512,
+      "violentTheft": 47,
+      "total_property": 571,
+      "total_all": 591
+    },
+    "1793.0": {
+      "damage": 3,
+      "deception": 18,
+      "theft": 599,
+      "violentTheft": 46,
+      "total_property": 666,
+      "total_all": 705
+    },
+    "1794.0": {
+      "damage": 2,
+      "deception": 23,
+      "theft": 518,
+      "violentTheft": 38,
+      "total_property": 581,
+      "total_all": 626
+    },
+    "1795.0": {
+      "damage": 0,
+      "deception": 18,
+      "theft": 470,
+      "violentTheft": 19,
+      "total_property": 507,
+      "total_all": 536
+    },
+    "1796.0": {
+      "damage": 1,
+      "deception": 18,
+      "theft": 524,
+      "violentTheft": 26,
+      "total_property": 569,
+      "total_all": 633
+    },
+    "1797.0": {
+      "damage": 0,
+      "deception": 25,
+      "theft": 462,
+      "violentTheft": 24,
+      "total_property": 511,
+      "total_all": 554
+    },
+    "1798.0": {
+      "damage": 1,
+      "deception": 22,
+      "theft": 499,
+      "violentTheft": 18,
+      "total_property": 540,
+      "total_all": 597
+    },
+    "1799.0": {
+      "damage": 0,
+      "deception": 16,
+      "theft": 485,
+      "violentTheft": 40,
+      "total_property": 541,
+      "total_all": 586
+    },
+    "1800.0": {
+      "damage": 0,
+      "deception": 13,
+      "theft": 747,
+      "violentTheft": 31,
+      "total_property": 791,
+      "total_all": 837
+    },
+    "1801.0": {
+      "damage": 2,
+      "deception": 19,
+      "theft": 743,
+      "violentTheft": 30,
+      "total_property": 794,
+      "total_all": 835
+    },
+    "1802.0": {
+      "damage": 1,
+      "deception": 15,
+      "theft": 814,
+      "violentTheft": 56,
+      "total_property": 886,
+      "total_all": 913
+    },
+    "1803.0": {
+      "damage": 3,
+      "deception": 16,
+      "theft": 645,
+      "violentTheft": 22,
+      "total_property": 686,
+      "total_all": 745
+    },
+    "1804.0": {
+      "damage": 1,
+      "deception": 24,
+      "theft": 517,
+      "violentTheft": 20,
+      "total_property": 562,
+      "total_all": 599
+    },
+    "1805.0": {
+      "damage": 1,
+      "deception": 19,
+      "theft": 627,
+      "violentTheft": 18,
+      "total_property": 665,
+      "total_all": 727
+    },
+    "1806.0": {
+      "damage": 0,
+      "deception": 20,
+      "theft": 582,
+      "violentTheft": 20,
+      "total_property": 622,
+      "total_all": 658
+    },
+    "1807.0": {
+      "damage": 1,
+      "deception": 17,
+      "theft": 656,
+      "violentTheft": 14,
+      "total_property": 688,
+      "total_all": 743
+    },
+    "1808.0": {
+      "damage": 0,
+      "deception": 12,
+      "theft": 702,
+      "violentTheft": 27,
+      "total_property": 741,
+      "total_all": 775
+    },
+    "1809.0": {
+      "damage": 1,
+      "deception": 10,
+      "theft": 833,
+      "violentTheft": 22,
+      "total_property": 866,
+      "total_all": 928
+    },
+    "1810.0": {
+      "damage": 1,
+      "deception": 11,
+      "theft": 804,
+      "violentTheft": 39,
+      "total_property": 855,
+      "total_all": 912
+    },
+    "1811.0": {
+      "damage": 2,
+      "deception": 21,
+      "theft": 789,
+      "violentTheft": 38,
+      "total_property": 850,
+      "total_all": 926
+    },
+    "1812.0": {
+      "damage": 0,
+      "deception": 21,
+      "theft": 879,
+      "violentTheft": 41,
+      "total_property": 941,
+      "total_all": 1030
+    },
+    "1813.0": {
+      "damage": 3,
+      "deception": 35,
+      "theft": 890,
+      "violentTheft": 46,
+      "total_property": 974,
+      "total_all": 1079
+    },
+    "1814.0": {
+      "damage": 2,
+      "deception": 14,
+      "theft": 905,
+      "violentTheft": 39,
+      "total_property": 960,
+      "total_all": 1080
+    },
+    "1815.0": {
+      "damage": 2,
+      "deception": 18,
+      "theft": 983,
+      "violentTheft": 50,
+      "total_property": 1053,
+      "total_all": 1144
+    },
+    "1816.0": {
+      "damage": 0,
+      "deception": 31,
+      "theft": 1145,
+      "violentTheft": 86,
+      "total_property": 1262,
+      "total_all": 1322
+    },
+    "1817.0": {
+      "damage": 0,
+      "deception": 47,
+      "theft": 1401,
+      "violentTheft": 74,
+      "total_property": 1522,
+      "total_all": 1600
+    },
+    "1818.0": {
+      "damage": 2,
+      "deception": 42,
+      "theft": 1379,
+      "violentTheft": 46,
+      "total_property": 1469,
+      "total_all": 1580
+    },
+    "1819.0": {
+      "damage": 4,
+      "deception": 32,
+      "theft": 1414,
+      "violentTheft": 40,
+      "total_property": 1490,
+      "total_all": 1587
+    },
+    "1820.0": {
+      "damage": 2,
+      "deception": 24,
+      "theft": 1352,
+      "violentTheft": 73,
+      "total_property": 1451,
+      "total_all": 1548
+    },
+    "1821.0": {
+      "damage": 0,
+      "deception": 19,
+      "theft": 1196,
+      "violentTheft": 55,
+      "total_property": 1270,
+      "total_all": 1360
+    },
+    "1822.0": {
+      "damage": 1,
+      "deception": 35,
+      "theft": 1382,
+      "violentTheft": 46,
+      "total_property": 1464,
+      "total_all": 1537
+    },
+    "1823.0": {
+      "damage": 2,
+      "deception": 11,
+      "theft": 1398,
+      "violentTheft": 27,
+      "total_property": 1438,
+      "total_all": 1511
+    },
+    "1824.0": {
+      "damage": 4,
+      "deception": 28,
+      "theft": 1575,
+      "violentTheft": 29,
+      "total_property": 1636,
+      "total_all": 1688
+    },
+    "1825.0": {
+      "damage": 1,
+      "deception": 25,
+      "theft": 1653,
+      "violentTheft": 33,
+      "total_property": 1712,
+      "total_all": 1803
+    },
+    "1826.0": {
+      "damage": 2,
+      "deception": 17,
+      "theft": 1967,
+      "violentTheft": 61,
+      "total_property": 2047,
+      "total_all": 2141
+    },
+    "1827.0": {
+      "damage": 0,
+      "deception": 25,
+      "theft": 2057,
+      "violentTheft": 58,
+      "total_property": 2140,
+      "total_all": 2214
+    },
+    "1828.0": {
+      "damage": 1,
+      "deception": 16,
+      "theft": 2060,
+      "violentTheft": 56,
+      "total_property": 2133,
+      "total_all": 2245
+    },
+    "1829.0": {
+      "damage": 2,
+      "deception": 27,
+      "theft": 1952,
+      "violentTheft": 33,
+      "total_property": 2014,
+      "total_all": 2105
+    },
+    "1830.0": {
+      "damage": 2,
+      "deception": 27,
+      "theft": 1983,
+      "violentTheft": 20,
+      "total_property": 2032,
+      "total_all": 2112
+    },
+    "1831.0": {
+      "damage": 2,
+      "deception": 23,
+      "theft": 2060,
+      "violentTheft": 31,
+      "total_property": 2116,
+      "total_all": 2206
+    },
+    "1832.0": {
+      "damage": 0,
+      "deception": 41,
+      "theft": 2252,
+      "violentTheft": 30,
+      "total_property": 2323,
+      "total_all": 2401
+    },
+    "1833.0": {
+      "damage": 1,
+      "deception": 47,
+      "theft": 1311,
+      "violentTheft": 35,
+      "total_property": 1394,
+      "total_all": 1491
+    },
+    "1834.0": {
+      "damage": 1,
+      "deception": 37,
+      "theft": 1553,
+      "violentTheft": 26,
+      "total_property": 1617,
+      "total_all": 1734
+    },
+    "1835.0": {
+      "damage": 1,
+      "deception": 51,
+      "theft": 1937,
+      "violentTheft": 18,
+      "total_property": 2007,
+      "total_all": 2238
+    },
+    "1836.0": {
+      "damage": 4,
+      "deception": 58,
+      "theft": 2144,
+      "violentTheft": 39,
+      "total_property": 2245,
+      "total_all": 2462
+    },
+    "1837.0": {
+      "damage": 0,
+      "deception": 98,
+      "theft": 2188,
+      "violentTheft": 30,
+      "total_property": 2316,
+      "total_all": 2527
+    },
+    "1838.0": {
+      "damage": 5,
+      "deception": 115,
+      "theft": 2329,
+      "violentTheft": 22,
+      "total_property": 2471,
+      "total_all": 2718
+    },
+    "1839.0": {
+      "damage": 1,
+      "deception": 102,
+      "theft": 2434,
+      "violentTheft": 21,
+      "total_property": 2558,
+      "total_all": 2822
+    },
+    "1840.0": {
+      "damage": 0,
+      "deception": 99,
+      "theft": 2341,
+      "violentTheft": 14,
+      "total_property": 2454,
+      "total_all": 2702
+    },
+    "1841.0": {
+      "damage": 3,
+      "deception": 95,
+      "theft": 2412,
+      "violentTheft": 14,
+      "total_property": 2524,
+      "total_all": 2791
+    },
+    "1842.0": {
+      "damage": 1,
+      "deception": 125,
+      "theft": 2653,
+      "violentTheft": 39,
+      "total_property": 2818,
+      "total_all": 3090
+    },
+    "1843.0": {
+      "damage": 1,
+      "deception": 146,
+      "theft": 2636,
+      "violentTheft": 19,
+      "total_property": 2802,
+      "total_all": 3100
+    },
+    "1844.0": {
+      "damage": 9,
+      "deception": 115,
+      "theft": 2064,
+      "violentTheft": 20,
+      "total_property": 2208,
+      "total_all": 2509
+    },
+    "1845.0": {
+      "damage": 1,
+      "deception": 119,
+      "theft": 1736,
+      "violentTheft": 24,
+      "total_property": 1880,
+      "total_all": 2196
+    },
+    "1846.0": {
+      "damage": 9,
+      "deception": 98,
+      "theft": 1720,
+      "violentTheft": 43,
+      "total_property": 1870,
+      "total_all": 2188
+    },
+    "1847.0": {
+      "damage": 3,
+      "deception": 153,
+      "theft": 2028,
+      "violentTheft": 40,
+      "total_property": 2224,
+      "total_all": 2582
+    },
+    "1848.0": {
+      "damage": 4,
+      "deception": 136,
+      "theft": 1838,
+      "violentTheft": 53,
+      "total_property": 2031,
+      "total_all": 2426
+    },
+    "1849.0": {
+      "damage": 6,
+      "deception": 124,
+      "theft": 1504,
+      "violentTheft": 29,
+      "total_property": 1663,
+      "total_all": 1990
+    },
+    "1850.0": {
+      "damage": 5,
+      "deception": 148,
+      "theft": 1456,
+      "violentTheft": 39,
+      "total_property": 1648,
+      "total_all": 1959
+    },
+    "1851.0": {
+      "damage": 9,
+      "deception": 141,
+      "theft": 1214,
+      "violentTheft": 45,
+      "total_property": 1409,
+      "total_all": 1799
+    },
+    "1852.0": {
+      "damage": 5,
+      "deception": 122,
+      "theft": 542,
+      "violentTheft": 19,
+      "total_property": 688,
+      "total_all": 1079
+    },
+    "1853.0": {
+      "damage": 2,
+      "deception": 137,
+      "theft": 597,
+      "violentTheft": 26,
+      "total_property": 762,
+      "total_all": 1135
+    },
+    "1854.0": {
+      "damage": 11,
+      "deception": 131,
+      "theft": 645,
+      "violentTheft": 22,
+      "total_property": 809,
+      "total_all": 1233
+    },
+    "1855.0": {
+      "damage": 5,
+      "deception": 135,
+      "theft": 501,
+      "violentTheft": 31,
+      "total_property": 672,
+      "total_all": 962
+    },
+    "1856.0": {
+      "damage": 9,
+      "deception": 142,
+      "theft": 578,
+      "violentTheft": 52,
+      "total_property": 781,
+      "total_all": 1108
+    },
+    "1857.0": {
+      "damage": 10,
+      "deception": 118,
+      "theft": 538,
+      "violentTheft": 54,
+      "total_property": 720,
+      "total_all": 1117
+    },
+    "1858.0": {
+      "damage": 6,
+      "deception": 107,
+      "theft": 488,
+      "violentTheft": 47,
+      "total_property": 648,
+      "total_all": 1029
+    },
+    "1859.0": {
+      "damage": 7,
+      "deception": 116,
+      "theft": 439,
+      "violentTheft": 46,
+      "total_property": 608,
+      "total_all": 972
+    },
+    "1860.0": {
+      "damage": 7,
+      "deception": 97,
+      "theft": 437,
+      "violentTheft": 29,
+      "total_property": 570,
+      "total_all": 902
+    },
+    "1861.0": {
+      "damage": 9,
+      "deception": 118,
+      "theft": 438,
+      "violentTheft": 42,
+      "total_property": 607,
+      "total_all": 949
+    },
+    "1862.0": {
+      "damage": 12,
+      "deception": 134,
+      "theft": 531,
+      "violentTheft": 73,
+      "total_property": 750,
+      "total_all": 1160
+    },
+    "1863.0": {
+      "damage": 22,
+      "deception": 137,
+      "theft": 568,
+      "violentTheft": 63,
+      "total_property": 790,
+      "total_all": 1173
+    },
+    "1864.0": {
+      "damage": 8,
+      "deception": 96,
+      "theft": 445,
+      "violentTheft": 72,
+      "total_property": 621,
+      "total_all": 1011
+    },
+    "1865.0": {
+      "damage": 11,
+      "deception": 112,
+      "theft": 461,
+      "violentTheft": 85,
+      "total_property": 669,
+      "total_all": 1013
+    },
+    "1866.0": {
+      "damage": 11,
+      "deception": 113,
+      "theft": 435,
+      "violentTheft": 72,
+      "total_property": 631,
+      "total_all": 975
+    },
+    "1867.0": {
+      "damage": 11,
+      "deception": 117,
+      "theft": 456,
+      "violentTheft": 85,
+      "total_property": 669,
+      "total_all": 981
+    },
+    "1868.0": {
+      "damage": 14,
+      "deception": 128,
+      "theft": 415,
+      "violentTheft": 77,
+      "total_property": 634,
+      "total_all": 1019
+    },
+    "1869.0": {
+      "damage": 17,
+      "deception": 140,
+      "theft": 404,
+      "violentTheft": 77,
+      "total_property": 638,
+      "total_all": 964
+    },
+    "1870.0": {
+      "damage": 14,
+      "deception": 137,
+      "theft": 318,
+      "violentTheft": 64,
+      "total_property": 533,
+      "total_all": 833
+    },
+    "1871.0": {
+      "damage": 14,
+      "deception": 136,
+      "theft": 319,
+      "violentTheft": 68,
+      "total_property": 537,
+      "total_all": 823
+    },
+    "1872.0": {
+      "damage": 11,
+      "deception": 107,
+      "theft": 265,
+      "violentTheft": 57,
+      "total_property": 440,
+      "total_all": 742
+    },
+    "1873.0": {
+      "damage": 5,
+      "deception": 104,
+      "theft": 316,
+      "violentTheft": 37,
+      "total_property": 462,
+      "total_all": 703
+    },
+    "1874.0": {
+      "damage": 6,
+      "deception": 118,
+      "theft": 294,
+      "violentTheft": 39,
+      "total_property": 457,
+      "total_all": 720
+    },
+    "1875.0": {
+      "damage": 11,
+      "deception": 138,
+      "theft": 273,
+      "violentTheft": 28,
+      "total_property": 450,
+      "total_all": 705
+    },
+    "1876.0": {
+      "damage": 16,
+      "deception": 136,
+      "theft": 330,
+      "violentTheft": 56,
+      "total_property": 538,
+      "total_all": 815
+    },
+    "1877.0": {
+      "damage": 13,
+      "deception": 161,
+      "theft": 333,
+      "violentTheft": 48,
+      "total_property": 555,
+      "total_all": 822
+    },
+    "1878.0": {
+      "damage": 14,
+      "deception": 209,
+      "theft": 347,
+      "violentTheft": 64,
+      "total_property": 634,
+      "total_all": 903
+    },
+    "1879.0": {
+      "damage": 24,
+      "deception": 193,
+      "theft": 343,
+      "violentTheft": 56,
+      "total_property": 616,
+      "total_all": 936
+    },
+    "1880.0": {
+      "damage": 21,
+      "deception": 175,
+      "theft": 288,
+      "violentTheft": 55,
+      "total_property": 539,
+      "total_all": 852
+    },
+    "1881.0": {
+      "damage": 24,
+      "deception": 196,
+      "theft": 328,
+      "violentTheft": 65,
+      "total_property": 613,
+      "total_all": 936
+    },
+    "1882.0": {
+      "damage": 18,
+      "deception": 179,
+      "theft": 352,
+      "violentTheft": 95,
+      "total_property": 644,
+      "total_all": 1029
+    },
+    "1883.0": {
+      "damage": 19,
+      "deception": 196,
+      "theft": 353,
+      "violentTheft": 75,
+      "total_property": 643,
+      "total_all": 991
+    },
+    "1884.0": {
+      "damage": 17,
+      "deception": 182,
+      "theft": 383,
+      "violentTheft": 77,
+      "total_property": 659,
+      "total_all": 1124
+    },
+    "1885.0": {
+      "damage": 16,
+      "deception": 183,
+      "theft": 305,
+      "violentTheft": 62,
+      "total_property": 566,
+      "total_all": 948
+    },
+    "1886.0": {
+      "damage": 14,
+      "deception": 184,
+      "theft": 332,
+      "violentTheft": 69,
+      "total_property": 599,
+      "total_all": 1098
+    },
+    "1887.0": {
+      "damage": 22,
+      "deception": 171,
+      "theft": 378,
+      "violentTheft": 65,
+      "total_property": 636,
+      "total_all": 1060
+    },
+    "1888.0": {
+      "damage": 18,
+      "deception": 175,
+      "theft": 386,
+      "violentTheft": 75,
+      "total_property": 654,
+      "total_all": 982
+    },
+    "1889.0": {
+      "damage": 20,
+      "deception": 158,
+      "theft": 354,
+      "violentTheft": 66,
+      "total_property": 598,
+      "total_all": 904
+    },
+    "1890.0": {
+      "damage": 9,
+      "deception": 142,
+      "theft": 284,
+      "violentTheft": 45,
+      "total_property": 480,
+      "total_all": 837
+    },
+    "1891.0": {
+      "damage": 28,
+      "deception": 170,
+      "theft": 308,
+      "violentTheft": 46,
+      "total_property": 552,
+      "total_all": 918
+    },
+    "1892.0": {
+      "damage": 9,
+      "deception": 186,
+      "theft": 354,
+      "violentTheft": 63,
+      "total_property": 612,
+      "total_all": 980
+    },
+    "1893.0": {
+      "damage": 16,
+      "deception": 209,
+      "theft": 324,
+      "violentTheft": 52,
+      "total_property": 601,
+      "total_all": 939
+    },
+    "1894.0": {
+      "damage": 10,
+      "deception": 185,
+      "theft": 330,
+      "violentTheft": 52,
+      "total_property": 577,
+      "total_all": 847
+    },
+    "1895.0": {
+      "damage": 22,
+      "deception": 160,
+      "theft": 325,
+      "violentTheft": 54,
+      "total_property": 561,
+      "total_all": 860
+    },
+    "1896.0": {
+      "damage": 15,
+      "deception": 186,
+      "theft": 293,
+      "violentTheft": 58,
+      "total_property": 552,
+      "total_all": 835
+    },
+    "1897.0": {
+      "damage": 10,
+      "deception": 140,
+      "theft": 206,
+      "violentTheft": 63,
+      "total_property": 419,
+      "total_all": 714
+    },
+    "1898.0": {
+      "damage": 16,
+      "deception": 147,
+      "theft": 205,
+      "violentTheft": 80,
+      "total_property": 448,
+      "total_all": 764
+    },
+    "1899.0": {
+      "damage": 7,
+      "deception": 148,
+      "theft": 195,
+      "violentTheft": 68,
+      "total_property": 418,
+      "total_all": 705
+    },
+    "1900.0": {
+      "damage": 11,
+      "deception": 135,
+      "theft": 218,
+      "violentTheft": 44,
+      "total_property": 408,
+      "total_all": 705
+    },
+    "1901.0": {
+      "damage": 10,
+      "deception": 154,
+      "theft": 251,
+      "violentTheft": 61,
+      "total_property": 476,
+      "total_all": 785
+    },
+    "1902.0": {
+      "damage": 17,
+      "deception": 192,
+      "theft": 227,
+      "violentTheft": 57,
+      "total_property": 493,
+      "total_all": 805
+    },
+    "1903.0": {
+      "damage": 12,
+      "deception": 187,
+      "theft": 248,
+      "violentTheft": 58,
+      "total_property": 505,
+      "total_all": 839
+    },
+    "1904.0": {
+      "damage": 14,
+      "deception": 170,
+      "theft": 259,
+      "violentTheft": 43,
+      "total_property": 486,
+      "total_all": 809
+    },
+    "1905.0": {
+      "damage": 10,
+      "deception": 175,
+      "theft": 242,
+      "violentTheft": 38,
+      "total_property": 465,
+      "total_all": 799
+    },
+    "1906.0": {
+      "damage": 7,
+      "deception": 187,
+      "theft": 229,
+      "violentTheft": 46,
+      "total_property": 469,
+      "total_all": 808
+    },
+    "1907.0": {
+      "damage": 11,
+      "deception": 166,
+      "theft": 241,
+      "violentTheft": 43,
+      "total_property": 461,
+      "total_all": 764
+    },
+    "1908.0": {
+      "damage": 8,
+      "deception": 158,
+      "theft": 241,
+      "violentTheft": 51,
+      "total_property": 458,
+      "total_all": 754
+    },
+    "1909.0": {
+      "damage": 20,
+      "deception": 211,
+      "theft": 237,
+      "violentTheft": 23,
+      "total_property": 491,
+      "total_all": 821
+    },
+    "1910.0": {
+      "damage": 11,
+      "deception": 172,
+      "theft": 250,
+      "violentTheft": 36,
+      "total_property": 469,
+      "total_all": 793
+    },
+    "1911.0": {
+      "damage": 10,
+      "deception": 162,
+      "theft": 256,
+      "violentTheft": 30,
+      "total_property": 458,
+      "total_all": 772
+    },
+    "1912.0": {
+      "damage": 15,
+      "deception": 194,
+      "theft": 240,
+      "violentTheft": 33,
+      "total_property": 482,
+      "total_all": 796
+    },
+    "1913.0": {
+      "damage": 10,
+      "deception": 72,
+      "theft": 96,
+      "violentTheft": 10,
+      "total_property": 188,
+      "total_all": 295
+    }
+  },
+  "economic_periods": [
+    {
+      "start": 1793,
+      "end": 1815,
+      "label": "Grain Crisis & War"
+    },
+    {
+      "start": 1825,
+      "end": 1835,
+      "label": "1825 Financial Crash"
+    },
+    {
+      "start": 1845,
+      "end": 1865,
+      "label": "Famine & Slum Growth"
+    },
+    {
+      "start": 1873,
+      "end": 1896,
+      "label": "Long Depression"
+    },
+    {
+      "start": 1908,
+      "end": 1911,
+      "label": "1908 Recession"
+    }
+  ],
+  "category_proportions": {
+    "crisis": {
+      "1793-1815": {
+        "theft": 0.930203572912339,
+        "violentTheft": 0.042969909193423944,
+        "deception": 0.025224048904979524,
+        "damage": 0.0016024689892575228
+      },
+      "1825-1835": {
+        "theft": 0.965172974228001,
+        "violentTheft": 0.018620849779428836,
+        "deception": 0.015602507545855585,
+        "damage": 0.0006036684467146505
+      },
+      "1845-1865": {
+        "theft": 0.8342551293487958,
+        "deception": 0.11690454950936664,
+        "violentTheft": 0.04165923282783229,
+        "damage": 0.0071810883140053525
+      },
+      "1873-1896": {
+        "theft": 0.5734889114364401,
+        "deception": 0.2968546166111031,
+        "violentTheft": 0.10160892883026526,
+        "damage": 0.028047543122191623
+      },
+      "1908-1911": {
+        "theft": 0.5245202558635395,
+        "deception": 0.3747334754797441,
+        "violentTheft": 0.07462686567164178,
+        "damage": 0.026119402985074626
+      }
+    },
+    "non_crisis": {
+      "1677-1792": {
+        "theft": 0.8970421590620014,
+        "violentTheft": 0.07159871418329826,
+        "deception": 0.02964778797900141,
+        "damage": 0.0017113387756989894
+      },
+      "1816-1824": {
+        "theft": 0.9415474542378096,
+        "violentTheft": 0.03660975234579295,
+        "deception": 0.020689124750038455,
+        "damage": 0.0011536686663590216
+      },
+      "1836-1844": {
+        "theft": 0.9466422575459904,
+        "deception": 0.04255224147169137,
+        "violentTheft": 0.009733881050187533,
+        "damage": 0.0010716199321307376
+      },
+      "1866-1872": {
+        "theft": 0.6398824105830475,
+        "deception": 0.2150906418422342,
+        "violentTheft": 0.1224889759921607,
+        "damage": 0.02253797158255757
+      },
+      "1897-1907": {
+        "theft": 0.499405705229794,
+        "deception": 0.35677496038034867,
+        "violentTheft": 0.11905705229793978,
+        "damage": 0.02476228209191759
+      },
+      "1912-1913": {
+        "theft": 0.5014925373134328,
+        "deception": 0.3970149253731343,
+        "violentTheft": 0.06417910447761194,
+        "damage": 0.03731343283582089
+      }
+    }
+  }
+}
